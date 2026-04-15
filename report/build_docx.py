@@ -50,7 +50,7 @@ class StreamlitProjectReport:
         sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
         meta = self.doc.add_paragraph(
             f"University of Mines and Technology (UMaT)\n{date.today():%B %d, %Y}\n"
-            "GitHub (placeholder): https://github.com/your-team/smart-course-navigator"
+            "GitHub (placeholder): https://github.com/dogahwisdom/smart-course-navigator"
         )
         meta.alignment = WD_ALIGN_PARAGRAPH.CENTER
 

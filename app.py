@@ -38,7 +38,7 @@ with col2:
 st.divider()
 st.markdown(
     """
-    **Repository (placeholder):** https://github.com/your-team/smart-course-navigator  
+    **Repository (placeholder):** https://github.com/dogahwisdom/smart-course-navigator  
     **Tech stack:** Python · Streamlit · scikit-learn · pandas · plotly/matplotlib · joblib
     """
 )
