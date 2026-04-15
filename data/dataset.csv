@@ -1,0 +1,1501 @@
+student_id,program,gpa,course_id,course_name,course_level,course_difficulty,attempts,attendance,credit_load,grade,pass_fail
+STU-0075,Geological Engineering,2.272,GL301,Hydrogeology,200,6.52,2,83.0,3,F,0
+STU-0451,Electrical Engineering,2.541,EE301,Power Systems I,200,7.3,1,91.6,3,B,1
+STU-0428,Electrical Engineering,2.861,EE301,Power Systems I,200,7.62,1,81.4,3,B,1
+STU-0453,Geological Engineering,2.213,GL401,Engineering Geology,300,8.44,1,87.0,3,F,0
+STU-0447,Geological Engineering,2.556,GL401,Engineering Geology,200,6.9,1,100.0,3,B,1
+STU-0086,Mining Engineering,3.371,MN301,Rock Mechanics,200,7.46,1,95.9,3,A,1
+STU-0511,Mining Engineering,3.051,GL401,Engineering Geology,200,6.29,1,75.7,3,A,1
+STU-0469,Geological Engineering,3.439,GL301,Hydrogeology,400,7.02,1,86.7,3,A,1
+STU-0270,Electrical Engineering,2.815,EE301,Power Systems I,400,8.13,1,89.5,3,B,1
+STU-0316,Mechanical Engineering,2.952,ME301,Machine Design,300,7.44,1,73.6,3,B,1
+STU-0117,Geological Engineering,2.556,GL301,Hydrogeology,400,6.9,1,75.7,3,D,1
+STU-0242,Mechanical Engineering,2.552,ME301,Machine Design,300,7.71,1,98.2,3,D,1
+STU-0256,Geological Engineering,2.281,GL301,Hydrogeology,200,7.59,1,96.2,3,C,1
+STU-0518,Geological Engineering,2.253,GL301,Hydrogeology,300,6.58,1,72.1,3,D,1
+STU-0018,Geological Engineering,2.707,GL301,Hydrogeology,300,6.74,1,54.6,3,F,0
+STU-0272,Electrical Engineering,2.992,EE401,Renewable Energy,400,6.63,1,68.8,3,A,1
+STU-0332,Electrical Engineering,2.893,EE301,Power Systems I,200,7.31,1,85.1,3,B,1
+STU-0526,Electrical Engineering,2.545,GL401,Engineering Geology,300,7.22,1,92.2,3,B,1
+STU-0580,Electrical Engineering,2.124,EE401,Renewable Energy,300,6.96,1,64.1,3,D,1
+STU-0505,Geological Engineering,3.454,GL401,Engineering Geology,300,7.39,1,70.7,3,A,1
+STU-0250,Mechanical Engineering,2.583,ME201,Thermodynamics I,200,7.66,1,82.3,3,C,1
+STU-0531,Geological Engineering,2.348,GL401,Engineering Geology,300,7.5,1,83.2,3,F,0
+STU-0427,Electrical Engineering,2.396,EE201,Circuit Theory II,200,7.19,1,92.7,3,D,1
+STU-0156,Electrical Engineering,2.86,ME401,Finite Element Methods,200,7.92,1,77.8,3,B,1
+STU-0162,Geological Engineering,3.123,GL201,Structural Geology,200,6.58,1,91.8,3,A,1
+STU-0518,Geological Engineering,2.89,GL401,Engineering Geology,200,7.73,1,98.3,3,B,1
+STU-0419,Mining Engineering,2.482,MN201,Introduction to Mining,200,5.95,1,75.6,2,D,1
+STU-0066,Geological Engineering,2.394,MN201,Introduction to Mining,400,5.71,1,95.3,2,A,1
+STU-0070,Mechanical Engineering,2.828,ME301,Machine Design,300,7.14,1,73.5,3,F,0
+STU-0317,Mechanical Engineering,2.629,ME201,Thermodynamics I,200,7.12,1,100.0,3,B,1
+STU-0055,Mining Engineering,2.042,MN401,Mine Planning,200,7.78,1,84.8,3,D,1
+STU-0403,Mechanical Engineering,3.418,ME401,Finite Element Methods,300,7.66,1,82.2,3,A,1
+STU-0073,Mechanical Engineering,3.059,ME301,Machine Design,300,6.86,1,92.4,3,F,0
+STU-0455,Mechanical Engineering,3.547,ME401,Finite Element Methods,200,7.55,1,98.9,3,F,0
+STU-0336,Geological Engineering,2.397,GL301,Hydrogeology,400,6.27,1,79.7,3,B,1
+STU-0584,Mechanical Engineering,3.171,ME201,Thermodynamics I,400,7.5,1,78.4,3,A,1
+STU-0144,Mining Engineering,2.802,MN201,Introduction to Mining,200,5.68,1,76.7,2,F,0
+STU-0222,Electrical Engineering,2.069,EE301,Power Systems I,400,6.83,1,76.3,3,F,0
+STU-0166,Electrical Engineering,3.338,EE201,Circuit Theory II,400,6.78,1,79.1,3,A,1
+STU-0073,Mechanical Engineering,3.152,ME401,Finite Element Methods,200,8.53,1,85.0,3,B,1
+STU-0474,Mechanical Engineering,3.055,ME401,Finite Element Methods,300,7.91,1,82.7,3,A,1
+STU-0511,Mining Engineering,2.606,MN401,Mine Planning,300,7.95,3,71.2,3,F,0
+STU-0339,Mechanical Engineering,2.44,ME301,Machine Design,300,7.14,1,84.2,3,C,1
+STU-0312,Mechanical Engineering,2.239,ME201,Thermodynamics I,400,7.27,1,90.4,3,F,0
+STU-0587,Electrical Engineering,2.89,EE201,Circuit Theory II,300,6.63,1,84.9,3,A,1
+STU-0049,Mining Engineering,2.352,MN201,Introduction to Mining,300,5.98,1,81.2,2,B,1
+STU-0480,Mechanical Engineering,2.53,ME301,Machine Design,300,7.34,1,73.9,3,C,1
+STU-0145,Geological Engineering,2.356,GL401,Engineering Geology,200,7.42,1,71.0,3,F,0
+STU-0027,Mining Engineering,1.923,MN301,Rock Mechanics,300,7.15,1,73.0,3,F,0
+STU-0454,Geological Engineering,2.987,MN401,Mine Planning,200,7.53,1,74.9,3,F,0
+STU-0218,Geological Engineering,3.398,GL201,Structural Geology,400,6.98,1,79.0,3,B,1
+STU-0592,Electrical Engineering,3.194,EE301,Power Systems I,200,8.2,1,69.9,3,A,1
+STU-0353,Mining Engineering,2.718,MN401,Mine Planning,400,7.86,3,66.3,3,D,1
+STU-0411,Mining Engineering,2.175,MN201,Introduction to Mining,400,6.55,1,84.5,2,C,1
+STU-0103,Mining Engineering,2.92,MN201,Introduction to Mining,300,6.26,1,78.8,2,A,1
+STU-0322,Mechanical Engineering,2.163,ME401,Finite Element Methods,300,7.78,1,64.9,3,F,0
+STU-0301,Mechanical Engineering,2.959,GL401,Engineering Geology,300,7.1,1,78.4,3,A,1
+STU-0558,Mining Engineering,2.908,MN201,Introduction to Mining,300,6.79,1,70.8,2,A,1
+STU-0283,Electrical Engineering,2.996,EE201,Circuit Theory II,400,6.83,1,90.9,3,A,1
+STU-0279,Electrical Engineering,3.026,EE201,Circuit Theory II,200,6.74,1,91.3,3,A,1
+STU-0056,Mining Engineering,2.452,MN201,Introduction to Mining,200,6.12,1,100.0,2,B,1
+STU-0256,Mining Engineering,3.109,MN401,Mine Planning,300,7.85,1,100.0,3,B,1
+STU-0498,Geological Engineering,3.195,GL201,Structural Geology,300,6.41,3,76.6,3,F,0
+STU-0282,Mining Engineering,2.559,MN201,Introduction to Mining,200,6.04,1,79.1,2,D,1
+STU-0274,Geological Engineering,3.07,GL401,Engineering Geology,400,7.19,1,86.8,3,A,1
+STU-0520,Geological Engineering,3.368,GL201,Structural Geology,300,6.16,1,69.9,3,A,1
+STU-0367,Mechanical Engineering,2.83,ME201,Thermodynamics I,400,7.3,1,86.6,3,B,1
+STU-0030,Electrical Engineering,2.777,EE401,Renewable Energy,200,6.5,1,64.9,3,A,1
+STU-0226,Mechanical Engineering,3.532,ME201,Thermodynamics I,200,6.74,1,63.2,3,D,1
+STU-0326,Electrical Engineering,2.994,EE301,Power Systems I,300,7.05,1,72.6,3,B,1
+STU-0140,Mining Engineering,3.23,MN401,Mine Planning,200,8.24,1,100.0,3,A,1
+STU-0202,Mechanical Engineering,2.136,ME401,Finite Element Methods,300,8.32,1,67.4,3,F,0
+STU-0463,Mechanical Engineering,2.661,ME301,Machine Design,300,7.08,1,94.4,3,B,1
+STU-0510,Mechanical Engineering,2.419,ME301,Machine Design,200,7.61,1,62.8,3,D,1
+STU-0523,Electrical Engineering,2.295,EE201,Circuit Theory II,300,6.93,2,92.2,3,D,1
+STU-0334,Mechanical Engineering,2.769,EE301,Power Systems I,300,7.71,1,100.0,3,B,1
+STU-0450,Geological Engineering,2.631,GL201,Structural Geology,200,6.65,1,91.7,3,F,0
+STU-0025,Mining Engineering,2.835,MN201,Introduction to Mining,200,6.6,1,83.5,2,B,1
+STU-0584,Geological Engineering,2.353,GL401,Engineering Geology,400,7.69,1,100.0,3,D,1
+STU-0185,Electrical Engineering,3.17,EE201,Circuit Theory II,200,7.0,2,79.8,3,D,1
+STU-0397,Mining Engineering,2.673,MN301,Rock Mechanics,300,7.2,1,68.0,3,B,1
+STU-0260,Geological Engineering,3.139,GL301,Hydrogeology,200,6.56,1,81.3,3,A,1
+STU-0548,Electrical Engineering,3.048,EE301,Power Systems I,200,8.06,1,76.5,3,F,0
+STU-0287,Mining Engineering,2.171,MN301,Rock Mechanics,300,7.74,1,81.5,3,D,1
+STU-0087,Geological Engineering,3.426,GL301,Hydrogeology,200,6.56,1,81.6,3,A,1
+STU-0232,Mining Engineering,1.596,MN401,Mine Planning,400,7.62,1,85.3,3,D,1
+STU-0234,Mechanical Engineering,2.088,ME401,Finite Element Methods,200,8.21,1,81.8,3,F,0
+STU-0216,Mechanical Engineering,2.175,ME301,Machine Design,400,7.1,2,88.4,3,F,0
+STU-0572,Mining Engineering,2.396,MN201,Introduction to Mining,300,6.29,1,76.4,2,F,0
+STU-0542,Geological Engineering,2.105,GL401,Engineering Geology,200,7.91,1,79.8,3,F,0
+STU-0249,Mining Engineering,1.948,MN201,Introduction to Mining,300,6.34,1,79.3,2,C,1
+STU-0440,Mechanical Engineering,2.966,ME301,Machine Design,300,7.72,1,78.2,3,A,1
+STU-0185,Mining Engineering,3.243,GL401,Engineering Geology,200,7.24,1,90.8,3,A,1
+STU-0516,Mining Engineering,3.481,MN401,Mine Planning,400,8.11,1,79.5,3,A,1
+STU-0444,Mechanical Engineering,2.756,ME201,Thermodynamics I,200,6.91,1,79.6,3,A,1
+STU-0514,Electrical Engineering,2.549,EE301,Power Systems I,300,7.71,1,82.8,3,F,0
+STU-0142,Geological Engineering,2.412,GL401,Engineering Geology,300,6.94,1,77.6,3,D,1
+STU-0300,Electrical Engineering,2.728,EE401,Renewable Energy,200,6.74,1,72.0,3,A,1
+STU-0188,Mechanical Engineering,2.08,GL301,Hydrogeology,300,7.3,1,76.4,3,C,1
+STU-0329,Mechanical Engineering,2.542,GL301,Hydrogeology,200,6.67,1,89.1,3,F,0
+STU-0111,Geological Engineering,2.386,GL301,Hydrogeology,400,6.66,1,86.1,3,F,0
+STU-0409,Mining Engineering,2.477,MN401,Mine Planning,300,8.34,1,100.0,3,C,1
+STU-0499,Geological Engineering,2.205,GL401,Engineering Geology,200,6.91,1,93.7,3,F,0
+STU-0284,Electrical Engineering,2.197,EE201,Circuit Theory II,200,6.85,1,99.2,3,C,1
+STU-0223,Mining Engineering,3.337,MN401,Mine Planning,200,8.05,1,73.2,3,F,0
+STU-0584,Mining Engineering,2.9,MN201,Introduction to Mining,200,5.9,1,85.8,2,B,1
+STU-0267,Mechanical Engineering,2.285,ME201,Thermodynamics I,200,7.19,1,64.9,3,F,0
+STU-0328,Mining Engineering,3.491,MN301,Rock Mechanics,400,7.27,1,92.5,3,A,1
+STU-0072,Geological Engineering,2.09,GL201,Structural Geology,300,6.28,1,66.6,3,D,1
+STU-0486,Electrical Engineering,3.15,EE401,Renewable Energy,200,6.66,1,70.1,3,A,1
+STU-0460,Mining Engineering,2.598,ME401,Finite Element Methods,300,8.24,1,84.2,3,F,0
+STU-0575,Mechanical Engineering,2.187,ME201,Thermodynamics I,300,7.02,1,87.5,3,F,0
+STU-0250,Electrical Engineering,2.572,EE201,Circuit Theory II,200,6.62,1,85.1,3,D,1
+STU-0450,Mechanical Engineering,2.977,ME201,Thermodynamics I,400,6.15,1,82.5,3,A,1
+STU-0595,Mining Engineering,2.469,ME301,Machine Design,200,7.63,1,74.8,3,C,1
+STU-0356,Mining Engineering,2.952,MN401,Mine Planning,400,8.14,1,80.4,3,B,1
+STU-0443,Electrical Engineering,2.108,EE301,Power Systems I,300,7.3,1,78.0,3,F,0
+STU-0113,Mining Engineering,2.794,MN201,Introduction to Mining,400,6.59,1,75.6,2,B,1
+STU-0098,Geological Engineering,2.745,GL301,Hydrogeology,300,7.32,1,78.2,3,B,1
+STU-0298,Mining Engineering,2.774,MN301,Rock Mechanics,300,7.15,1,71.8,3,B,1
+STU-0554,Electrical Engineering,3.811,EE301,Power Systems I,300,7.65,1,83.6,3,A,1
+STU-0514,Mechanical Engineering,2.381,ME201,Thermodynamics I,300,6.85,1,71.2,3,F,0
+STU-0293,Mechanical Engineering,2.449,ME401,Finite Element Methods,400,8.33,1,90.5,3,B,1
+STU-0537,Mining Engineering,2.278,MN401,Mine Planning,300,7.5,2,84.7,3,D,1
+STU-0145,Mining Engineering,3.432,MN301,Rock Mechanics,200,8.21,1,74.9,3,A,1
+STU-0120,Electrical Engineering,2.652,EE301,Power Systems I,200,7.31,1,100.0,3,D,1
+STU-0197,Electrical Engineering,2.407,EE201,Circuit Theory II,400,6.42,1,70.5,3,D,1
+STU-0192,Mechanical Engineering,2.507,ME201,Thermodynamics I,200,7.43,1,94.7,3,D,1
+STU-0229,Geological Engineering,2.834,EE301,Power Systems I,300,7.71,1,91.2,3,B,1
+STU-0491,Mining Engineering,2.861,MN201,Introduction to Mining,400,6.08,1,78.1,2,B,1
+STU-0403,Electrical Engineering,1.901,EE201,Circuit Theory II,300,6.88,1,94.3,3,F,0
+STU-0503,Geological Engineering,2.921,GL201,Structural Geology,300,7.02,1,95.2,3,F,0
+STU-0140,Electrical Engineering,3.111,EE301,Power Systems I,300,8.3,1,65.2,3,B,1
+STU-0401,Mechanical Engineering,3.846,ME301,Machine Design,200,7.3,1,77.5,3,A,1
+STU-0045,Mechanical Engineering,2.841,ME301,Machine Design,300,7.57,1,79.9,3,F,0
+STU-0563,Mechanical Engineering,2.316,ME301,Machine Design,400,7.09,1,100.0,3,F,0
+STU-0566,Mining Engineering,2.764,MN401,Mine Planning,200,7.54,1,78.7,3,B,1
+STU-0286,Mechanical Engineering,3.675,ME301,Machine Design,200,7.73,1,81.3,3,A,1
+STU-0416,Mining Engineering,2.639,MN401,Mine Planning,200,7.52,1,80.3,3,C,1
+STU-0011,Mining Engineering,2.586,MN401,Mine Planning,200,7.58,1,75.6,3,C,1
+STU-0382,Mechanical Engineering,3.346,ME301,Machine Design,200,7.07,1,58.8,3,A,1
+STU-0114,Mechanical Engineering,2.453,ME301,Machine Design,300,8.03,1,94.8,3,F,0
+STU-0406,Electrical Engineering,2.81,EE301,Power Systems I,300,8.11,1,65.6,3,C,1
+STU-0513,Geological Engineering,2.874,GL401,Engineering Geology,400,6.96,1,80.4,3,B,1
+STU-0121,Mechanical Engineering,2.727,ME201,Thermodynamics I,300,6.93,1,82.0,3,B,1
+STU-0502,Electrical Engineering,2.586,EE201,Circuit Theory II,200,7.18,1,82.4,3,C,1
+STU-0307,Electrical Engineering,2.6,EE301,Power Systems I,300,7.81,1,86.0,3,B,1
+STU-0058,Geological Engineering,2.183,GL201,Structural Geology,300,6.91,1,85.2,3,B,1
+STU-0002,Mechanical Engineering,2.723,ME401,Finite Element Methods,400,8.05,1,83.8,3,B,1
+STU-0501,Mechanical Engineering,2.269,ME201,Thermodynamics I,300,7.17,1,82.1,3,D,1
+STU-0141,Geological Engineering,3.021,MN401,Mine Planning,300,7.91,1,68.8,3,B,1
+STU-0252,Geological Engineering,3.736,GL401,Engineering Geology,300,7.35,1,100.0,3,A,1
+STU-0188,Electrical Engineering,2.724,EE401,Renewable Energy,200,6.39,1,67.2,3,B,1
+STU-0338,Mining Engineering,2.396,EE201,Circuit Theory II,300,6.49,1,77.1,3,F,0
+STU-0280,Electrical Engineering,2.637,EE301,Power Systems I,200,7.49,1,96.7,3,B,1
+STU-0200,Electrical Engineering,2.115,EE401,Renewable Energy,300,7.07,1,84.5,3,D,1
+STU-0165,Mechanical Engineering,2.901,ME201,Thermodynamics I,300,6.72,1,89.6,3,A,1
+STU-0388,Geological Engineering,2.603,GL301,Hydrogeology,300,6.99,1,75.2,3,F,0
+STU-0122,Geological Engineering,2.892,GL401,Engineering Geology,200,7.15,1,63.0,3,C,1
+STU-0325,Geological Engineering,3.252,GL301,Hydrogeology,300,6.98,1,80.4,3,A,1
+STU-0599,Mining Engineering,1.924,MN301,Rock Mechanics,200,7.57,2,93.8,3,F,0
+STU-0159,Mining Engineering,2.768,MN401,Mine Planning,200,7.55,1,63.0,3,C,1
+STU-0288,Electrical Engineering,2.801,EE201,Circuit Theory II,300,7.6,1,98.6,3,B,1
+STU-0131,Mining Engineering,2.69,MN201,Introduction to Mining,200,5.62,1,71.2,2,B,1
+STU-0324,Geological Engineering,3.113,GL401,Engineering Geology,300,7.1,1,70.5,3,A,1
+STU-0410,Electrical Engineering,3.026,GL201,Structural Geology,200,7.3,1,88.2,3,B,1
+STU-0162,Geological Engineering,2.487,GL201,Structural Geology,200,6.23,1,82.0,3,C,1
+STU-0258,Mechanical Engineering,2.188,ME401,Finite Element Methods,200,7.88,1,75.1,3,F,0
+STU-0317,Mining Engineering,3.086,MN201,Introduction to Mining,300,5.96,1,79.7,2,A,1
+STU-0545,Mining Engineering,2.632,MN401,Mine Planning,300,7.66,1,67.4,3,D,1
+STU-0369,Electrical Engineering,2.612,EE201,Circuit Theory II,300,7.32,1,100.0,3,F,0
+STU-0588,Mining Engineering,2.614,GL201,Structural Geology,300,6.77,1,70.0,3,F,0
+STU-0356,Electrical Engineering,3.111,EE301,Power Systems I,200,7.8,1,73.5,3,B,1
+STU-0074,Geological Engineering,4.0,GL201,Structural Geology,200,6.7,3,65.4,3,A,1
+STU-0077,Geological Engineering,2.932,GL401,Engineering Geology,300,7.06,1,100.0,3,B,1
+STU-0395,Mechanical Engineering,2.478,ME401,Finite Element Methods,300,8.25,1,59.0,3,D,1
+STU-0449,Electrical Engineering,2.388,EE201,Circuit Theory II,300,7.41,1,76.8,3,F,0
+STU-0584,Mechanical Engineering,3.178,ME401,Finite Element Methods,300,8.55,1,79.5,3,A,1
+STU-0580,Mining Engineering,2.34,ME201,Thermodynamics I,200,7.24,1,88.4,3,F,0
+STU-0107,Geological Engineering,2.167,GL301,Hydrogeology,200,7.07,1,78.3,3,F,0
+STU-0189,Electrical Engineering,2.885,EE301,Power Systems I,300,7.06,2,69.6,3,B,1
+STU-0397,Mining Engineering,3.301,MN401,Mine Planning,400,6.83,1,92.1,3,A,1
+STU-0136,Mining Engineering,2.707,MN301,Rock Mechanics,400,7.67,1,74.4,3,F,0
+STU-0576,Mechanical Engineering,2.435,ME301,Machine Design,300,7.72,2,82.4,3,F,0
+STU-0159,Mechanical Engineering,2.857,ME401,Finite Element Methods,300,8.46,1,90.4,3,B,1
+STU-0086,Mechanical Engineering,2.519,ME301,Machine Design,200,7.41,1,95.3,3,B,1
+STU-0583,Electrical Engineering,3.149,EE301,Power Systems I,200,7.43,1,81.1,3,A,1
+STU-0261,Mining Engineering,2.464,MN201,Introduction to Mining,400,6.83,1,89.7,2,B,1
+STU-0202,Mining Engineering,3.624,MN401,Mine Planning,300,7.57,1,53.7,3,A,1
+STU-0229,Mechanical Engineering,3.024,ME301,Machine Design,200,7.49,1,90.1,3,A,1
+STU-0450,Mechanical Engineering,2.811,ME201,Thermodynamics I,300,6.94,1,79.1,3,A,1
+STU-0062,Electrical Engineering,2.451,EE201,Circuit Theory II,200,7.37,1,92.9,3,D,1
+STU-0572,Mining Engineering,1.686,MN201,Introduction to Mining,200,6.04,1,100.0,2,D,1
+STU-0174,Electrical Engineering,3.093,EE201,Circuit Theory II,300,7.35,1,76.9,3,A,1
+STU-0248,Mining Engineering,3.456,MN301,Rock Mechanics,300,7.67,1,100.0,3,A,1
+STU-0288,Mechanical Engineering,3.195,ME201,Thermodynamics I,300,6.43,1,73.3,3,A,1
+STU-0558,Electrical Engineering,1.993,EE301,Power Systems I,300,7.67,1,68.6,3,D,1
+STU-0357,Electrical Engineering,2.528,EE301,Power Systems I,300,7.29,1,77.5,3,B,1
+STU-0475,Geological Engineering,2.52,GL201,Structural Geology,300,7.13,1,52.9,3,D,1
+STU-0335,Mining Engineering,2.878,MN401,Mine Planning,400,7.73,1,99.0,3,A,1
+STU-0389,Mechanical Engineering,3.396,ME201,Thermodynamics I,300,6.8,1,73.0,3,A,1
+STU-0442,Mechanical Engineering,2.209,ME301,Machine Design,300,7.39,1,84.9,3,F,0
+STU-0159,Electrical Engineering,3.327,EE201,Circuit Theory II,200,6.7,1,87.4,3,A,1
+STU-0368,Mining Engineering,2.665,MN401,Mine Planning,300,7.77,1,91.0,3,C,1
+STU-0581,Geological Engineering,3.013,GL401,Engineering Geology,200,7.34,1,57.9,3,B,1
+STU-0205,Mining Engineering,2.713,MN401,Mine Planning,200,7.66,1,76.7,3,C,1
+STU-0325,Electrical Engineering,2.147,EE301,Power Systems I,200,8.19,1,59.3,3,F,0
+STU-0133,Mechanical Engineering,2.101,ME201,Thermodynamics I,200,7.05,2,80.7,3,F,0
+STU-0443,Geological Engineering,3.356,GL401,Engineering Geology,300,7.28,1,87.4,3,A,1
+STU-0461,Electrical Engineering,2.442,EE401,Renewable Energy,200,7.28,1,85.3,3,F,0
+STU-0112,Mechanical Engineering,2.574,ME401,Finite Element Methods,300,7.96,1,79.9,3,B,1
+STU-0238,Geological Engineering,2.692,EE401,Renewable Energy,300,7.0,1,70.8,3,C,1
+STU-0161,Mining Engineering,2.684,MN301,Rock Mechanics,200,7.74,1,65.6,3,B,1
+STU-0596,Mechanical Engineering,2.997,ME201,Thermodynamics I,200,6.56,1,81.8,3,A,1
+STU-0035,Electrical Engineering,2.954,EE201,Circuit Theory II,300,6.38,1,79.3,3,A,1
+STU-0093,Mining Engineering,3.345,MN301,Rock Mechanics,300,7.31,1,67.7,3,A,1
+STU-0266,Mechanical Engineering,3.296,ME401,Finite Element Methods,300,7.74,1,91.3,3,A,1
+STU-0318,Mechanical Engineering,2.732,ME301,Machine Design,300,7.49,1,53.7,3,A,1
+STU-0311,Mining Engineering,2.524,MN301,Rock Mechanics,300,6.94,2,96.5,3,F,0
+STU-0120,Mining Engineering,3.198,MN301,Rock Mechanics,200,7.24,1,85.5,3,A,1
+STU-0242,Geological Engineering,2.662,GL401,Engineering Geology,300,7.61,1,96.4,3,A,1
+STU-0535,Mechanical Engineering,2.445,ME401,Finite Element Methods,300,8.04,1,100.0,3,B,1
+STU-0441,Mechanical Engineering,2.74,ME401,Finite Element Methods,200,7.86,1,81.8,3,A,1
+STU-0480,Electrical Engineering,2.816,EE301,Power Systems I,300,7.13,1,59.3,3,A,1
+STU-0297,Mechanical Engineering,3.303,ME201,Thermodynamics I,200,6.89,1,65.3,3,A,1
+STU-0273,Mechanical Engineering,2.285,ME301,Machine Design,200,7.26,1,63.2,3,D,1
+STU-0402,Mechanical Engineering,3.535,ME401,Finite Element Methods,200,8.05,1,91.9,3,A,1
+STU-0527,Geological Engineering,2.23,GL301,Hydrogeology,400,6.26,1,69.1,3,F,0
+STU-0294,Mechanical Engineering,2.99,ME201,Thermodynamics I,400,6.67,1,70.9,3,A,1
+STU-0347,Geological Engineering,2.668,GL401,Engineering Geology,200,7.09,1,100.0,3,B,1
+STU-0055,Mining Engineering,2.445,MN301,Rock Mechanics,300,6.8,1,77.4,3,B,1
+STU-0015,Geological Engineering,2.541,GL201,Structural Geology,300,6.92,1,66.8,3,C,1
+STU-0045,Geological Engineering,2.719,GL201,Structural Geology,300,6.81,1,82.9,3,F,0
+STU-0030,Geological Engineering,3.051,GL401,Engineering Geology,200,7.02,1,84.6,3,A,1
+STU-0549,Mining Engineering,2.476,MN301,Rock Mechanics,300,7.55,1,76.0,3,C,1
+STU-0537,Mining Engineering,2.691,MN301,Rock Mechanics,400,7.34,1,100.0,3,C,1
+STU-0557,Mining Engineering,1.782,MN301,Rock Mechanics,200,6.87,2,82.9,3,F,0
+STU-0342,Mining Engineering,3.02,MN301,Rock Mechanics,300,7.14,1,71.4,3,A,1
+STU-0001,Electrical Engineering,2.591,EE401,Renewable Energy,200,6.97,2,72.6,3,F,0
+STU-0134,Geological Engineering,2.448,GL201,Structural Geology,200,6.58,1,93.8,3,D,1
+STU-0417,Mechanical Engineering,2.133,ME401,Finite Element Methods,400,8.24,1,83.2,3,C,1
+STU-0484,Mechanical Engineering,2.676,ME401,Finite Element Methods,300,7.93,1,77.5,3,F,0
+STU-0096,Geological Engineering,2.591,GL401,Engineering Geology,300,6.94,1,80.4,3,F,0
+STU-0563,Mechanical Engineering,2.627,ME401,Finite Element Methods,300,7.92,1,89.4,3,F,0
+STU-0453,Mining Engineering,2.716,MN401,Mine Planning,200,7.59,1,87.8,3,D,1
+STU-0271,Electrical Engineering,3.279,EE401,Renewable Energy,400,7.05,1,96.3,3,A,1
+STU-0452,Geological Engineering,2.696,GL401,Engineering Geology,300,7.37,1,76.6,3,B,1
+STU-0522,Mining Engineering,2.887,MN401,Mine Planning,200,7.71,1,68.7,3,C,1
+STU-0481,Mining Engineering,2.669,MN401,Mine Planning,300,7.78,1,93.9,3,B,1
+STU-0539,Electrical Engineering,2.783,EE301,Power Systems I,300,8.22,2,78.2,3,D,1
+STU-0378,Mechanical Engineering,2.604,ME301,Machine Design,200,7.33,1,100.0,3,C,1
+STU-0078,Mining Engineering,3.01,MN301,Rock Mechanics,300,7.74,1,80.0,3,A,1
+STU-0372,Geological Engineering,2.724,GL201,Structural Geology,400,6.64,1,61.8,3,F,0
+STU-0164,Mechanical Engineering,2.724,ME201,Thermodynamics I,400,7.11,1,71.3,3,B,1
+STU-0267,Mining Engineering,2.779,MN401,Mine Planning,200,7.58,1,54.1,3,F,0
+STU-0237,Mining Engineering,2.985,MN401,Mine Planning,300,7.72,1,77.9,3,A,1
+STU-0527,Geological Engineering,2.275,MN401,Mine Planning,200,7.22,2,81.4,3,F,0
+STU-0160,Electrical Engineering,3.023,EE301,Power Systems I,300,7.9,1,88.5,3,B,1
+STU-0058,Geological Engineering,2.281,GL201,Structural Geology,400,6.27,1,71.2,3,F,0
+STU-0292,Electrical Engineering,1.82,EE301,Power Systems I,200,7.57,1,84.9,3,F,0
+STU-0401,Geological Engineering,2.456,GL301,Hydrogeology,400,6.91,1,59.0,3,C,1
+STU-0198,Mining Engineering,2.49,MN301,Rock Mechanics,200,8.14,1,100.0,3,D,1
+STU-0282,Geological Engineering,2.254,ME401,Finite Element Methods,300,8.03,1,65.5,3,F,0
+STU-0487,Geological Engineering,2.697,GL301,Hydrogeology,200,7.13,1,65.9,3,C,1
+STU-0559,Mechanical Engineering,2.844,ME401,Finite Element Methods,200,7.27,1,76.6,3,F,0
+STU-0104,Electrical Engineering,3.248,EE201,Circuit Theory II,200,6.84,1,71.8,3,A,1
+STU-0168,Mechanical Engineering,3.026,ME301,Machine Design,300,7.45,3,88.0,3,C,1
+STU-0347,Mechanical Engineering,2.894,ME401,Finite Element Methods,300,8.2,1,80.9,3,B,1
+STU-0111,Electrical Engineering,2.763,EE201,Circuit Theory II,300,6.27,1,80.4,3,D,1
+STU-0382,Electrical Engineering,1.866,EE301,Power Systems I,300,7.41,1,82.1,3,F,0
+STU-0374,Mining Engineering,2.406,MN201,Introduction to Mining,300,6.43,1,76.4,2,D,1
+STU-0577,Geological Engineering,2.982,ME301,Machine Design,300,6.88,1,97.3,3,A,1
+STU-0077,Mechanical Engineering,3.091,ME401,Finite Element Methods,200,7.92,1,66.5,3,A,1
+STU-0236,Mechanical Engineering,2.515,ME301,Machine Design,300,7.5,1,69.2,3,D,1
+STU-0230,Mechanical Engineering,2.322,ME201,Thermodynamics I,400,6.88,1,76.0,3,F,0
+STU-0407,Mining Engineering,3.447,MN201,Introduction to Mining,200,6.09,1,82.6,2,F,0
+STU-0058,Geological Engineering,2.394,GL301,Hydrogeology,300,7.18,1,62.7,3,C,1
+STU-0030,Mining Engineering,1.657,MN201,Introduction to Mining,200,6.28,1,83.8,2,F,0
+STU-0262,Geological Engineering,2.661,GL401,Engineering Geology,300,7.13,1,86.8,3,B,1
+STU-0121,Geological Engineering,2.956,GL401,Engineering Geology,400,6.9,1,78.7,3,A,1
+STU-0002,Mining Engineering,2.991,MN301,Rock Mechanics,200,7.43,1,98.4,3,A,1
+STU-0344,Geological Engineering,3.127,EE201,Circuit Theory II,300,6.92,2,89.2,3,B,1
+STU-0362,Mechanical Engineering,2.606,ME201,Thermodynamics I,200,7.47,1,99.1,3,C,1
+STU-0344,Mechanical Engineering,3.029,ME201,Thermodynamics I,300,6.96,1,79.7,3,A,1
+STU-0414,Electrical Engineering,2.668,EE401,Renewable Energy,300,6.75,1,89.1,3,B,1
+STU-0485,Electrical Engineering,2.427,EE401,Renewable Energy,200,7.45,1,69.0,3,D,1
+STU-0175,Geological Engineering,2.822,GL201,Structural Geology,200,7.46,1,74.1,3,F,0
+STU-0079,Mining Engineering,2.277,MN201,Introduction to Mining,300,5.93,1,63.4,2,A,1
+STU-0392,Electrical Engineering,2.579,EE401,Renewable Energy,300,6.51,1,71.3,3,A,1
+STU-0186,Mining Engineering,2.698,MN301,Rock Mechanics,300,7.42,1,73.7,3,B,1
+STU-0579,Electrical Engineering,2.959,EE301,Power Systems I,200,7.42,1,93.9,3,A,1
+STU-0083,Mechanical Engineering,2.665,ME401,Finite Element Methods,200,7.73,1,98.1,3,D,1
+STU-0323,Mechanical Engineering,2.506,ME201,Thermodynamics I,200,6.3,1,90.3,3,A,1
+STU-0086,Mining Engineering,3.171,MN401,Mine Planning,200,8.03,1,100.0,3,B,1
+STU-0537,Mining Engineering,2.661,MN201,Introduction to Mining,300,6.44,1,63.5,2,A,1
+STU-0352,Mining Engineering,2.433,MN201,Introduction to Mining,400,5.83,1,83.1,2,A,1
+STU-0424,Mechanical Engineering,2.907,EE401,Renewable Energy,400,7.28,1,79.7,3,D,1
+STU-0033,Geological Engineering,1.5,GL401,Engineering Geology,300,7.07,1,94.7,3,D,1
+STU-0204,Geological Engineering,2.212,GL301,Hydrogeology,300,7.25,1,95.2,3,D,1
+STU-0422,Electrical Engineering,3.105,EE301,Power Systems I,200,7.57,1,72.7,3,D,1
+STU-0401,Mining Engineering,2.282,MN401,Mine Planning,200,7.43,1,98.2,3,C,1
+STU-0205,Electrical Engineering,3.075,EE201,Circuit Theory II,200,7.21,1,76.1,3,B,1
+STU-0525,Geological Engineering,1.825,MN401,Mine Planning,300,7.73,1,92.7,3,F,0
+STU-0359,Electrical Engineering,2.234,EE201,Circuit Theory II,200,6.92,1,76.0,3,F,0
+STU-0527,Mining Engineering,2.449,MN201,Introduction to Mining,400,6.14,2,91.3,2,D,1
+STU-0371,Mining Engineering,3.327,MN201,Introduction to Mining,400,5.74,2,73.6,2,D,1
+STU-0154,Mining Engineering,2.948,MN401,Mine Planning,400,8.29,1,74.4,3,F,0
+STU-0580,Electrical Engineering,2.884,EE401,Renewable Energy,400,6.92,1,94.6,3,A,1
+STU-0378,Mechanical Engineering,2.438,ME301,Machine Design,200,7.77,1,78.4,3,D,1
+STU-0281,Geological Engineering,2.528,GL401,Engineering Geology,300,6.65,2,91.9,3,F,0
+STU-0107,Mining Engineering,3.025,MN401,Mine Planning,300,7.7,3,100.0,3,C,1
+STU-0113,Electrical Engineering,2.66,EE401,Renewable Energy,300,7.16,1,72.2,3,F,0
+STU-0542,Geological Engineering,2.911,GL301,Hydrogeology,300,6.9,1,54.9,3,B,1
+STU-0283,Geological Engineering,3.238,GL301,Hydrogeology,400,7.35,1,82.3,3,F,0
+STU-0537,Mechanical Engineering,3.069,ME301,Machine Design,300,7.73,1,67.4,3,B,1
+STU-0469,Mining Engineering,2.285,MN301,Rock Mechanics,300,6.98,1,69.2,3,F,0
+STU-0571,Electrical Engineering,3.171,EE301,Power Systems I,300,7.75,3,81.0,3,F,0
+STU-0572,Mechanical Engineering,2.827,ME201,Thermodynamics I,200,6.54,1,57.2,3,D,1
+STU-0235,Mechanical Engineering,3.121,ME401,Finite Element Methods,300,7.32,1,77.3,3,B,1
+STU-0440,Mining Engineering,2.708,MN301,Rock Mechanics,200,7.3,1,75.2,3,D,1
+STU-0095,Electrical Engineering,2.03,EE301,Power Systems I,200,6.88,1,98.0,3,F,0
+STU-0199,Electrical Engineering,2.595,EE401,Renewable Energy,400,6.3,1,85.5,3,A,1
+STU-0454,Mechanical Engineering,2.574,ME301,Machine Design,400,7.77,1,76.5,3,D,1
+STU-0481,Mechanical Engineering,3.067,ME201,Thermodynamics I,200,6.75,1,73.0,3,A,1
+STU-0185,Electrical Engineering,2.447,EE301,Power Systems I,200,7.13,1,87.4,3,F,0
+STU-0136,Geological Engineering,3.123,GL401,Engineering Geology,200,7.57,1,74.8,3,A,1
+STU-0181,Mechanical Engineering,2.223,MN301,Rock Mechanics,400,7.01,1,85.5,3,D,1
+STU-0076,Mining Engineering,2.308,MN301,Rock Mechanics,300,6.83,1,87.6,3,C,1
+STU-0061,Geological Engineering,2.829,GL301,Hydrogeology,200,6.72,1,61.2,3,B,1
+STU-0394,Electrical Engineering,2.618,EE201,Circuit Theory II,200,7.01,1,84.7,3,A,1
+STU-0150,Electrical Engineering,3.132,EE301,Power Systems I,200,7.6,1,76.2,3,A,1
+STU-0575,Mining Engineering,2.718,MN401,Mine Planning,300,6.68,1,86.8,3,B,1
+STU-0081,Mining Engineering,2.966,MN301,Rock Mechanics,200,7.41,1,81.9,3,A,1
+STU-0311,Mining Engineering,2.886,MN201,Introduction to Mining,300,6.48,1,98.5,2,A,1
+STU-0125,Electrical Engineering,3.031,EE301,Power Systems I,300,8.05,1,88.7,3,A,1
+STU-0336,Mechanical Engineering,2.759,ME301,Machine Design,200,7.33,3,87.5,3,F,0
+STU-0061,Mechanical Engineering,2.259,ME301,Machine Design,400,7.65,1,92.9,3,D,1
+STU-0370,Mining Engineering,2.307,MN401,Mine Planning,200,7.27,1,100.0,3,B,1
+STU-0021,Electrical Engineering,3.304,EE201,Circuit Theory II,400,7.45,1,78.4,3,A,1
+STU-0080,Electrical Engineering,2.942,EE401,Renewable Energy,200,6.68,1,83.6,3,B,1
+STU-0401,Geological Engineering,3.249,GL301,Hydrogeology,300,7.52,1,85.6,3,A,1
+STU-0407,Mechanical Engineering,2.917,ME201,Thermodynamics I,300,7.52,1,78.4,3,B,1
+STU-0313,Mining Engineering,3.251,MN401,Mine Planning,200,8.21,1,71.5,3,A,1
+STU-0595,Geological Engineering,2.592,GL401,Engineering Geology,300,7.6,1,88.5,3,F,0
+STU-0096,Geological Engineering,2.19,GL201,Structural Geology,400,5.98,1,77.6,3,C,1
+STU-0466,Mechanical Engineering,2.034,ME201,Thermodynamics I,400,6.9,1,88.2,3,C,1
+STU-0298,Mining Engineering,2.46,MN401,Mine Planning,200,7.35,1,92.8,3,C,1
+STU-0109,Mechanical Engineering,3.174,ME301,Machine Design,300,7.1,1,67.8,3,A,1
+STU-0107,Geological Engineering,2.856,GL401,Engineering Geology,300,7.38,1,70.4,3,F,0
+STU-0289,Electrical Engineering,2.33,EE401,Renewable Energy,300,6.76,1,77.1,3,F,0
+STU-0106,Electrical Engineering,3.277,EE301,Power Systems I,300,7.53,1,100.0,3,A,1
+STU-0207,Electrical Engineering,3.613,ME201,Thermodynamics I,300,7.24,1,100.0,3,A,1
+STU-0157,Mechanical Engineering,3.055,ME201,Thermodynamics I,200,6.72,1,75.7,3,F,0
+STU-0320,Geological Engineering,2.474,GL201,Structural Geology,400,7.34,1,100.0,3,F,0
+STU-0533,Mechanical Engineering,2.309,ME301,Machine Design,300,7.09,1,72.6,3,C,1
+STU-0179,Mechanical Engineering,2.837,ME401,Finite Element Methods,300,7.64,1,63.4,3,B,1
+STU-0306,Geological Engineering,2.504,GL301,Hydrogeology,300,6.8,1,83.2,3,F,0
+STU-0023,Mechanical Engineering,2.714,ME401,Finite Element Methods,400,8.23,2,84.4,3,F,0
+STU-0371,Mechanical Engineering,2.099,ME401,Finite Element Methods,300,8.34,1,96.7,3,F,0
+STU-0079,Electrical Engineering,2.568,EE401,Renewable Energy,200,6.3,2,97.5,3,F,0
+STU-0374,Electrical Engineering,3.577,EE301,Power Systems I,200,7.61,1,95.2,3,B,1
+STU-0031,Electrical Engineering,2.634,EE301,Power Systems I,200,7.16,1,67.5,3,B,1
+STU-0037,Electrical Engineering,2.778,EE301,Power Systems I,200,7.57,1,100.0,3,D,1
+STU-0151,Mechanical Engineering,2.394,ME301,Machine Design,300,7.37,1,100.0,3,B,1
+STU-0229,Mining Engineering,2.279,MN401,Mine Planning,400,7.69,1,100.0,3,F,0
+STU-0205,Electrical Engineering,2.729,EE201,Circuit Theory II,300,6.85,1,92.4,3,A,1
+STU-0007,Electrical Engineering,2.764,EE201,Circuit Theory II,300,7.32,1,82.2,3,B,1
+STU-0291,Geological Engineering,3.188,ME201,Thermodynamics I,300,7.2,1,76.7,3,A,1
+STU-0438,Geological Engineering,2.077,GL401,Engineering Geology,200,6.6,1,92.7,3,F,0
+STU-0081,Electrical Engineering,2.732,EE301,Power Systems I,200,7.4,1,56.4,3,B,1
+STU-0339,Geological Engineering,2.422,GL401,Engineering Geology,400,7.24,3,87.4,3,F,0
+STU-0051,Electrical Engineering,2.397,EE401,Renewable Energy,200,7.12,1,79.4,3,C,1
+STU-0247,Mining Engineering,3.233,MN301,Rock Mechanics,300,7.29,1,79.2,3,A,1
+STU-0244,Mining Engineering,1.79,MN301,Rock Mechanics,200,7.37,1,96.0,3,D,1
+STU-0289,Mining Engineering,2.634,MN201,Introduction to Mining,300,5.76,1,72.9,2,B,1
+STU-0169,Geological Engineering,2.839,GL301,Hydrogeology,400,7.24,1,70.0,3,F,0
+STU-0579,Mechanical Engineering,2.558,ME201,Thermodynamics I,200,6.77,1,95.1,3,B,1
+STU-0581,Mining Engineering,1.609,MN301,Rock Mechanics,400,7.82,1,86.0,3,F,0
+STU-0576,Mechanical Engineering,1.793,ME201,Thermodynamics I,400,6.91,1,87.4,3,F,0
+STU-0049,Electrical Engineering,3.415,EE301,Power Systems I,300,7.51,1,75.0,3,A,1
+STU-0543,Electrical Engineering,3.573,EE201,Circuit Theory II,300,6.93,1,100.0,3,A,1
+STU-0242,Mining Engineering,2.742,MN401,Mine Planning,200,7.79,1,78.6,3,D,1
+STU-0142,Electrical Engineering,2.681,EE401,Renewable Energy,300,7.24,1,94.6,3,B,1
+STU-0295,Mining Engineering,3.835,MN301,Rock Mechanics,300,7.62,3,86.8,3,A,1
+STU-0437,Geological Engineering,3.139,GL301,Hydrogeology,200,6.83,1,100.0,3,A,1
+STU-0387,Geological Engineering,2.363,GL201,Structural Geology,200,6.63,1,87.3,3,F,0
+STU-0457,Electrical Engineering,2.658,EE301,Power Systems I,400,8.16,1,57.6,3,C,1
+STU-0323,Mechanical Engineering,2.405,ME201,Thermodynamics I,300,6.78,1,71.5,3,C,1
+STU-0437,Geological Engineering,2.681,GL301,Hydrogeology,300,7.22,1,78.8,3,B,1
+STU-0567,Electrical Engineering,2.593,EE401,Renewable Energy,200,6.89,1,95.9,3,F,0
+STU-0191,Mining Engineering,2.497,MN301,Rock Mechanics,300,7.06,1,78.1,3,C,1
+STU-0078,Electrical Engineering,2.594,EE301,Power Systems I,300,7.77,1,87.5,3,C,1
+STU-0340,Geological Engineering,3.145,GL301,Hydrogeology,300,7.14,1,92.6,3,A,1
+STU-0506,Geological Engineering,2.771,GL301,Hydrogeology,300,7.37,2,70.2,3,B,1
+STU-0416,Geological Engineering,3.768,GL201,Structural Geology,200,6.51,1,100.0,3,A,1
+STU-0463,Geological Engineering,2.839,GL401,Engineering Geology,200,6.98,1,100.0,3,A,1
+STU-0146,Geological Engineering,3.304,GL401,Engineering Geology,400,7.11,1,85.0,3,A,1
+STU-0120,Mechanical Engineering,2.751,ME301,Machine Design,200,7.33,1,87.8,3,A,1
+STU-0066,Electrical Engineering,2.509,EE201,Circuit Theory II,300,7.24,1,97.1,3,B,1
+STU-0089,Mechanical Engineering,2.567,GL301,Hydrogeology,400,7.04,2,67.6,3,F,0
+STU-0322,Mechanical Engineering,2.811,ME201,Thermodynamics I,400,7.14,3,79.4,3,F,0
+STU-0598,Electrical Engineering,3.704,EE401,Renewable Energy,300,7.09,1,78.9,3,A,1
+STU-0595,Geological Engineering,3.466,GL301,Hydrogeology,200,6.37,1,76.9,3,A,1
+STU-0047,Electrical Engineering,2.031,EE401,Renewable Energy,200,7.15,2,68.7,3,D,1
+STU-0280,Mining Engineering,3.952,MN301,Rock Mechanics,300,7.13,1,64.5,3,A,1
+STU-0006,Mechanical Engineering,2.795,ME401,Finite Element Methods,200,7.51,1,96.2,3,A,1
+STU-0316,Mechanical Engineering,2.651,ME201,Thermodynamics I,300,6.22,1,80.1,3,F,0
+STU-0098,Mining Engineering,2.769,MN301,Rock Mechanics,400,7.28,2,76.1,3,F,0
+STU-0183,Electrical Engineering,2.718,EE301,Power Systems I,200,7.29,1,82.6,3,B,1
+STU-0464,Geological Engineering,2.181,GL201,Structural Geology,400,6.85,1,95.4,3,B,1
+STU-0302,Mining Engineering,2.645,ME201,Thermodynamics I,200,6.84,1,77.3,3,D,1
+STU-0207,Mechanical Engineering,2.657,ME401,Finite Element Methods,400,7.44,1,77.0,3,C,1
+STU-0449,Mechanical Engineering,2.656,ME401,Finite Element Methods,200,7.83,1,94.7,3,B,1
+STU-0185,Electrical Engineering,2.413,EE301,Power Systems I,200,7.6,1,79.8,3,D,1
+STU-0433,Electrical Engineering,2.203,EE301,Power Systems I,200,7.59,1,70.8,3,F,0
+STU-0152,Mining Engineering,3.007,MN201,Introduction to Mining,300,6.25,1,85.3,2,A,1
+STU-0328,Electrical Engineering,2.748,EE201,Circuit Theory II,300,7.01,1,96.3,3,A,1
+STU-0440,Geological Engineering,2.381,GL301,Hydrogeology,200,7.07,1,81.5,3,B,1
+STU-0342,Mining Engineering,2.692,MN201,Introduction to Mining,200,5.98,1,100.0,2,A,1
+STU-0500,Mechanical Engineering,2.833,ME201,Thermodynamics I,200,6.61,1,77.8,3,B,1
+STU-0347,Mechanical Engineering,2.224,ME301,Machine Design,400,7.06,3,100.0,3,F,0
+STU-0236,Mechanical Engineering,3.798,ME401,Finite Element Methods,300,7.92,1,74.9,3,A,1
+STU-0423,Mechanical Engineering,2.911,ME201,Thermodynamics I,300,6.57,1,87.8,3,A,1
+STU-0226,Mechanical Engineering,2.764,ME201,Thermodynamics I,300,6.45,2,88.1,3,B,1
+STU-0345,Mining Engineering,2.495,MN201,Introduction to Mining,200,6.0,1,91.4,2,B,1
+STU-0229,Mechanical Engineering,2.465,ME401,Finite Element Methods,200,7.71,1,54.7,3,F,0
+STU-0450,Mining Engineering,2.735,MN301,Rock Mechanics,300,7.61,1,85.1,3,F,0
+STU-0193,Mining Engineering,2.928,MN401,Mine Planning,400,7.66,2,90.6,3,D,1
+STU-0494,Electrical Engineering,3.225,EE401,Renewable Energy,400,7.31,1,49.1,3,B,1
+STU-0430,Mining Engineering,2.271,MN401,Mine Planning,400,7.44,1,85.0,3,F,0
+STU-0592,Geological Engineering,2.986,GL201,Structural Geology,400,6.75,1,80.7,3,D,1
+STU-0035,Geological Engineering,2.866,GL301,Hydrogeology,300,6.35,2,63.1,3,C,1
+STU-0164,Electrical Engineering,2.337,EE301,Power Systems I,200,7.79,1,87.0,3,F,0
+STU-0084,Mining Engineering,2.405,GL201,Structural Geology,200,6.73,1,100.0,3,A,1
+STU-0356,Mechanical Engineering,3.51,ME401,Finite Element Methods,400,7.78,1,89.6,3,A,1
+STU-0013,Mechanical Engineering,2.34,ME401,Finite Element Methods,400,8.18,1,93.1,3,F,0
+STU-0400,Mining Engineering,2.987,MN401,Mine Planning,200,7.33,1,98.9,3,A,1
+STU-0538,Mechanical Engineering,2.456,ME301,Machine Design,400,7.92,1,79.9,3,F,0
+STU-0453,Mining Engineering,2.401,MN401,Mine Planning,200,8.03,1,85.8,3,D,1
+STU-0070,Mechanical Engineering,2.803,ME401,Finite Element Methods,200,8.12,1,97.3,3,F,0
+STU-0114,Mining Engineering,1.969,MN401,Mine Planning,200,8.02,1,98.7,3,B,1
+STU-0585,Mining Engineering,2.546,MN401,Mine Planning,200,7.67,1,82.9,3,F,0
+STU-0230,Electrical Engineering,2.586,EE301,Power Systems I,300,7.93,1,81.2,3,C,1
+STU-0544,Mechanical Engineering,2.108,ME201,Thermodynamics I,400,7.08,1,76.4,3,F,0
+STU-0353,Geological Engineering,1.5,GL201,Structural Geology,300,6.75,1,95.5,3,F,0
+STU-0544,Mechanical Engineering,2.61,ME401,Finite Element Methods,400,7.76,1,85.7,3,D,1
+STU-0281,Electrical Engineering,2.682,EE301,Power Systems I,200,7.22,1,71.6,3,C,1
+STU-0057,Geological Engineering,3.389,GL401,Engineering Geology,300,6.92,1,73.5,3,A,1
+STU-0061,Mining Engineering,1.729,ME401,Finite Element Methods,300,7.88,1,77.1,3,F,0
+STU-0129,Mechanical Engineering,2.514,ME401,Finite Element Methods,300,7.97,1,70.5,3,F,0
+STU-0548,Electrical Engineering,2.865,EE301,Power Systems I,300,7.82,2,74.2,3,C,1
+STU-0439,Geological Engineering,2.331,GL201,Structural Geology,400,6.81,1,100.0,3,C,1
+STU-0276,Geological Engineering,2.974,GL201,Structural Geology,400,7.13,1,68.5,3,A,1
+STU-0319,Geological Engineering,2.49,GL401,Engineering Geology,400,7.42,1,61.5,3,F,0
+STU-0455,Electrical Engineering,3.217,EE401,Renewable Energy,400,6.91,2,79.7,3,A,1
+STU-0536,Electrical Engineering,3.184,EE401,Renewable Energy,300,6.59,1,85.3,3,A,1
+STU-0094,Geological Engineering,2.756,GL301,Hydrogeology,300,7.6,1,88.7,3,A,1
+STU-0576,Mechanical Engineering,2.824,ME201,Thermodynamics I,400,6.99,3,76.1,3,F,0
+STU-0473,Geological Engineering,3.128,GL201,Structural Geology,200,6.78,1,87.2,3,A,1
+STU-0431,Mining Engineering,2.781,MN201,Introduction to Mining,200,6.25,1,92.7,2,B,1
+STU-0420,Mining Engineering,3.029,MN201,Introduction to Mining,200,6.39,2,80.7,2,C,1
+STU-0477,Electrical Engineering,2.452,EE401,Renewable Energy,200,6.87,2,67.5,3,D,1
+STU-0474,Geological Engineering,2.716,GL401,Engineering Geology,200,6.98,1,68.3,3,D,1
+STU-0067,Mining Engineering,2.63,MN201,Introduction to Mining,200,6.28,1,94.1,2,A,1
+STU-0293,Mining Engineering,2.549,MN201,Introduction to Mining,300,5.74,1,100.0,2,A,1
+STU-0498,Geological Engineering,2.723,GL201,Structural Geology,200,6.52,1,100.0,3,A,1
+STU-0105,Mechanical Engineering,2.888,ME301,Machine Design,300,8.11,1,78.9,3,A,1
+STU-0567,Mechanical Engineering,2.886,ME301,Machine Design,300,7.68,2,66.6,3,D,1
+STU-0505,Mining Engineering,3.013,MN201,Introduction to Mining,200,6.33,1,59.7,2,F,0
+STU-0175,Electrical Engineering,2.69,EE301,Power Systems I,300,7.44,1,92.9,3,F,0
+STU-0260,Electrical Engineering,2.047,EE301,Power Systems I,300,7.59,1,93.6,3,D,1
+STU-0329,Mining Engineering,2.888,MN401,Mine Planning,300,7.28,1,97.4,3,A,1
+STU-0232,Geological Engineering,2.52,GL201,Structural Geology,300,6.36,1,61.3,3,C,1
+STU-0020,Geological Engineering,3.067,GL301,Hydrogeology,400,7.27,1,76.7,3,A,1
+STU-0511,Mining Engineering,2.119,MN301,Rock Mechanics,200,7.47,1,83.4,3,F,0
+STU-0392,Geological Engineering,2.673,GL401,Engineering Geology,300,7.86,1,88.7,3,D,1
+STU-0594,Electrical Engineering,2.765,EE301,Power Systems I,400,6.84,1,82.5,3,B,1
+STU-0274,Geological Engineering,3.312,GL201,Structural Geology,200,6.93,1,86.0,3,D,1
+STU-0387,Mining Engineering,1.967,MN401,Mine Planning,200,8.29,1,74.0,3,D,1
+STU-0294,Mechanical Engineering,2.356,ME301,Machine Design,300,7.61,1,99.1,3,F,0
+STU-0038,Electrical Engineering,2.284,EE301,Power Systems I,200,7.24,1,89.6,3,C,1
+STU-0076,Electrical Engineering,2.759,EE201,Circuit Theory II,200,7.15,1,82.1,3,D,1
+STU-0213,Electrical Engineering,3.004,EE201,Circuit Theory II,300,6.62,1,92.7,3,A,1
+STU-0408,Mining Engineering,2.608,MN401,Mine Planning,200,7.19,1,89.9,3,B,1
+STU-0477,Mechanical Engineering,3.305,ME201,Thermodynamics I,200,7.07,1,74.7,3,A,1
+STU-0510,Electrical Engineering,2.194,EE401,Renewable Energy,300,6.87,2,95.9,3,D,1
+STU-0472,Electrical Engineering,3.259,EE201,Circuit Theory II,200,7.07,1,100.0,3,A,1
+STU-0543,Geological Engineering,3.415,GL201,Structural Geology,200,7.96,1,73.9,3,A,1
+STU-0554,Mining Engineering,3.051,MN201,Introduction to Mining,300,6.24,1,92.8,2,A,1
+STU-0582,Electrical Engineering,3.25,EE201,Circuit Theory II,300,6.55,1,74.2,3,F,0
+STU-0594,Geological Engineering,3.838,GL201,Structural Geology,200,7.24,2,99.5,3,A,1
+STU-0128,Electrical Engineering,3.053,EE201,Circuit Theory II,200,7.33,1,100.0,3,A,1
+STU-0064,Electrical Engineering,2.706,EE201,Circuit Theory II,300,6.86,1,63.9,3,B,1
+STU-0481,Geological Engineering,2.087,GL201,Structural Geology,300,6.65,1,86.2,3,D,1
+STU-0568,Mechanical Engineering,2.797,ME201,Thermodynamics I,300,7.1,1,74.6,3,B,1
+STU-0135,Mechanical Engineering,2.925,ME301,Machine Design,200,8.0,1,74.4,3,B,1
+STU-0012,Mechanical Engineering,3.546,ME301,Machine Design,200,7.48,1,88.2,3,A,1
+STU-0575,Electrical Engineering,2.708,EE401,Renewable Energy,200,7.29,1,96.3,3,A,1
+STU-0176,Mining Engineering,2.638,MN401,Mine Planning,200,7.74,1,100.0,3,B,1
+STU-0418,Mining Engineering,2.904,MN301,Rock Mechanics,400,7.75,1,83.9,3,B,1
+STU-0354,Mining Engineering,3.091,MN301,Rock Mechanics,300,7.22,1,84.6,3,F,0
+STU-0337,Geological Engineering,2.556,GL401,Engineering Geology,200,7.21,1,84.9,3,F,0
+STU-0375,Electrical Engineering,2.634,EE301,Power Systems I,300,7.22,1,74.1,3,B,1
+STU-0333,Mining Engineering,2.118,MN401,Mine Planning,400,8.02,1,78.4,3,F,0
+STU-0162,Mechanical Engineering,2.72,ME401,Finite Element Methods,400,8.46,1,96.7,3,B,1
+STU-0039,Electrical Engineering,2.722,EE201,Circuit Theory II,300,6.64,1,61.3,3,B,1
+STU-0053,Mechanical Engineering,2.609,ME301,Machine Design,300,7.0,1,88.1,3,D,1
+STU-0180,Mining Engineering,2.541,MN201,Introduction to Mining,400,6.48,1,100.0,2,B,1
+STU-0347,Mechanical Engineering,2.299,ME201,Thermodynamics I,200,7.2,1,71.9,3,D,1
+STU-0314,Mining Engineering,3.71,MN301,Rock Mechanics,300,7.38,1,87.9,3,A,1
+STU-0397,Electrical Engineering,3.01,EE401,Renewable Energy,200,7.23,1,68.8,3,D,1
+STU-0541,Mechanical Engineering,2.985,ME201,Thermodynamics I,200,7.08,1,88.0,3,A,1
+STU-0301,Electrical Engineering,2.986,EE201,Circuit Theory II,300,6.55,1,49.6,3,B,1
+STU-0296,Electrical Engineering,2.565,EE401,Renewable Energy,200,7.39,1,70.9,3,D,1
+STU-0114,Geological Engineering,3.063,GL401,Engineering Geology,300,7.12,1,86.0,3,A,1
+STU-0245,Mining Engineering,2.951,MN401,Mine Planning,400,7.49,1,100.0,3,A,1
+STU-0401,Mechanical Engineering,2.356,ME401,Finite Element Methods,300,8.45,1,91.0,3,C,1
+STU-0201,Geological Engineering,2.285,GL201,Structural Geology,200,7.0,1,73.7,3,C,1
+STU-0562,Mining Engineering,2.531,MN201,Introduction to Mining,300,6.59,1,97.0,2,B,1
+STU-0240,Mining Engineering,2.53,MN201,Introduction to Mining,300,5.96,1,86.6,2,F,0
+STU-0571,Geological Engineering,2.925,GL401,Engineering Geology,300,7.26,1,68.2,3,B,1
+STU-0002,Mechanical Engineering,2.292,MN301,Rock Mechanics,400,7.06,3,95.6,3,F,0
+STU-0266,Mechanical Engineering,2.771,ME401,Finite Element Methods,300,7.88,1,71.8,3,B,1
+STU-0120,Mechanical Engineering,3.186,ME301,Machine Design,300,7.95,1,91.1,3,A,1
+STU-0130,Mining Engineering,2.007,MN401,Mine Planning,300,7.4,1,77.0,3,F,0
+STU-0483,Electrical Engineering,3.129,EE201,Circuit Theory II,400,7.07,1,80.4,3,F,0
+STU-0148,Mining Engineering,2.312,MN401,Mine Planning,400,8.05,1,100.0,3,D,1
+STU-0467,Electrical Engineering,1.994,EE201,Circuit Theory II,300,6.48,1,89.4,3,D,1
+STU-0150,Electrical Engineering,2.495,EE401,Renewable Energy,300,7.25,1,94.7,3,F,0
+STU-0385,Mining Engineering,2.972,MN201,Introduction to Mining,400,6.29,1,65.9,2,A,1
+STU-0573,Mining Engineering,3.311,MN201,Introduction to Mining,200,6.66,1,61.6,2,A,1
+STU-0508,Geological Engineering,3.465,GL201,Structural Geology,300,6.85,2,100.0,3,A,1
+STU-0358,Geological Engineering,2.349,GL401,Engineering Geology,400,7.8,1,77.2,3,F,0
+STU-0563,Mechanical Engineering,3.684,ME401,Finite Element Methods,300,7.11,1,75.0,3,A,1
+STU-0439,Mining Engineering,2.916,MN201,Introduction to Mining,400,6.74,1,92.8,2,A,1
+STU-0474,Mining Engineering,2.769,MN201,Introduction to Mining,400,6.4,1,65.1,2,B,1
+STU-0144,Mechanical Engineering,1.5,ME301,Machine Design,300,7.6,2,58.9,3,F,0
+STU-0034,Mechanical Engineering,2.809,ME201,Thermodynamics I,400,6.44,1,76.9,3,A,1
+STU-0319,Mining Engineering,2.751,MN201,Introduction to Mining,300,6.26,1,82.0,2,F,0
+STU-0181,Mining Engineering,2.804,MN401,Mine Planning,200,7.6,1,72.6,3,F,0
+STU-0483,Mechanical Engineering,2.905,ME301,Machine Design,300,7.43,1,92.9,3,F,0
+STU-0542,Geological Engineering,2.567,GL201,Structural Geology,200,6.39,1,97.7,3,A,1
+STU-0069,Mechanical Engineering,2.185,ME301,Machine Design,200,7.54,1,98.6,3,C,1
+STU-0286,Mining Engineering,2.551,MN401,Mine Planning,400,7.81,3,70.1,3,F,0
+STU-0343,Mining Engineering,3.679,MN401,Mine Planning,200,7.78,1,92.0,3,A,1
+STU-0365,Geological Engineering,2.338,GL301,Hydrogeology,200,6.73,2,94.7,3,F,0
+STU-0058,Mechanical Engineering,2.947,ME301,Machine Design,200,7.25,1,66.2,3,B,1
+STU-0599,Mining Engineering,2.47,MN401,Mine Planning,400,7.84,1,74.2,3,F,0
+STU-0150,Electrical Engineering,2.674,EE201,Circuit Theory II,200,6.89,1,80.9,3,B,1
+STU-0328,Electrical Engineering,2.972,EE201,Circuit Theory II,300,7.58,1,63.5,3,D,1
+STU-0279,Electrical Engineering,2.496,EE401,Renewable Energy,400,6.58,1,99.7,3,F,0
+STU-0077,Geological Engineering,3.508,GL301,Hydrogeology,300,7.05,1,78.1,3,A,1
+STU-0093,Electrical Engineering,3.158,EE401,Renewable Energy,400,7.05,2,70.4,3,D,1
+STU-0382,Mining Engineering,2.314,MN401,Mine Planning,200,7.97,1,74.2,3,D,1
+STU-0376,Geological Engineering,2.058,GL301,Hydrogeology,300,7.0,1,75.8,3,F,0
+STU-0269,Mining Engineering,2.825,MN201,Introduction to Mining,300,5.84,1,54.9,2,A,1
+STU-0532,Electrical Engineering,2.904,EE201,Circuit Theory II,400,6.87,1,100.0,3,A,1
+STU-0360,Mining Engineering,2.916,ME401,Finite Element Methods,200,8.24,1,56.9,3,D,1
+STU-0346,Mechanical Engineering,2.508,ME401,Finite Element Methods,300,8.18,1,80.1,3,A,1
+STU-0113,Geological Engineering,2.462,GL401,Engineering Geology,200,6.88,2,77.3,3,F,0
+STU-0390,Mechanical Engineering,3.033,ME401,Finite Element Methods,300,8.28,1,100.0,3,B,1
+STU-0185,Mining Engineering,2.455,MN301,Rock Mechanics,400,7.39,1,99.2,3,C,1
+STU-0538,Geological Engineering,2.792,GL401,Engineering Geology,400,8.03,1,78.4,3,B,1
+STU-0349,Electrical Engineering,2.767,EE301,Power Systems I,200,7.64,2,90.9,3,B,1
+STU-0582,Mining Engineering,3.362,MN401,Mine Planning,200,7.52,1,97.0,3,A,1
+STU-0375,Mechanical Engineering,3.198,ME201,Thermodynamics I,200,7.78,2,82.3,3,B,1
+STU-0018,Electrical Engineering,3.165,EE201,Circuit Theory II,400,7.16,1,73.8,3,F,0
+STU-0139,Geological Engineering,2.918,GL401,Engineering Geology,200,7.23,1,88.4,3,A,1
+STU-0329,Mining Engineering,2.831,MN401,Mine Planning,200,8.29,1,73.0,3,B,1
+STU-0143,Geological Engineering,1.871,GL301,Hydrogeology,200,6.83,1,75.5,3,F,0
+STU-0373,Electrical Engineering,3.265,EE401,Renewable Energy,400,6.8,1,82.2,3,A,1
+STU-0370,Geological Engineering,3.165,GL201,Structural Geology,300,7.19,1,90.9,3,A,1
+STU-0126,Mining Engineering,2.823,MN301,Rock Mechanics,300,6.8,1,69.6,3,B,1
+STU-0238,Mechanical Engineering,2.642,ME201,Thermodynamics I,300,6.92,1,93.1,3,F,0
+STU-0046,Mining Engineering,1.507,MN401,Mine Planning,200,7.49,1,86.4,3,F,0
+STU-0273,Mining Engineering,2.556,MN301,Rock Mechanics,400,7.33,1,74.2,3,F,0
+STU-0538,Geological Engineering,3.81,GL401,Engineering Geology,200,6.8,1,86.6,3,A,1
+STU-0316,Mechanical Engineering,2.447,ME301,Machine Design,400,7.52,1,82.2,3,C,1
+STU-0165,Electrical Engineering,2.619,EE301,Power Systems I,400,7.66,1,85.1,3,F,0
+STU-0339,Mining Engineering,2.551,MN301,Rock Mechanics,300,7.47,1,74.8,3,D,1
+STU-0556,Mechanical Engineering,3.079,ME301,Machine Design,300,7.86,2,66.5,3,C,1
+STU-0311,Electrical Engineering,2.644,EE201,Circuit Theory II,400,6.52,1,93.0,3,B,1
+STU-0356,Mechanical Engineering,3.0,ME301,Machine Design,300,7.6,1,91.1,3,A,1
+STU-0013,Mechanical Engineering,2.626,ME401,Finite Element Methods,300,7.95,1,75.4,3,F,0
+STU-0453,Geological Engineering,2.056,GL401,Engineering Geology,300,7.41,1,72.9,3,F,0
+STU-0242,Geological Engineering,2.095,ME401,Finite Element Methods,300,8.13,2,78.7,3,F,0
+STU-0439,Geological Engineering,2.408,GL201,Structural Geology,400,7.45,1,66.4,3,C,1
+STU-0007,Mining Engineering,2.885,EE401,Renewable Energy,300,6.62,1,87.3,3,A,1
+STU-0247,Geological Engineering,2.699,GL201,Structural Geology,300,7.3,1,72.1,3,B,1
+STU-0591,Electrical Engineering,2.438,EE401,Renewable Energy,400,7.54,1,94.5,3,D,1
+STU-0505,Geological Engineering,3.044,GL201,Structural Geology,200,6.78,1,90.6,3,A,1
+STU-0105,Electrical Engineering,2.139,EE201,Circuit Theory II,200,7.35,1,77.1,3,F,0
+STU-0283,Electrical Engineering,2.626,EE301,Power Systems I,300,7.38,1,71.6,3,B,1
+STU-0502,Mechanical Engineering,2.729,ME401,Finite Element Methods,400,7.96,1,79.6,3,C,1
+STU-0441,Mechanical Engineering,2.303,ME201,Thermodynamics I,200,6.93,1,84.0,3,D,1
+STU-0076,Electrical Engineering,2.676,EE301,Power Systems I,400,8.21,1,94.1,3,B,1
+STU-0512,Mechanical Engineering,2.63,ME201,Thermodynamics I,400,7.18,1,92.0,3,F,0
+STU-0569,Geological Engineering,2.348,GL301,Hydrogeology,300,6.7,1,88.8,3,D,1
+STU-0484,Electrical Engineering,2.749,EE201,Circuit Theory II,300,7.48,2,73.6,3,B,1
+STU-0189,Mining Engineering,2.668,MN201,Introduction to Mining,400,6.41,2,65.1,2,C,1
+STU-0540,Mechanical Engineering,3.179,ME401,Finite Element Methods,400,7.88,1,75.8,3,F,0
+STU-0224,Mining Engineering,3.071,MN301,Rock Mechanics,300,7.4,1,88.2,3,B,1
+STU-0213,Mining Engineering,3.146,MN201,Introduction to Mining,300,5.94,1,75.0,2,A,1
+STU-0454,Mining Engineering,2.409,MN401,Mine Planning,300,7.61,1,83.2,3,D,1
+STU-0408,Mechanical Engineering,2.972,ME301,Machine Design,400,7.09,1,93.9,3,A,1
+STU-0017,Mining Engineering,2.037,MN201,Introduction to Mining,300,6.19,1,68.5,2,C,1
+STU-0271,Mining Engineering,2.691,MN201,Introduction to Mining,200,6.26,1,71.7,2,F,0
+STU-0193,Electrical Engineering,2.914,EE401,Renewable Energy,200,6.72,3,70.3,3,C,1
+STU-0272,Mining Engineering,2.962,MN401,Mine Planning,400,8.12,1,80.3,3,B,1
+STU-0269,Geological Engineering,2.385,GL301,Hydrogeology,300,7.4,1,73.1,3,D,1
+STU-0023,Mining Engineering,3.294,MN301,Rock Mechanics,200,6.94,1,94.0,3,A,1
+STU-0452,Electrical Engineering,2.893,EE201,Circuit Theory II,200,6.63,1,82.9,3,A,1
+STU-0484,Geological Engineering,2.928,GL201,Structural Geology,200,6.73,1,81.5,3,A,1
+STU-0135,Mining Engineering,3.164,MN201,Introduction to Mining,200,6.23,1,73.6,2,A,1
+STU-0041,Geological Engineering,3.061,GL401,Engineering Geology,300,7.54,1,66.4,3,B,1
+STU-0246,Geological Engineering,3.005,GL401,Engineering Geology,300,7.37,1,82.1,3,A,1
+STU-0447,Electrical Engineering,3.01,EE401,Renewable Energy,400,7.26,1,83.8,3,D,1
+STU-0079,Mechanical Engineering,2.927,ME201,Thermodynamics I,300,7.02,1,91.3,3,A,1
+STU-0048,Geological Engineering,2.975,GL201,Structural Geology,400,6.95,1,86.2,3,A,1
+STU-0001,Electrical Engineering,3.018,EE201,Circuit Theory II,200,6.99,1,83.1,3,A,1
+STU-0529,Geological Engineering,2.686,GL401,Engineering Geology,300,6.78,1,89.8,3,F,0
+STU-0192,Mechanical Engineering,2.968,ME301,Machine Design,200,7.01,3,90.2,3,D,1
+STU-0137,Geological Engineering,3.797,GL301,Hydrogeology,400,7.14,1,80.8,3,A,1
+STU-0580,Mechanical Engineering,2.529,ME301,Machine Design,200,7.49,1,100.0,3,F,0
+STU-0170,Electrical Engineering,2.636,EE301,Power Systems I,400,8.36,1,95.8,3,D,1
+STU-0029,Electrical Engineering,2.596,EE401,Renewable Energy,200,6.49,1,87.8,3,A,1
+STU-0365,Mining Engineering,2.788,MN201,Introduction to Mining,200,6.18,1,79.8,2,B,1
+STU-0512,Geological Engineering,3.039,GL401,Engineering Geology,300,6.96,1,63.6,3,A,1
+STU-0208,Mechanical Engineering,2.675,ME201,Thermodynamics I,300,7.14,1,89.5,3,A,1
+STU-0371,Mechanical Engineering,2.913,ME301,Machine Design,300,7.57,1,63.5,3,B,1
+STU-0033,Mechanical Engineering,2.681,ME201,Thermodynamics I,200,7.2,1,85.8,3,B,1
+STU-0391,Mechanical Engineering,2.288,ME401,Finite Element Methods,400,7.58,1,61.4,3,F,0
+STU-0155,Geological Engineering,1.981,ME401,Finite Element Methods,200,8.88,2,74.6,3,D,1
+STU-0384,Mechanical Engineering,2.444,ME201,Thermodynamics I,200,7.42,1,84.8,3,F,0
+STU-0158,Geological Engineering,3.466,GL301,Hydrogeology,300,6.81,1,87.5,3,F,0
+STU-0040,Mining Engineering,3.149,MN301,Rock Mechanics,300,7.62,1,90.0,3,A,1
+STU-0534,Mechanical Engineering,2.155,ME301,Machine Design,300,7.24,1,79.4,3,B,1
+STU-0044,Geological Engineering,2.483,GL201,Structural Geology,300,7.25,1,65.6,3,F,0
+STU-0273,Geological Engineering,2.778,GL201,Structural Geology,300,7.15,1,58.5,3,B,1
+STU-0286,Mechanical Engineering,2.699,EE201,Circuit Theory II,400,7.36,1,84.1,3,F,0
+STU-0492,Geological Engineering,2.198,GL401,Engineering Geology,200,7.6,1,100.0,3,C,1
+STU-0404,Mechanical Engineering,2.553,ME201,Thermodynamics I,300,6.64,1,67.0,3,B,1
+STU-0134,Mining Engineering,3.574,MN401,Mine Planning,400,7.73,2,93.0,3,A,1
+STU-0272,Mining Engineering,2.864,MN201,Introduction to Mining,200,6.86,1,78.8,2,B,1
+STU-0206,Geological Engineering,1.547,GL301,Hydrogeology,200,7.32,1,81.4,3,F,0
+STU-0089,Mining Engineering,2.334,MN301,Rock Mechanics,300,7.29,1,75.4,3,F,0
+STU-0195,Electrical Engineering,2.875,MN301,Rock Mechanics,200,7.45,1,72.5,3,B,1
+STU-0556,Mining Engineering,2.64,MN301,Rock Mechanics,300,6.86,1,85.1,3,A,1
+STU-0129,Geological Engineering,3.143,GL301,Hydrogeology,300,7.44,1,71.7,3,B,1
+STU-0277,Mechanical Engineering,3.052,ME201,Thermodynamics I,300,6.53,1,77.1,3,A,1
+STU-0555,Geological Engineering,2.646,GL201,Structural Geology,200,7.08,1,89.2,3,B,1
+STU-0404,Mechanical Engineering,2.64,ME201,Thermodynamics I,300,7.01,1,89.5,3,B,1
+STU-0041,Mechanical Engineering,2.99,EE401,Renewable Energy,300,6.78,1,87.0,3,A,1
+STU-0345,Electrical Engineering,2.593,EE201,Circuit Theory II,300,7.28,1,92.3,3,D,1
+STU-0165,Electrical Engineering,2.425,EE201,Circuit Theory II,200,6.66,1,65.7,3,D,1
+STU-0038,Electrical Engineering,2.508,EE301,Power Systems I,300,7.4,1,61.0,3,F,0
+STU-0118,Mechanical Engineering,2.796,ME201,Thermodynamics I,200,7.2,1,81.3,3,B,1
+STU-0081,Mechanical Engineering,2.487,ME401,Finite Element Methods,200,7.36,1,55.7,3,F,0
+STU-0160,Mechanical Engineering,3.025,ME201,Thermodynamics I,400,7.15,1,91.5,3,A,1
+STU-0173,Mining Engineering,2.914,MN201,Introduction to Mining,200,6.12,1,71.8,2,B,1
+STU-0536,Mining Engineering,1.965,MN201,Introduction to Mining,200,6.37,1,87.5,2,F,0
+STU-0494,Mining Engineering,2.231,MN401,Mine Planning,200,8.17,1,75.1,3,D,1
+STU-0271,Electrical Engineering,2.89,EE401,Renewable Energy,300,7.81,1,85.5,3,A,1
+STU-0544,Geological Engineering,2.817,GL401,Engineering Geology,200,6.71,2,71.8,3,D,1
+STU-0474,Mechanical Engineering,4.0,ME201,Thermodynamics I,200,7.51,1,84.0,3,A,1
+STU-0253,Geological Engineering,3.072,GL201,Structural Geology,300,6.81,1,72.5,3,A,1
+STU-0554,Electrical Engineering,2.847,EE201,Circuit Theory II,300,7.03,1,79.9,3,D,1
+STU-0039,Mechanical Engineering,3.234,ME301,Machine Design,200,7.21,3,86.2,3,C,1
+STU-0024,Mechanical Engineering,3.088,ME401,Finite Element Methods,200,7.91,1,66.4,3,D,1
+STU-0216,Mining Engineering,2.306,MN201,Introduction to Mining,200,6.23,1,82.1,2,F,0
+STU-0324,Mining Engineering,2.962,MN201,Introduction to Mining,200,6.01,1,83.9,2,A,1
+STU-0549,Electrical Engineering,2.622,EE201,Circuit Theory II,300,7.04,1,100.0,3,B,1
+STU-0218,Geological Engineering,2.966,GL201,Structural Geology,300,6.9,1,90.8,3,A,1
+STU-0440,Electrical Engineering,3.05,EE201,Circuit Theory II,200,6.7,1,86.4,3,A,1
+STU-0426,Mechanical Engineering,2.754,ME201,Thermodynamics I,300,6.79,1,84.2,3,D,1
+STU-0546,Geological Engineering,2.913,GL401,Engineering Geology,200,7.57,1,81.5,3,B,1
+STU-0156,Mining Engineering,2.098,EE401,Renewable Energy,300,6.97,1,85.1,3,F,0
+STU-0373,Electrical Engineering,3.339,EE201,Circuit Theory II,300,6.6,1,74.0,3,A,1
+STU-0533,Electrical Engineering,3.655,EE301,Power Systems I,200,7.44,1,90.7,3,A,1
+STU-0481,Mechanical Engineering,2.789,ME301,Machine Design,300,6.7,1,72.5,3,A,1
+STU-0537,Mining Engineering,2.143,MN201,Introduction to Mining,200,6.29,1,72.4,2,D,1
+STU-0564,Mining Engineering,2.74,MN301,Rock Mechanics,300,7.63,1,80.2,3,F,0
+STU-0490,Mining Engineering,3.284,MN401,Mine Planning,300,8.15,1,59.7,3,D,1
+STU-0150,Mechanical Engineering,3.21,ME401,Finite Element Methods,300,7.34,1,88.4,3,A,1
+STU-0373,Mining Engineering,2.532,MN301,Rock Mechanics,200,7.04,1,67.2,3,D,1
+STU-0361,Geological Engineering,3.248,GL201,Structural Geology,300,7.58,1,86.2,3,A,1
+STU-0487,Geological Engineering,2.607,GL401,Engineering Geology,200,7.24,1,91.1,3,C,1
+STU-0362,Mechanical Engineering,2.496,ME401,Finite Element Methods,300,7.89,1,93.9,3,C,1
+STU-0078,Electrical Engineering,3.152,EE301,Power Systems I,200,8.09,1,75.8,3,B,1
+STU-0021,Electrical Engineering,2.148,EE201,Circuit Theory II,300,7.06,1,51.7,3,D,1
+STU-0368,Mining Engineering,2.152,MN401,Mine Planning,200,7.91,1,67.0,3,F,0
+STU-0076,Electrical Engineering,2.694,EE401,Renewable Energy,200,7.09,3,100.0,3,F,0
+STU-0065,Mechanical Engineering,3.333,ME201,Thermodynamics I,400,6.99,1,79.6,3,A,1
+STU-0306,Mining Engineering,2.649,MN301,Rock Mechanics,300,7.29,1,59.6,3,D,1
+STU-0506,Electrical Engineering,2.658,EE301,Power Systems I,300,7.19,1,100.0,3,C,1
+STU-0123,Geological Engineering,3.553,GL301,Hydrogeology,300,6.6,1,84.0,3,A,1
+STU-0426,Geological Engineering,2.455,GL301,Hydrogeology,200,7.75,1,96.4,3,D,1
+STU-0443,Electrical Engineering,2.445,EE201,Circuit Theory II,400,6.72,1,72.6,3,B,1
+STU-0072,Mining Engineering,3.414,MN301,Rock Mechanics,200,7.36,1,86.6,3,A,1
+STU-0210,Mining Engineering,2.175,MN401,Mine Planning,200,7.48,1,84.5,3,D,1
+STU-0229,Mining Engineering,2.764,MN201,Introduction to Mining,300,6.05,1,74.6,2,A,1
+STU-0350,Electrical Engineering,2.519,EE201,Circuit Theory II,400,6.6,1,79.8,3,F,0
+STU-0228,Mining Engineering,3.29,MN201,Introduction to Mining,200,6.37,1,77.7,2,F,0
+STU-0581,Electrical Engineering,2.47,EE201,Circuit Theory II,400,6.49,1,77.5,3,B,1
+STU-0428,Mechanical Engineering,2.342,ME301,Machine Design,200,7.75,1,75.7,3,D,1
+STU-0500,Mechanical Engineering,2.926,ME401,Finite Element Methods,300,7.93,1,80.9,3,F,0
+STU-0431,Mechanical Engineering,2.267,ME401,Finite Element Methods,300,7.66,1,83.4,3,F,0
+STU-0294,Mechanical Engineering,2.464,ME201,Thermodynamics I,200,6.76,1,81.5,3,C,1
+STU-0289,Geological Engineering,1.88,GL201,Structural Geology,400,7.1,1,100.0,3,F,0
+STU-0486,Electrical Engineering,2.308,EE301,Power Systems I,300,7.85,1,87.9,3,C,1
+STU-0462,Mining Engineering,2.457,MN201,Introduction to Mining,300,6.47,1,79.7,2,B,1
+STU-0061,Geological Engineering,3.464,GL301,Hydrogeology,200,7.15,1,81.9,3,A,1
+STU-0376,Mechanical Engineering,2.583,ME301,Machine Design,200,7.74,1,92.5,3,F,0
+STU-0580,Geological Engineering,2.729,GL301,Hydrogeology,300,7.36,1,80.8,3,C,1
+STU-0040,Mechanical Engineering,3.372,ME301,Machine Design,300,7.26,1,97.5,3,A,1
+STU-0275,Electrical Engineering,2.269,EE301,Power Systems I,200,7.41,1,87.1,3,F,0
+STU-0207,Electrical Engineering,1.5,EE301,Power Systems I,400,7.34,1,77.9,3,D,1
+STU-0102,Geological Engineering,2.388,GL401,Engineering Geology,400,7.6,1,100.0,3,C,1
+STU-0210,Electrical Engineering,2.31,ME401,Finite Element Methods,400,8.0,1,76.3,3,F,0
+STU-0116,Geological Engineering,2.396,GL401,Engineering Geology,300,6.46,1,72.1,3,F,0
+STU-0400,Mechanical Engineering,2.204,ME301,Machine Design,400,7.97,1,84.4,3,D,1
+STU-0054,Geological Engineering,3.007,GL301,Hydrogeology,400,6.98,1,83.3,3,F,0
+STU-0003,Mining Engineering,3.063,MN201,Introduction to Mining,300,5.43,1,78.1,2,A,1
+STU-0161,Geological Engineering,2.904,GL201,Structural Geology,200,6.63,1,92.7,3,A,1
+STU-0280,Mining Engineering,2.923,ME201,Thermodynamics I,400,6.67,1,74.5,3,A,1
+STU-0522,Geological Engineering,2.018,GL401,Engineering Geology,300,7.8,1,99.1,3,F,0
+STU-0559,Mining Engineering,3.043,MN201,Introduction to Mining,300,6.29,1,88.2,2,B,1
+STU-0476,Mining Engineering,2.055,MN301,Rock Mechanics,300,7.5,1,84.3,3,D,1
+STU-0159,Mining Engineering,2.227,MN401,Mine Planning,400,7.91,1,59.7,3,F,0
+STU-0494,Mining Engineering,2.403,MN401,Mine Planning,400,8.05,1,60.8,3,D,1
+STU-0016,Geological Engineering,2.86,GL401,Engineering Geology,400,7.8,1,87.2,3,D,1
+STU-0424,Mechanical Engineering,2.955,ME201,Thermodynamics I,200,6.51,1,79.3,3,A,1
+STU-0018,Mining Engineering,1.953,MN301,Rock Mechanics,300,6.84,1,87.1,3,F,0
+STU-0258,Geological Engineering,2.401,GL301,Hydrogeology,200,7.07,1,86.3,3,C,1
+STU-0315,Mechanical Engineering,2.935,ME401,Finite Element Methods,400,7.46,1,100.0,3,B,1
+STU-0062,Mining Engineering,1.994,MN401,Mine Planning,200,7.97,1,76.8,3,F,0
+STU-0366,Mining Engineering,3.126,MN201,Introduction to Mining,200,6.33,1,100.0,2,A,1
+STU-0063,Geological Engineering,2.42,GL401,Engineering Geology,200,7.53,1,79.3,3,D,1
+STU-0482,Geological Engineering,2.742,GL201,Structural Geology,300,7.55,1,77.1,3,F,0
+STU-0343,Mechanical Engineering,3.175,ME401,Finite Element Methods,300,7.94,1,96.7,3,A,1
+STU-0441,Electrical Engineering,2.805,EE401,Renewable Energy,300,7.17,1,91.9,3,B,1
+STU-0132,Mining Engineering,1.829,MN401,Mine Planning,200,8.0,1,52.4,3,D,1
+STU-0575,Mining Engineering,3.106,MN401,Mine Planning,300,7.75,1,87.2,3,A,1
+STU-0023,Mechanical Engineering,2.896,ME301,Machine Design,200,7.3,1,96.5,3,A,1
+STU-0341,Electrical Engineering,2.962,EE301,Power Systems I,200,7.62,1,93.2,3,B,1
+STU-0487,Geological Engineering,2.32,GL301,Hydrogeology,400,7.29,3,67.1,3,F,0
+STU-0251,Mechanical Engineering,2.56,ME201,Thermodynamics I,200,7.3,3,65.2,3,D,1
+STU-0068,Electrical Engineering,3.037,EE301,Power Systems I,300,7.86,1,60.6,3,B,1
+STU-0248,Mechanical Engineering,2.676,ME401,Finite Element Methods,400,7.94,1,90.9,3,F,0
+STU-0128,Electrical Engineering,2.828,EE401,Renewable Energy,300,7.03,2,91.8,3,D,1
+STU-0083,Mechanical Engineering,2.577,ME401,Finite Element Methods,200,8.0,1,84.1,3,C,1
+STU-0139,Mining Engineering,3.348,MN301,Rock Mechanics,200,7.0,1,100.0,3,A,1
+STU-0399,Geological Engineering,2.802,GL401,Engineering Geology,400,7.97,1,74.8,3,B,1
+STU-0146,Electrical Engineering,3.155,EE201,Circuit Theory II,300,6.99,1,95.1,3,A,1
+STU-0102,Mining Engineering,3.036,MN401,Mine Planning,300,8.23,2,84.2,3,F,0
+STU-0292,Mechanical Engineering,2.046,ME401,Finite Element Methods,200,7.54,1,84.8,3,F,0
+STU-0110,Mining Engineering,2.415,MN401,Mine Planning,400,8.27,1,89.4,3,F,0
+STU-0095,Mechanical Engineering,3.199,ME401,Finite Element Methods,300,8.3,1,59.5,3,B,1
+STU-0452,Mechanical Engineering,3.041,MN201,Introduction to Mining,300,5.9,1,60.7,2,A,1
+STU-0347,Mining Engineering,2.936,MN301,Rock Mechanics,400,7.39,1,86.4,3,A,1
+STU-0249,Mining Engineering,2.457,MN301,Rock Mechanics,200,7.36,1,73.5,3,C,1
+STU-0122,Geological Engineering,2.825,ME201,Thermodynamics I,200,6.77,1,76.8,3,A,1
+STU-0590,Mechanical Engineering,3.758,ME301,Machine Design,200,8.08,1,81.9,3,A,1
+STU-0180,Mining Engineering,2.771,MN301,Rock Mechanics,400,7.53,2,100.0,3,B,1
+STU-0090,Mechanical Engineering,2.413,ME401,Finite Element Methods,300,7.38,1,89.6,3,B,1
+STU-0474,Mechanical Engineering,2.335,ME201,Thermodynamics I,200,7.52,1,91.4,3,F,0
+STU-0148,Mechanical Engineering,2.776,ME301,Machine Design,300,7.66,1,79.7,3,A,1
+STU-0127,Mechanical Engineering,2.136,ME201,Thermodynamics I,300,6.99,1,73.1,3,C,1
+STU-0154,Mining Engineering,2.705,MN301,Rock Mechanics,300,7.31,2,82.4,3,D,1
+STU-0078,Electrical Engineering,2.782,EE301,Power Systems I,300,7.71,1,100.0,3,D,1
+STU-0295,Mining Engineering,1.779,MN301,Rock Mechanics,200,7.24,1,67.2,3,F,0
+STU-0464,Electrical Engineering,3.092,EE401,Renewable Energy,200,6.73,1,91.6,3,A,1
+STU-0475,Mechanical Engineering,2.445,MN301,Rock Mechanics,200,7.75,1,86.3,3,B,1
+STU-0461,Mechanical Engineering,2.197,ME201,Thermodynamics I,300,6.87,1,80.0,3,F,0
+STU-0025,Geological Engineering,2.772,GL301,Hydrogeology,300,7.01,1,74.6,3,B,1
+STU-0132,Mechanical Engineering,2.953,ME201,Thermodynamics I,300,7.16,1,100.0,3,A,1
+STU-0493,Geological Engineering,3.916,GL401,Engineering Geology,400,7.36,1,67.0,3,A,1
+STU-0032,Mining Engineering,2.866,GL401,Engineering Geology,400,6.93,1,78.3,3,A,1
+STU-0447,Geological Engineering,3.324,GL301,Hydrogeology,300,6.94,1,80.1,3,A,1
+STU-0110,Geological Engineering,2.926,GL301,Hydrogeology,300,7.28,1,80.5,3,A,1
+STU-0015,Mechanical Engineering,2.788,ME201,Thermodynamics I,200,6.98,1,92.0,3,B,1
+STU-0350,Mining Engineering,1.894,MN401,Mine Planning,200,8.12,1,82.0,3,F,0
+STU-0274,Mining Engineering,2.708,ME401,Finite Element Methods,200,8.51,1,86.4,3,B,1
+STU-0239,Mechanical Engineering,2.549,ME201,Thermodynamics I,200,6.1,1,83.8,3,D,1
+STU-0330,Electrical Engineering,2.869,EE401,Renewable Energy,200,7.15,1,86.6,3,A,1
+STU-0520,Mining Engineering,3.197,MN201,Introduction to Mining,200,6.19,1,77.5,2,A,1
+STU-0498,Mechanical Engineering,1.923,ME201,Thermodynamics I,400,7.37,1,88.2,3,D,1
+STU-0226,Geological Engineering,3.424,EE401,Renewable Energy,400,6.81,1,78.7,3,A,1
+STU-0221,Electrical Engineering,2.491,ME401,Finite Element Methods,200,7.81,1,86.6,3,C,1
+STU-0530,Geological Engineering,1.988,ME201,Thermodynamics I,200,7.74,1,73.1,3,F,0
+STU-0192,Mining Engineering,2.958,MN201,Introduction to Mining,300,5.59,1,97.1,2,A,1
+STU-0026,Mining Engineering,3.107,MN201,Introduction to Mining,300,6.48,1,54.5,2,B,1
+STU-0112,Mining Engineering,2.496,MN401,Mine Planning,200,8.23,1,90.1,3,D,1
+STU-0429,Electrical Engineering,2.788,EE401,Renewable Energy,200,6.75,1,82.0,3,B,1
+STU-0494,Mining Engineering,2.907,MN401,Mine Planning,300,7.53,1,69.4,3,D,1
+STU-0240,Mechanical Engineering,3.139,ME401,Finite Element Methods,300,7.22,1,100.0,3,A,1
+STU-0379,Geological Engineering,3.474,GL201,Structural Geology,300,6.84,1,89.7,3,A,1
+STU-0441,Mining Engineering,2.76,MN401,Mine Planning,400,8.26,1,75.6,3,C,1
+STU-0024,Geological Engineering,2.661,GL201,Structural Geology,400,6.87,1,79.2,3,C,1
+STU-0141,Mining Engineering,2.469,MN201,Introduction to Mining,300,6.16,3,93.9,2,D,1
+STU-0406,Electrical Engineering,3.201,EE301,Power Systems I,300,7.52,1,82.6,3,A,1
+STU-0182,Mining Engineering,2.452,MN301,Rock Mechanics,300,7.45,1,87.9,3,C,1
+STU-0221,Mining Engineering,3.265,MN401,Mine Planning,400,7.81,1,61.5,3,A,1
+STU-0382,Electrical Engineering,3.035,EE301,Power Systems I,200,6.61,1,83.2,3,A,1
+STU-0519,Mining Engineering,3.065,MN401,Mine Planning,200,7.28,3,84.1,3,C,1
+STU-0594,Mining Engineering,3.089,MN401,Mine Planning,300,8.11,2,82.0,3,F,0
+STU-0584,Geological Engineering,3.096,GL401,Engineering Geology,400,7.51,1,88.3,3,A,1
+STU-0307,Electrical Engineering,2.06,EE401,Renewable Energy,400,7.08,1,78.1,3,D,1
+STU-0385,Mining Engineering,2.544,MN401,Mine Planning,300,7.67,2,91.8,3,D,1
+STU-0333,Electrical Engineering,3.291,EE201,Circuit Theory II,200,7.4,1,96.0,3,A,1
+STU-0501,Mining Engineering,2.83,MN401,Mine Planning,300,7.91,1,81.7,3,F,0
+STU-0380,Geological Engineering,2.182,GL301,Hydrogeology,400,6.91,1,89.0,3,F,0
+STU-0303,Electrical Engineering,3.452,EE301,Power Systems I,400,7.66,1,93.5,3,A,1
+STU-0440,Mining Engineering,2.443,MN301,Rock Mechanics,300,7.14,1,100.0,3,D,1
+STU-0557,Electrical Engineering,1.557,EE401,Renewable Energy,400,6.65,1,60.3,3,F,0
+STU-0156,Mechanical Engineering,2.868,ME301,Machine Design,400,7.59,1,100.0,3,B,1
+STU-0428,Electrical Engineering,3.038,EE201,Circuit Theory II,200,7.8,1,84.2,3,B,1
+STU-0397,Mechanical Engineering,1.778,ME201,Thermodynamics I,300,6.92,1,69.0,3,F,0
+STU-0421,Geological Engineering,2.394,EE401,Renewable Energy,400,6.97,1,79.5,3,C,1
+STU-0410,Electrical Engineering,2.301,EE401,Renewable Energy,200,6.44,1,71.1,3,F,0
+STU-0533,Mechanical Engineering,2.544,ME401,Finite Element Methods,300,7.3,1,100.0,3,A,1
+STU-0082,Mechanical Engineering,2.583,ME201,Thermodynamics I,200,6.64,1,99.8,3,D,1
+STU-0080,Mining Engineering,2.712,MN401,Mine Planning,400,7.67,1,89.8,3,B,1
+STU-0073,Geological Engineering,2.443,GL401,Engineering Geology,300,7.06,1,84.5,3,B,1
+STU-0064,Geological Engineering,3.645,GL301,Hydrogeology,200,6.68,1,89.7,3,A,1
+STU-0242,Electrical Engineering,2.635,EE401,Renewable Energy,200,7.01,1,65.6,3,C,1
+STU-0131,Mining Engineering,2.364,MN401,Mine Planning,200,7.51,1,85.1,3,F,0
+STU-0558,Geological Engineering,2.795,GL201,Structural Geology,200,7.25,1,98.1,3,D,1
+STU-0272,Geological Engineering,2.592,GL301,Hydrogeology,300,7.73,1,99.2,3,B,1
+STU-0157,Electrical Engineering,2.974,EE401,Renewable Energy,300,6.94,1,100.0,3,A,1
+STU-0374,Mining Engineering,2.764,MN201,Introduction to Mining,400,6.24,1,73.4,2,D,1
+STU-0433,Electrical Engineering,2.871,EE401,Renewable Energy,300,6.27,1,88.9,3,A,1
+STU-0190,Mechanical Engineering,3.042,ME401,Finite Element Methods,200,8.37,1,89.3,3,F,0
+STU-0593,Mechanical Engineering,3.402,ME401,Finite Element Methods,300,8.56,1,76.8,3,B,1
+STU-0439,Geological Engineering,3.518,GL201,Structural Geology,400,6.76,1,88.8,3,A,1
+STU-0517,Electrical Engineering,2.966,EE301,Power Systems I,200,8.12,1,85.2,3,F,0
+STU-0046,Mechanical Engineering,2.891,ME301,Machine Design,200,8.26,1,79.5,3,B,1
+STU-0340,Mechanical Engineering,2.896,ME301,Machine Design,200,8.59,1,79.6,3,C,1
+STU-0292,Mining Engineering,3.007,MN301,Rock Mechanics,200,6.94,1,79.6,3,A,1
+STU-0425,Mining Engineering,2.052,MN401,Mine Planning,400,8.07,1,86.1,3,D,1
+STU-0308,Geological Engineering,2.827,GL301,Hydrogeology,200,6.67,1,86.8,3,A,1
+STU-0210,Geological Engineering,3.17,GL301,Hydrogeology,300,7.33,1,78.9,3,F,0
+STU-0194,Geological Engineering,2.085,GL201,Structural Geology,200,7.31,1,90.5,3,C,1
+STU-0030,Mining Engineering,2.905,MN401,Mine Planning,200,7.95,1,88.7,3,B,1
+STU-0280,Mining Engineering,2.799,GL401,Engineering Geology,300,7.84,1,90.8,3,A,1
+STU-0258,Geological Engineering,2.316,GL401,Engineering Geology,200,7.45,1,76.8,3,D,1
+STU-0110,Mining Engineering,3.658,ME401,Finite Element Methods,200,7.49,1,81.9,3,A,1
+STU-0212,Electrical Engineering,2.0,EE201,Circuit Theory II,300,7.35,1,94.6,3,F,0
+STU-0156,Electrical Engineering,2.891,EE301,Power Systems I,300,7.65,1,82.0,3,A,1
+STU-0513,Geological Engineering,2.821,GL301,Hydrogeology,300,6.95,1,78.3,3,B,1
+STU-0509,Electrical Engineering,3.499,MN201,Introduction to Mining,200,6.6,1,78.8,2,A,1
+STU-0314,Electrical Engineering,3.434,EE401,Renewable Energy,300,6.35,2,94.6,3,A,1
+STU-0253,Geological Engineering,2.822,GL401,Engineering Geology,400,7.44,1,89.3,3,B,1
+STU-0132,Geological Engineering,3.074,GL401,Engineering Geology,300,7.6,1,86.2,3,B,1
+STU-0576,Mechanical Engineering,2.46,ME201,Thermodynamics I,200,7.05,1,85.8,3,F,0
+STU-0229,Mechanical Engineering,2.849,ME301,Machine Design,300,7.41,1,60.5,3,B,1
+STU-0529,Geological Engineering,2.806,GL201,Structural Geology,200,7.01,1,63.6,3,C,1
+STU-0099,Electrical Engineering,1.608,EE301,Power Systems I,400,7.96,1,100.0,3,F,0
+STU-0339,Mining Engineering,3.086,MN301,Rock Mechanics,200,8.27,1,100.0,3,A,1
+STU-0518,Mechanical Engineering,2.804,ME301,Machine Design,400,7.21,1,88.6,3,D,1
+STU-0187,Mining Engineering,2.274,MN301,Rock Mechanics,300,8.24,1,84.0,3,C,1
+STU-0295,Mechanical Engineering,2.914,ME301,Machine Design,200,7.46,1,81.4,3,B,1
+STU-0504,Mechanical Engineering,2.706,ME401,Finite Element Methods,200,7.96,1,85.2,3,F,0
+STU-0389,Mechanical Engineering,2.696,ME401,Finite Element Methods,400,7.7,1,100.0,3,A,1
+STU-0333,Electrical Engineering,3.339,EE301,Power Systems I,200,8.04,1,76.9,3,A,1
+STU-0448,Mechanical Engineering,2.791,ME301,Machine Design,300,8.3,1,86.3,3,F,0
+STU-0503,Geological Engineering,3.088,GL301,Hydrogeology,200,7.72,1,81.2,3,A,1
+STU-0195,Mechanical Engineering,1.922,ME301,Machine Design,400,7.46,1,83.8,3,F,0
+STU-0416,Electrical Engineering,2.574,EE401,Renewable Energy,200,6.79,1,91.8,3,F,0
+STU-0451,Mining Engineering,2.199,MN401,Mine Planning,300,7.48,1,82.2,3,F,0
+STU-0112,Mining Engineering,2.544,MN201,Introduction to Mining,200,6.16,1,87.5,2,A,1
+STU-0203,Mechanical Engineering,2.08,GL301,Hydrogeology,300,6.92,1,66.3,3,D,1
+STU-0171,Mechanical Engineering,2.795,ME301,Machine Design,200,7.26,2,100.0,3,D,1
+STU-0029,Geological Engineering,2.65,GL301,Hydrogeology,400,7.75,1,82.7,3,B,1
+STU-0210,Electrical Engineering,2.755,EE301,Power Systems I,200,8.0,1,88.2,3,F,0
+STU-0367,Geological Engineering,2.371,GL401,Engineering Geology,200,7.54,1,78.1,3,C,1
+STU-0206,Mechanical Engineering,2.314,ME301,Machine Design,200,7.78,1,73.7,3,F,0
+STU-0415,Mining Engineering,2.532,MN301,Rock Mechanics,400,7.33,1,79.1,3,B,1
+STU-0335,Electrical Engineering,2.723,EE201,Circuit Theory II,200,7.43,1,74.5,3,D,1
+STU-0331,Mechanical Engineering,3.021,ME301,Machine Design,300,7.68,1,100.0,3,A,1
+STU-0565,Mining Engineering,2.467,MN301,Rock Mechanics,300,7.22,1,77.2,3,C,1
+STU-0036,Mechanical Engineering,2.179,ME301,Machine Design,300,6.82,1,79.2,3,D,1
+STU-0361,Mining Engineering,2.522,EE201,Circuit Theory II,400,7.22,1,66.5,3,D,1
+STU-0314,Electrical Engineering,2.945,EE301,Power Systems I,300,7.45,1,100.0,3,F,0
+STU-0047,Electrical Engineering,3.599,EE201,Circuit Theory II,200,6.77,1,84.8,3,A,1
+STU-0344,Electrical Engineering,3.548,EE401,Renewable Energy,400,6.86,1,90.9,3,A,1
+STU-0067,Mining Engineering,2.576,MN201,Introduction to Mining,300,7.09,1,100.0,2,B,1
+STU-0441,Electrical Engineering,2.5,EE301,Power Systems I,300,7.78,1,82.3,3,C,1
+STU-0074,Electrical Engineering,2.662,EE401,Renewable Energy,200,6.87,2,87.2,3,F,0
+STU-0475,Geological Engineering,2.579,GL201,Structural Geology,400,7.2,1,68.5,3,F,0
+STU-0485,Mining Engineering,3.066,MN201,Introduction to Mining,200,6.27,1,75.9,2,A,1
+STU-0121,Geological Engineering,3.272,GL401,Engineering Geology,300,7.13,1,83.8,3,A,1
+STU-0192,Geological Engineering,2.414,GL301,Hydrogeology,300,7.13,1,75.9,3,D,1
+STU-0304,Geological Engineering,3.166,GL401,Engineering Geology,200,7.71,1,93.1,3,A,1
+STU-0574,Geological Engineering,2.8,GL401,Engineering Geology,200,7.56,1,83.3,3,F,0
+STU-0182,Mechanical Engineering,3.774,ME201,Thermodynamics I,300,7.27,3,84.3,3,A,1
+STU-0550,Electrical Engineering,2.973,EE401,Renewable Energy,200,6.67,1,56.6,3,A,1
+STU-0429,Geological Engineering,2.853,GL401,Engineering Geology,200,7.85,1,82.9,3,F,0
+STU-0310,Electrical Engineering,3.215,EE301,Power Systems I,300,7.19,1,93.1,3,A,1
+STU-0319,Geological Engineering,2.732,GL401,Engineering Geology,300,7.28,2,100.0,3,C,1
+STU-0054,Mechanical Engineering,1.872,ME301,Machine Design,400,7.83,3,83.5,3,F,0
+STU-0500,Electrical Engineering,2.548,EE201,Circuit Theory II,300,7.05,2,85.2,3,F,0
+STU-0586,Electrical Engineering,2.296,EE201,Circuit Theory II,300,6.96,1,88.2,3,F,0
+STU-0180,Mining Engineering,2.977,MN301,Rock Mechanics,300,7.04,1,86.0,3,F,0
+STU-0587,Mechanical Engineering,2.345,ME301,Machine Design,300,6.92,1,57.1,3,D,1
+STU-0102,Geological Engineering,3.295,GL401,Engineering Geology,300,7.22,1,74.3,3,D,1
+STU-0379,Mining Engineering,3.326,MN201,Introduction to Mining,300,5.99,1,98.8,2,A,1
+STU-0576,Electrical Engineering,3.57,MN301,Rock Mechanics,400,7.49,1,76.9,3,A,1
+STU-0550,Geological Engineering,2.561,GL401,Engineering Geology,400,7.65,1,81.5,3,F,0
+STU-0044,Electrical Engineering,2.908,EE301,Power Systems I,300,7.41,1,71.0,3,B,1
+STU-0581,Geological Engineering,2.999,GL401,Engineering Geology,300,6.83,2,86.2,3,A,1
+STU-0559,Electrical Engineering,2.695,EE301,Power Systems I,200,8.05,1,77.0,3,C,1
+STU-0370,Electrical Engineering,2.685,EE301,Power Systems I,200,7.23,1,92.1,3,F,0
+STU-0158,Electrical Engineering,3.601,GL401,Engineering Geology,300,7.71,1,82.5,3,A,1
+STU-0202,Electrical Engineering,2.777,EE201,Circuit Theory II,300,7.28,1,66.1,3,B,1
+STU-0429,Electrical Engineering,1.5,EE401,Renewable Energy,300,7.0,1,93.2,3,F,0
+STU-0347,Geological Engineering,3.181,EE401,Renewable Energy,300,7.11,1,67.5,3,A,1
+STU-0383,Electrical Engineering,2.436,EE401,Renewable Energy,200,7.59,1,76.2,3,C,1
+STU-0442,Electrical Engineering,3.027,EE301,Power Systems I,200,7.39,1,87.7,3,B,1
+STU-0200,Mining Engineering,2.493,MN201,Introduction to Mining,400,6.24,1,100.0,2,B,1
+STU-0034,Electrical Engineering,2.57,EE201,Circuit Theory II,300,7.17,1,67.7,3,D,1
+STU-0007,Mining Engineering,2.927,MN401,Mine Planning,200,8.17,1,89.9,3,B,1
+STU-0163,Geological Engineering,1.615,GL201,Structural Geology,200,6.49,1,95.5,3,D,1
+STU-0268,Geological Engineering,2.101,GL401,Engineering Geology,300,7.11,1,70.0,3,F,0
+STU-0048,Mining Engineering,2.528,MN201,Introduction to Mining,300,6.46,1,89.4,2,D,1
+STU-0565,Mining Engineering,3.303,GL201,Structural Geology,200,7.39,1,84.5,3,A,1
+STU-0145,Geological Engineering,3.186,GL201,Structural Geology,400,6.55,1,86.1,3,A,1
+STU-0270,Mining Engineering,2.744,MN301,Rock Mechanics,200,7.63,1,69.6,3,C,1
+STU-0219,Geological Engineering,2.466,GL301,Hydrogeology,200,7.49,1,66.5,3,F,0
+STU-0530,Electrical Engineering,2.513,EE201,Circuit Theory II,300,7.15,3,100.0,3,F,0
+STU-0244,Electrical Engineering,2.364,EE201,Circuit Theory II,300,7.44,1,61.3,3,D,1
+STU-0031,Mining Engineering,2.361,MN201,Introduction to Mining,400,6.33,1,75.2,2,B,1
+STU-0598,Mining Engineering,2.264,MN301,Rock Mechanics,200,7.57,1,77.8,3,F,0
+STU-0281,Electrical Engineering,2.332,EE401,Renewable Energy,300,6.48,1,75.3,3,D,1
+STU-0301,Mining Engineering,3.162,MN201,Introduction to Mining,300,5.98,1,100.0,2,A,1
+STU-0479,Geological Engineering,3.151,GL201,Structural Geology,200,6.61,1,78.9,3,A,1
+STU-0356,Mechanical Engineering,2.786,ME401,Finite Element Methods,200,8.03,1,69.6,3,B,1
+STU-0280,Geological Engineering,2.64,GL201,Structural Geology,200,6.76,1,100.0,3,A,1
+STU-0154,Mechanical Engineering,2.853,ME401,Finite Element Methods,200,8.39,1,85.4,3,B,1
+STU-0147,Electrical Engineering,2.617,EE201,Circuit Theory II,400,6.92,1,56.6,3,F,0
+STU-0049,Mechanical Engineering,1.831,ME401,Finite Element Methods,200,8.39,1,77.3,3,F,0
+STU-0427,Electrical Engineering,3.097,EE201,Circuit Theory II,200,6.92,1,65.0,3,A,1
+STU-0306,Mining Engineering,2.482,MN401,Mine Planning,300,7.55,1,82.0,3,C,1
+STU-0192,Electrical Engineering,2.508,EE301,Power Systems I,200,7.82,1,80.3,3,C,1
+STU-0370,Mechanical Engineering,3.412,ME401,Finite Element Methods,300,7.95,1,79.2,3,A,1
+STU-0375,Geological Engineering,2.063,GL201,Structural Geology,300,7.59,1,70.1,3,D,1
+STU-0459,Mechanical Engineering,2.62,ME401,Finite Element Methods,300,7.62,1,72.8,3,C,1
+STU-0122,Geological Engineering,2.912,GL301,Hydrogeology,400,7.08,1,74.9,3,F,0
+STU-0516,Mechanical Engineering,2.614,ME401,Finite Element Methods,400,8.23,1,89.5,3,F,0
+STU-0404,Mechanical Engineering,3.082,ME201,Thermodynamics I,200,7.57,1,100.0,3,A,1
+STU-0068,Electrical Engineering,3.387,EE401,Renewable Energy,200,7.12,1,89.0,3,F,0
+STU-0185,Electrical Engineering,3.162,EE401,Renewable Energy,300,6.72,1,79.7,3,A,1
+STU-0035,Geological Engineering,2.807,GL201,Structural Geology,200,6.55,2,75.7,3,B,1
+STU-0408,Geological Engineering,2.28,GL401,Engineering Geology,200,7.1,1,82.2,3,D,1
+STU-0576,Geological Engineering,2.144,GL201,Structural Geology,300,7.0,1,68.5,3,C,1
+STU-0458,Mechanical Engineering,2.405,ME401,Finite Element Methods,400,8.04,1,93.9,3,B,1
+STU-0448,Electrical Engineering,3.024,EE401,Renewable Energy,300,6.33,1,80.8,3,A,1
+STU-0412,Mechanical Engineering,2.665,ME301,Machine Design,300,8.22,1,81.3,3,F,0
+STU-0500,Geological Engineering,2.519,GL201,Structural Geology,200,6.4,3,100.0,3,D,1
+STU-0336,Geological Engineering,2.558,GL201,Structural Geology,200,6.53,1,80.6,3,C,1
+STU-0466,Geological Engineering,2.69,GL201,Structural Geology,400,6.91,1,100.0,3,A,1
+STU-0538,Mechanical Engineering,2.293,ME201,Thermodynamics I,200,6.9,1,100.0,3,F,0
+STU-0545,Geological Engineering,2.546,GL301,Hydrogeology,200,6.91,1,87.7,3,B,1
+STU-0165,Geological Engineering,2.609,GL201,Structural Geology,400,6.99,1,64.4,3,B,1
+STU-0200,Electrical Engineering,1.5,EE201,Circuit Theory II,200,6.34,1,81.8,3,F,0
+STU-0278,Electrical Engineering,2.604,EE201,Circuit Theory II,300,6.84,1,72.6,3,A,1
+STU-0097,Mining Engineering,2.817,MN401,Mine Planning,200,7.99,1,86.8,3,F,0
+STU-0171,Mechanical Engineering,2.009,ME401,Finite Element Methods,300,7.6,1,77.7,3,F,0
+STU-0282,Mining Engineering,2.804,MN401,Mine Planning,200,7.52,1,77.2,3,F,0
+STU-0399,Geological Engineering,2.653,GL401,Engineering Geology,200,7.3,1,75.5,3,B,1
+STU-0235,Geological Engineering,2.437,GL301,Hydrogeology,300,7.52,1,82.0,3,F,0
+STU-0233,Mining Engineering,3.611,ME201,Thermodynamics I,400,7.12,1,77.5,3,A,1
+STU-0159,Geological Engineering,2.922,GL301,Hydrogeology,300,6.33,1,96.0,3,A,1
+STU-0080,Electrical Engineering,3.247,EE401,Renewable Energy,300,6.9,1,87.5,3,A,1
+STU-0173,Mining Engineering,3.139,MN301,Rock Mechanics,200,7.54,1,46.7,3,B,1
+STU-0036,Electrical Engineering,3.193,EE401,Renewable Energy,300,6.7,1,62.2,3,A,1
+STU-0518,Mining Engineering,2.266,MN201,Introduction to Mining,300,6.04,2,94.9,2,C,1
+STU-0269,Mining Engineering,3.112,MN201,Introduction to Mining,200,6.07,3,65.4,2,F,0
+STU-0576,Geological Engineering,3.925,GL401,Engineering Geology,200,6.67,1,99.9,3,A,1
+STU-0543,Mechanical Engineering,2.628,ME301,Machine Design,200,8.02,1,79.1,3,D,1
+STU-0027,Mechanical Engineering,2.812,ME401,Finite Element Methods,400,8.15,1,84.8,3,B,1
+STU-0013,Mining Engineering,3.065,MN301,Rock Mechanics,300,6.91,1,78.3,3,A,1
+STU-0316,Electrical Engineering,2.847,EE301,Power Systems I,300,7.87,1,97.3,3,F,0
+STU-0059,Geological Engineering,2.13,GL201,Structural Geology,200,6.4,1,70.2,3,F,0
+STU-0281,Mining Engineering,2.499,MN301,Rock Mechanics,200,7.45,1,92.2,3,B,1
+STU-0305,Mining Engineering,2.631,MN401,Mine Planning,200,7.62,2,80.1,3,C,1
+STU-0374,Mechanical Engineering,2.891,ME401,Finite Element Methods,300,7.6,1,63.3,3,F,0
+STU-0327,Mechanical Engineering,3.234,EE201,Circuit Theory II,200,6.91,1,81.4,3,A,1
+STU-0057,Mining Engineering,4.0,MN301,Rock Mechanics,300,7.4,1,75.3,3,A,1
+STU-0285,Electrical Engineering,2.64,EE201,Circuit Theory II,400,6.65,2,87.2,3,D,1
+STU-0406,Mechanical Engineering,2.677,ME201,Thermodynamics I,400,7.17,1,78.9,3,F,0
+STU-0354,Electrical Engineering,2.971,EE301,Power Systems I,300,7.24,1,97.7,3,A,1
+STU-0031,Mining Engineering,3.251,MN401,Mine Planning,300,7.73,1,69.6,3,A,1
+STU-0336,Mining Engineering,3.28,MN401,Mine Planning,200,8.3,1,100.0,3,B,1
+STU-0480,Mechanical Engineering,2.467,ME401,Finite Element Methods,400,8.57,1,53.4,3,C,1
+STU-0381,Electrical Engineering,2.0,EE301,Power Systems I,300,7.47,1,73.3,3,D,1
+STU-0107,Mechanical Engineering,2.255,ME401,Finite Element Methods,200,7.24,1,100.0,3,F,0
+STU-0088,Geological Engineering,2.85,GL401,Engineering Geology,200,6.83,1,90.4,3,A,1
+STU-0303,Electrical Engineering,2.16,EE401,Renewable Energy,300,6.9,1,92.5,3,F,0
+STU-0040,Geological Engineering,2.85,GL301,Hydrogeology,200,6.87,1,85.9,3,A,1
+STU-0382,Electrical Engineering,2.959,GL201,Structural Geology,200,7.02,1,79.5,3,F,0
+STU-0238,Geological Engineering,1.933,GL301,Hydrogeology,200,7.21,3,83.7,3,F,0
+STU-0498,Mechanical Engineering,2.741,ME401,Finite Element Methods,200,7.82,1,73.1,3,F,0
+STU-0018,Geological Engineering,2.478,GL401,Engineering Geology,400,7.13,3,74.6,3,F,0
+STU-0034,Mechanical Engineering,2.727,GL201,Structural Geology,200,6.86,1,81.1,3,B,1
+STU-0507,Electrical Engineering,3.358,EE401,Renewable Energy,200,6.99,1,84.4,3,A,1
+STU-0423,Geological Engineering,2.538,GL201,Structural Geology,300,6.67,1,72.8,3,D,1
+STU-0527,Electrical Engineering,2.026,EE401,Renewable Energy,300,6.69,1,95.5,3,D,1
+STU-0210,Geological Engineering,2.873,EE401,Renewable Energy,400,7.27,1,70.4,3,C,1
+STU-0030,Geological Engineering,2.736,GL201,Structural Geology,300,6.85,1,70.4,3,B,1
+STU-0086,Mining Engineering,2.755,GL301,Hydrogeology,200,7.06,1,80.8,3,A,1
+STU-0185,Geological Engineering,2.75,GL201,Structural Geology,200,7.07,1,93.5,3,B,1
+STU-0568,Mining Engineering,2.578,MN201,Introduction to Mining,400,6.14,1,68.7,2,F,0
+STU-0343,Electrical Engineering,3.16,EE301,Power Systems I,200,8.12,1,96.8,3,A,1
+STU-0334,Electrical Engineering,2.948,EE201,Circuit Theory II,300,6.82,1,91.4,3,A,1
+STU-0339,Mechanical Engineering,2.204,ME201,Thermodynamics I,300,6.92,1,78.6,3,F,0
+STU-0414,Geological Engineering,2.707,GL401,Engineering Geology,300,7.4,1,97.0,3,A,1
+STU-0368,Geological Engineering,1.781,GL401,Engineering Geology,300,7.37,1,86.4,3,F,0
+STU-0324,Geological Engineering,2.881,GL401,Engineering Geology,200,7.58,1,50.9,3,A,1
+STU-0366,Electrical Engineering,3.897,EE301,Power Systems I,400,8.16,1,58.8,3,A,1
+STU-0086,Geological Engineering,3.601,GL201,Structural Geology,200,6.9,1,85.3,3,A,1
+STU-0167,Geological Engineering,2.396,GL301,Hydrogeology,200,7.06,1,95.2,3,B,1
+STU-0433,Electrical Engineering,2.177,EE301,Power Systems I,300,7.5,1,76.5,3,D,1
+STU-0089,Mining Engineering,1.907,MN401,Mine Planning,300,7.63,2,63.4,3,D,1
+STU-0438,Mechanical Engineering,2.494,ME401,Finite Element Methods,200,7.2,3,71.6,3,D,1
+STU-0179,Electrical Engineering,2.892,EE301,Power Systems I,400,7.21,3,78.2,3,D,1
+STU-0310,Electrical Engineering,3.394,EE201,Circuit Theory II,300,6.95,1,84.9,3,D,1
+STU-0084,Geological Engineering,2.999,MN201,Introduction to Mining,300,6.49,1,79.5,2,B,1
+STU-0487,Mechanical Engineering,3.047,ME201,Thermodynamics I,300,6.89,1,77.6,3,A,1
+STU-0208,Electrical Engineering,2.004,EE301,Power Systems I,400,7.25,1,88.4,3,F,0
+STU-0250,Geological Engineering,2.594,GL401,Engineering Geology,300,6.84,1,65.5,3,F,0
+STU-0024,Electrical Engineering,2.692,EE401,Renewable Energy,200,6.63,1,81.8,3,F,0
+STU-0005,Geological Engineering,2.543,GL401,Engineering Geology,300,7.82,1,89.1,3,D,1
+STU-0212,Mechanical Engineering,2.42,ME201,Thermodynamics I,200,6.92,1,84.9,3,B,1
+STU-0121,Geological Engineering,3.906,MN401,Mine Planning,300,7.85,1,73.3,3,A,1
+STU-0011,Geological Engineering,2.02,GL401,Engineering Geology,200,6.97,1,88.8,3,F,0
+STU-0199,Mining Engineering,2.805,MN401,Mine Planning,300,7.8,1,79.2,3,B,1
+STU-0052,Electrical Engineering,2.834,EE401,Renewable Energy,200,7.36,1,81.8,3,A,1
+STU-0123,Electrical Engineering,2.747,EE301,Power Systems I,300,6.83,1,81.1,3,B,1
+STU-0260,Mechanical Engineering,2.997,EE401,Renewable Energy,300,6.85,1,84.5,3,A,1
+STU-0463,Mechanical Engineering,2.69,ME201,Thermodynamics I,300,7.19,1,82.6,3,F,0
+STU-0386,Electrical Engineering,2.582,EE401,Renewable Energy,200,7.0,1,96.3,3,B,1
+STU-0521,Geological Engineering,3.004,GL201,Structural Geology,300,6.15,1,89.5,3,B,1
+STU-0558,Electrical Engineering,2.712,EE301,Power Systems I,200,7.25,1,72.9,3,B,1
+STU-0558,Electrical Engineering,3.14,ME401,Finite Element Methods,300,7.58,1,76.3,3,A,1
+STU-0390,Geological Engineering,3.551,GL201,Structural Geology,200,7.27,1,74.9,3,A,1
+STU-0175,Mining Engineering,2.731,EE401,Renewable Energy,200,6.86,1,75.4,3,B,1
+STU-0025,Mechanical Engineering,2.535,ME201,Thermodynamics I,300,7.03,1,88.6,3,B,1
+STU-0306,Mining Engineering,3.118,MN201,Introduction to Mining,300,5.86,1,99.1,2,A,1
+STU-0107,Mechanical Engineering,2.47,ME301,Machine Design,300,7.69,1,95.9,3,A,1
+STU-0580,Mechanical Engineering,2.584,ME201,Thermodynamics I,200,7.24,1,84.3,3,C,1
+STU-0028,Mining Engineering,2.376,MN301,Rock Mechanics,200,6.85,2,88.8,3,F,0
+STU-0272,Electrical Engineering,2.476,ME201,Thermodynamics I,300,7.34,1,59.1,3,D,1
+STU-0449,Geological Engineering,2.413,GL401,Engineering Geology,200,7.16,1,88.4,3,C,1
+STU-0346,Geological Engineering,3.234,GL301,Hydrogeology,200,7.01,1,70.6,3,A,1
+STU-0012,Mechanical Engineering,3.471,ME301,Machine Design,300,7.51,1,69.7,3,A,1
+STU-0477,Mining Engineering,2.93,MN301,Rock Mechanics,300,7.37,1,88.9,3,A,1
+STU-0117,Electrical Engineering,1.744,EE201,Circuit Theory II,300,7.0,1,100.0,3,D,1
+STU-0213,Electrical Engineering,2.204,EE401,Renewable Energy,300,6.74,1,72.2,3,D,1
+STU-0077,Electrical Engineering,2.859,MN301,Rock Mechanics,200,7.31,1,85.1,3,B,1
+STU-0093,Mining Engineering,2.035,MN201,Introduction to Mining,200,6.67,1,77.5,2,F,0
+STU-0153,Electrical Engineering,2.769,EE201,Circuit Theory II,200,6.47,3,97.5,3,D,1
+STU-0119,Geological Engineering,3.016,GL301,Hydrogeology,200,6.97,1,78.4,3,A,1
+STU-0060,Electrical Engineering,3.238,EE301,Power Systems I,200,7.7,1,93.7,3,A,1
+STU-0472,Mining Engineering,2.862,MN201,Introduction to Mining,300,6.23,1,79.8,2,F,0
+STU-0480,Mining Engineering,2.242,MN401,Mine Planning,200,7.54,1,66.4,3,F,0
+STU-0326,Mining Engineering,3.015,MN401,Mine Planning,400,7.6,1,70.4,3,B,1
+STU-0018,Electrical Engineering,2.986,EE301,Power Systems I,400,7.73,2,91.5,3,F,0
+STU-0368,Mining Engineering,3.204,MN301,Rock Mechanics,200,7.54,1,100.0,3,A,1
+STU-0241,Electrical Engineering,2.19,EE201,Circuit Theory II,200,7.24,3,100.0,3,F,0
+STU-0495,Mechanical Engineering,3.143,ME201,Thermodynamics I,300,6.74,1,74.6,3,B,1
+STU-0028,Geological Engineering,2.475,GL201,Structural Geology,300,6.42,1,89.6,3,B,1
+STU-0061,Geological Engineering,2.999,GL401,Engineering Geology,300,7.4,2,67.8,3,C,1
+STU-0471,Mining Engineering,2.488,MN201,Introduction to Mining,400,6.36,1,86.9,2,C,1
+STU-0269,Mechanical Engineering,2.321,ME401,Finite Element Methods,300,7.95,1,87.7,3,B,1
+STU-0547,Mechanical Engineering,3.123,ME301,Machine Design,300,7.66,1,62.6,3,B,1
+STU-0308,Electrical Engineering,2.924,EE401,Renewable Energy,400,7.1,1,85.6,3,A,1
+STU-0380,Mechanical Engineering,2.456,ME301,Machine Design,200,7.24,1,80.0,3,F,0
+STU-0513,Mechanical Engineering,2.459,ME301,Machine Design,300,7.47,1,64.3,3,B,1
+STU-0521,Mechanical Engineering,3.446,ME301,Machine Design,300,7.38,1,82.7,3,A,1
+STU-0322,Mechanical Engineering,2.758,ME301,Machine Design,300,7.9,1,92.7,3,F,0
+STU-0516,Mining Engineering,2.86,MN201,Introduction to Mining,200,6.01,1,61.6,2,A,1
+STU-0171,Electrical Engineering,2.023,EE401,Renewable Energy,400,6.62,1,57.8,3,D,1
+STU-0027,Mining Engineering,2.875,MN401,Mine Planning,200,8.57,1,69.1,3,D,1
+STU-0575,Mining Engineering,2.291,MN201,Introduction to Mining,300,5.92,1,90.8,2,F,0
+STU-0514,Geological Engineering,2.92,GL401,Engineering Geology,200,7.73,1,74.0,3,F,0
+STU-0375,Geological Engineering,2.635,GL301,Hydrogeology,400,7.29,1,83.7,3,F,0
+STU-0520,Mining Engineering,3.22,MN201,Introduction to Mining,200,5.56,1,84.8,2,D,1
+STU-0223,Geological Engineering,2.43,GL401,Engineering Geology,400,6.89,1,76.2,3,D,1
+STU-0313,Mechanical Engineering,3.048,ME401,Finite Element Methods,200,7.82,1,65.7,3,A,1
+STU-0093,Electrical Engineering,3.642,EE201,Circuit Theory II,200,7.17,1,100.0,3,A,1
+STU-0355,Mechanical Engineering,2.73,ME401,Finite Element Methods,200,7.44,1,86.6,3,A,1
+STU-0409,Electrical Engineering,1.803,EE301,Power Systems I,400,7.98,1,76.4,3,D,1
+STU-0591,Geological Engineering,2.744,GL401,Engineering Geology,300,7.42,1,66.9,3,C,1
+STU-0521,Mechanical Engineering,2.988,ME201,Thermodynamics I,400,7.46,1,75.7,3,B,1
+STU-0144,Mechanical Engineering,2.529,ME301,Machine Design,400,7.39,1,96.3,3,B,1
+STU-0474,Mining Engineering,2.802,MN201,Introduction to Mining,200,6.09,1,97.2,2,A,1
+STU-0169,Mining Engineering,2.208,MN401,Mine Planning,200,8.75,1,70.5,3,D,1
+STU-0379,Mechanical Engineering,2.135,ME301,Machine Design,200,7.56,1,80.3,3,D,1
+STU-0138,Electrical Engineering,3.215,GL301,Hydrogeology,400,7.0,1,88.1,3,A,1
+STU-0139,Electrical Engineering,3.605,EE401,Renewable Energy,200,6.3,1,87.0,3,A,1
+STU-0091,Geological Engineering,1.5,EE401,Renewable Energy,400,7.2,1,100.0,3,F,0
+STU-0250,Electrical Engineering,2.968,EE401,Renewable Energy,300,6.86,1,73.8,3,A,1
+STU-0019,Mining Engineering,3.132,MN401,Mine Planning,400,7.74,1,91.5,3,A,1
+STU-0434,Mining Engineering,2.892,MN201,Introduction to Mining,400,6.48,1,86.0,2,A,1
+STU-0395,Mining Engineering,2.343,MN201,Introduction to Mining,200,6.31,1,88.4,2,B,1
+STU-0159,Geological Engineering,2.844,GL401,Engineering Geology,300,7.8,1,80.7,3,A,1
+STU-0362,Mining Engineering,2.995,MN201,Introduction to Mining,300,6.65,1,74.4,2,D,1
+STU-0057,Geological Engineering,3.62,GL401,Engineering Geology,400,7.56,1,67.3,3,A,1
+STU-0511,Geological Engineering,2.649,GL301,Hydrogeology,200,7.2,1,87.7,3,B,1
+STU-0344,Mining Engineering,2.497,MN401,Mine Planning,300,7.31,1,95.5,3,B,1
+STU-0022,Mechanical Engineering,2.842,ME401,Finite Element Methods,300,8.43,1,84.4,3,A,1
+STU-0062,Mechanical Engineering,2.986,ME201,Thermodynamics I,400,6.68,1,75.1,3,A,1
+STU-0279,Geological Engineering,2.261,GL201,Structural Geology,200,7.19,1,100.0,3,F,0
+STU-0271,Geological Engineering,2.862,GL401,Engineering Geology,300,7.55,1,70.0,3,C,1
+STU-0486,Mining Engineering,2.342,MN201,Introduction to Mining,200,5.87,1,81.1,2,D,1
+STU-0542,Mining Engineering,2.926,MN201,Introduction to Mining,400,5.83,1,62.6,2,B,1
+STU-0306,Mechanical Engineering,2.688,ME201,Thermodynamics I,200,6.78,1,88.6,3,F,0
+STU-0113,Mining Engineering,3.015,MN201,Introduction to Mining,300,6.05,1,80.3,2,A,1
+STU-0231,Mechanical Engineering,2.417,ME201,Thermodynamics I,200,6.87,1,68.1,3,C,1
+STU-0013,Mechanical Engineering,2.681,ME201,Thermodynamics I,400,7.39,3,86.7,3,F,0
+STU-0370,Geological Engineering,2.753,GL301,Hydrogeology,300,6.7,1,84.7,3,F,0
+STU-0556,Mining Engineering,2.815,MN301,Rock Mechanics,400,7.31,1,100.0,3,A,1
+STU-0454,Geological Engineering,2.389,GL201,Structural Geology,300,6.77,1,62.3,3,F,0
+STU-0174,Mining Engineering,3.179,MN201,Introduction to Mining,200,6.65,1,92.4,2,B,1
+STU-0058,Geological Engineering,2.086,GL401,Engineering Geology,200,6.9,1,65.4,3,F,0
+STU-0041,Geological Engineering,2.925,GL201,Structural Geology,400,6.9,2,67.9,3,D,1
+STU-0460,Mechanical Engineering,3.142,ME401,Finite Element Methods,200,7.98,1,90.1,3,A,1
+STU-0081,Mining Engineering,2.714,MN201,Introduction to Mining,400,6.21,1,90.1,2,F,0
+STU-0493,Geological Engineering,1.5,GL301,Hydrogeology,400,6.92,1,91.4,3,F,0
+STU-0315,Electrical Engineering,3.136,EE301,Power Systems I,300,7.3,1,92.0,3,A,1
+STU-0530,Geological Engineering,3.18,GL301,Hydrogeology,300,7.43,1,84.4,3,B,1
+STU-0461,Electrical Engineering,3.001,EE401,Renewable Energy,200,7.26,1,92.4,3,A,1
+STU-0422,Electrical Engineering,2.881,EE401,Renewable Energy,200,7.22,1,64.0,3,B,1
+STU-0295,Geological Engineering,3.293,GL401,Engineering Geology,200,7.37,1,91.0,3,A,1
+STU-0387,Electrical Engineering,2.938,EE301,Power Systems I,200,7.71,2,71.7,3,C,1
+STU-0002,Mechanical Engineering,2.532,ME301,Machine Design,300,7.23,1,83.2,3,A,1
+STU-0364,Geological Engineering,2.278,GL201,Structural Geology,200,7.47,1,88.4,3,C,1
+STU-0563,Electrical Engineering,2.45,EE201,Circuit Theory II,200,7.26,1,72.1,3,F,0
+STU-0087,Mining Engineering,2.096,MN201,Introduction to Mining,300,5.93,1,74.4,2,F,0
+STU-0086,Geological Engineering,2.894,GL301,Hydrogeology,300,7.27,1,75.4,3,A,1
+STU-0426,Mining Engineering,2.889,MN301,Rock Mechanics,300,7.59,1,68.0,3,A,1
+STU-0038,Mechanical Engineering,2.477,ME301,Machine Design,300,7.67,1,78.6,3,F,0
+STU-0454,Electrical Engineering,3.483,EE401,Renewable Energy,200,7.21,1,71.3,3,A,1
+STU-0413,Electrical Engineering,3.115,EE301,Power Systems I,200,7.7,1,98.9,3,A,1
+STU-0342,Mining Engineering,2.833,MN301,Rock Mechanics,300,7.41,3,64.2,3,F,0
+STU-0339,Mining Engineering,2.772,MN201,Introduction to Mining,200,5.81,1,64.4,2,B,1
+STU-0031,Geological Engineering,2.331,GL201,Structural Geology,300,6.73,1,69.6,3,C,1
+STU-0593,Geological Engineering,3.188,GL401,Engineering Geology,200,7.29,1,66.1,3,A,1
+STU-0459,Mining Engineering,2.009,MN301,Rock Mechanics,300,7.06,1,75.9,3,C,1
+STU-0015,Mechanical Engineering,2.94,ME401,Finite Element Methods,400,7.52,1,77.2,3,F,0
+STU-0152,Geological Engineering,3.137,GL201,Structural Geology,300,7.29,1,77.6,3,A,1
+STU-0249,Mechanical Engineering,3.141,ME301,Machine Design,300,7.39,1,75.5,3,A,1
+STU-0529,Mechanical Engineering,2.241,ME401,Finite Element Methods,200,7.23,1,56.7,3,F,0
+STU-0260,Mining Engineering,3.04,MN201,Introduction to Mining,200,6.23,1,81.4,2,A,1
+STU-0338,Electrical Engineering,2.224,EE301,Power Systems I,300,8.1,1,99.3,3,F,0
+STU-0319,Geological Engineering,2.274,GL401,Engineering Geology,200,7.65,1,99.8,3,F,0
+STU-0457,Electrical Engineering,2.566,EE401,Renewable Energy,300,6.72,1,84.5,3,C,1
+STU-0123,Geological Engineering,3.408,GL301,Hydrogeology,300,7.57,1,90.5,3,F,0
+STU-0228,Mechanical Engineering,3.318,EE201,Circuit Theory II,400,7.08,1,81.7,3,A,1
+STU-0405,Mining Engineering,2.99,MN301,Rock Mechanics,300,6.94,2,79.3,3,F,0
+STU-0020,Mining Engineering,2.647,MN301,Rock Mechanics,400,6.77,1,100.0,3,F,0
+STU-0091,Geological Engineering,2.306,GL401,Engineering Geology,300,7.05,1,78.9,3,F,0
+STU-0490,Mechanical Engineering,2.321,ME301,Machine Design,300,7.45,1,100.0,3,C,1
+STU-0442,Electrical Engineering,3.043,EE401,Renewable Energy,300,6.94,1,86.2,3,F,0
+STU-0384,Mechanical Engineering,2.653,ME301,Machine Design,300,6.9,1,79.4,3,B,1
+STU-0597,Electrical Engineering,3.238,EE401,Renewable Energy,200,6.62,1,97.1,3,A,1
+STU-0028,Mining Engineering,3.306,ME301,Machine Design,400,7.62,1,76.6,3,F,0
+STU-0417,Electrical Engineering,2.943,EE201,Circuit Theory II,300,6.76,1,62.9,3,D,1
+STU-0529,Mining Engineering,2.434,MN401,Mine Planning,300,7.99,1,62.5,3,F,0
+STU-0216,Electrical Engineering,3.002,EE401,Renewable Energy,300,6.94,2,89.2,3,B,1
+STU-0582,Geological Engineering,2.145,GL401,Engineering Geology,200,7.11,1,96.1,3,C,1
+STU-0175,Geological Engineering,3.475,GL201,Structural Geology,300,6.57,1,100.0,3,A,1
+STU-0227,Mechanical Engineering,2.2,GL401,Engineering Geology,200,7.14,1,86.8,3,F,0
+STU-0101,Mining Engineering,3.008,MN301,Rock Mechanics,200,7.56,1,91.3,3,A,1
+STU-0535,Electrical Engineering,2.779,EE301,Power Systems I,300,8.38,1,100.0,3,B,1
+STU-0134,Mechanical Engineering,2.565,ME301,Machine Design,200,7.58,1,87.1,3,B,1
+STU-0577,Mechanical Engineering,3.089,ME201,Thermodynamics I,200,7.21,1,52.2,3,C,1
+STU-0404,Mining Engineering,2.448,MN301,Rock Mechanics,200,7.8,1,66.4,3,D,1
+STU-0044,Mining Engineering,2.78,MN401,Mine Planning,300,8.09,1,63.1,3,F,0
+STU-0317,Geological Engineering,2.456,GL301,Hydrogeology,200,6.75,1,93.5,3,B,1
+STU-0249,Geological Engineering,2.456,GL201,Structural Geology,200,6.28,1,69.7,3,D,1
+STU-0591,Electrical Engineering,2.111,EE401,Renewable Energy,300,6.47,1,67.0,3,F,0
+STU-0035,Mechanical Engineering,2.235,ME401,Finite Element Methods,200,8.18,1,87.2,3,D,1
+STU-0379,Electrical Engineering,2.649,EE201,Circuit Theory II,400,6.93,1,71.3,3,F,0
+STU-0570,Geological Engineering,3.153,GL201,Structural Geology,300,7.29,1,100.0,3,A,1
+STU-0520,Geological Engineering,3.204,GL301,Hydrogeology,200,6.97,1,84.8,3,A,1
+STU-0591,Geological Engineering,2.577,GL201,Structural Geology,300,6.51,1,74.3,3,B,1
+STU-0290,Geological Engineering,3.083,GL401,Engineering Geology,200,7.14,3,71.1,3,F,0
+STU-0072,Mechanical Engineering,2.768,EE401,Renewable Energy,300,7.33,1,82.8,3,B,1
+STU-0236,Geological Engineering,2.637,GL301,Hydrogeology,400,7.44,1,72.9,3,C,1
+STU-0106,Geological Engineering,2.047,ME201,Thermodynamics I,400,6.6,1,91.8,3,F,0
+STU-0211,Geological Engineering,2.632,GL401,Engineering Geology,200,7.15,1,91.0,3,B,1
+STU-0412,Geological Engineering,2.966,GL401,Engineering Geology,300,7.92,2,86.1,3,A,1
+STU-0313,Mining Engineering,2.824,MN201,Introduction to Mining,400,6.21,1,90.8,2,A,1
+STU-0480,Mining Engineering,2.345,MN201,Introduction to Mining,200,6.23,1,100.0,2,F,0
+STU-0361,Geological Engineering,2.989,GL201,Structural Geology,200,6.66,1,60.7,3,A,1
+STU-0072,Electrical Engineering,2.512,EE301,Power Systems I,300,7.58,1,83.0,3,B,1
+STU-0381,Geological Engineering,2.951,GL401,Engineering Geology,200,7.07,1,67.3,3,F,0
+STU-0562,Mining Engineering,2.781,ME401,Finite Element Methods,200,7.93,1,79.8,3,B,1
+STU-0372,Electrical Engineering,2.369,EE401,Renewable Energy,300,6.73,1,86.6,3,D,1
+STU-0086,Mining Engineering,3.111,MN401,Mine Planning,200,7.68,1,96.3,3,A,1
+STU-0381,Electrical Engineering,2.899,EE401,Renewable Energy,400,7.39,1,83.1,3,A,1
+STU-0518,Electrical Engineering,2.69,EE401,Renewable Energy,300,7.32,1,61.4,3,B,1
+STU-0490,Electrical Engineering,3.27,EE401,Renewable Energy,200,6.64,1,64.2,3,D,1
+STU-0562,Geological Engineering,2.716,GL201,Structural Geology,400,6.27,2,89.0,3,F,0
+STU-0449,Electrical Engineering,1.5,EE301,Power Systems I,200,7.82,1,59.8,3,D,1
+STU-0203,Geological Engineering,2.508,GL201,Structural Geology,300,7.26,1,82.5,3,C,1
+STU-0180,Mining Engineering,3.04,MN401,Mine Planning,200,7.46,1,69.4,3,A,1
+STU-0241,Mining Engineering,2.775,MN401,Mine Planning,200,8.28,1,86.4,3,A,1
+STU-0475,Mechanical Engineering,3.692,ME301,Machine Design,200,8.48,1,86.6,3,A,1
+STU-0553,Electrical Engineering,3.842,EE201,Circuit Theory II,400,6.89,1,85.6,3,A,1
+STU-0009,Mining Engineering,2.409,GL401,Engineering Geology,400,7.08,1,90.8,3,F,0
+STU-0415,Mechanical Engineering,2.818,GL301,Hydrogeology,400,6.33,1,96.5,3,A,1
+STU-0327,Mining Engineering,2.029,MN401,Mine Planning,400,7.36,1,87.3,3,F,0
+STU-0342,Mechanical Engineering,2.591,ME401,Finite Element Methods,300,7.98,1,66.0,3,C,1
+STU-0395,Mechanical Engineering,3.644,ME201,Thermodynamics I,300,6.87,1,90.6,3,A,1
+STU-0273,Mining Engineering,3.264,MN201,Introduction to Mining,300,6.17,1,86.2,2,A,1
+STU-0034,Geological Engineering,2.618,EE201,Circuit Theory II,200,6.62,1,74.3,3,B,1
+STU-0116,Geological Engineering,2.842,GL301,Hydrogeology,300,6.96,1,72.6,3,B,1
+STU-0529,Mechanical Engineering,2.408,EE301,Power Systems I,200,7.53,1,62.7,3,F,0
+STU-0210,Electrical Engineering,2.772,MN401,Mine Planning,400,8.06,1,97.6,3,B,1
+STU-0205,Geological Engineering,2.936,EE301,Power Systems I,200,7.36,1,58.9,3,C,1
+STU-0409,Electrical Engineering,2.459,EE401,Renewable Energy,300,6.95,1,73.9,3,D,1
+STU-0485,Mechanical Engineering,2.385,ME201,Thermodynamics I,200,6.69,1,100.0,3,C,1
+STU-0353,Geological Engineering,3.233,GL301,Hydrogeology,300,7.38,3,99.4,3,B,1
+STU-0443,Electrical Engineering,3.273,EE201,Circuit Theory II,200,6.33,1,100.0,3,A,1
+STU-0157,Electrical Engineering,2.656,GL401,Engineering Geology,400,6.87,1,100.0,3,A,1
+STU-0421,Mechanical Engineering,3.734,ME301,Machine Design,200,7.75,1,81.6,3,A,1
+STU-0028,Mechanical Engineering,2.079,ME301,Machine Design,200,7.73,1,80.6,3,D,1
+STU-0295,Geological Engineering,3.166,GL301,Hydrogeology,200,7.49,1,78.5,3,C,1
+STU-0437,Mechanical Engineering,2.814,MN201,Introduction to Mining,300,6.81,1,83.2,2,A,1
+STU-0066,Geological Engineering,1.868,GL201,Structural Geology,200,7.57,1,99.5,3,D,1
+STU-0017,Geological Engineering,1.708,GL201,Structural Geology,200,6.89,1,96.3,3,F,0
+STU-0433,Geological Engineering,2.914,GL301,Hydrogeology,300,7.03,1,63.4,3,A,1
+STU-0176,Electrical Engineering,3.141,EE301,Power Systems I,300,7.44,1,82.9,3,A,1
+STU-0136,Mechanical Engineering,2.383,ME401,Finite Element Methods,400,7.95,1,70.7,3,F,0
+STU-0355,Electrical Engineering,2.561,EE201,Circuit Theory II,400,7.15,2,82.2,3,D,1
+STU-0350,Mechanical Engineering,2.149,ME201,Thermodynamics I,200,6.86,1,90.9,3,F,0
+STU-0109,Mining Engineering,2.263,MN401,Mine Planning,300,7.62,1,89.9,3,D,1
+STU-0416,Electrical Engineering,2.274,EE201,Circuit Theory II,200,7.11,2,93.3,3,F,0
+STU-0420,Mining Engineering,2.95,MN301,Rock Mechanics,200,7.44,1,99.4,3,D,1
+STU-0106,Geological Engineering,3.067,GL201,Structural Geology,200,6.83,1,88.8,3,A,1
+STU-0506,Mining Engineering,3.154,MN401,Mine Planning,200,7.81,3,79.2,3,D,1
+STU-0467,Mining Engineering,2.497,MN301,Rock Mechanics,200,7.2,1,100.0,3,B,1
+STU-0368,Mining Engineering,2.923,MN401,Mine Planning,300,8.03,1,85.6,3,A,1
+STU-0369,Geological Engineering,2.488,GL201,Structural Geology,200,6.65,1,65.5,3,C,1
+STU-0336,Electrical Engineering,2.3,EE201,Circuit Theory II,300,7.26,1,91.0,3,C,1
+STU-0496,Electrical Engineering,2.63,EE201,Circuit Theory II,200,6.78,1,82.0,3,B,1
+STU-0281,Geological Engineering,2.514,GL201,Structural Geology,200,7.67,1,94.8,3,F,0
+STU-0247,Geological Engineering,2.021,GL201,Structural Geology,400,6.99,1,69.3,3,F,0
+STU-0068,Mechanical Engineering,2.542,ME201,Thermodynamics I,300,6.68,3,78.8,3,D,1
+STU-0064,Mining Engineering,2.756,MN401,Mine Planning,300,7.64,1,87.4,3,B,1
+STU-0400,Mining Engineering,2.816,MN401,Mine Planning,400,7.5,1,100.0,3,A,1
+STU-0307,Mechanical Engineering,2.886,ME301,Machine Design,400,7.25,3,72.9,3,D,1
+STU-0527,Mining Engineering,3.106,MN401,Mine Planning,200,8.03,1,73.5,3,A,1
+STU-0075,Geological Engineering,3.016,GL401,Engineering Geology,400,8.26,1,81.5,3,A,1
+STU-0126,Geological Engineering,3.385,GL301,Hydrogeology,200,6.91,1,84.5,3,A,1
+STU-0124,Mechanical Engineering,2.42,ME201,Thermodynamics I,300,7.45,1,96.8,3,B,1
+STU-0328,Mechanical Engineering,2.419,EE201,Circuit Theory II,200,7.33,3,61.4,3,D,1
+STU-0281,Mining Engineering,2.548,EE401,Renewable Energy,300,5.95,1,82.1,3,B,1
+STU-0381,Geological Engineering,3.281,GL401,Engineering Geology,300,7.28,1,89.0,3,A,1
+STU-0456,Mechanical Engineering,2.922,ME401,Finite Element Methods,200,7.9,1,100.0,3,B,1
+STU-0240,Geological Engineering,2.666,GL201,Structural Geology,400,7.45,1,86.2,3,D,1
+STU-0020,Mechanical Engineering,2.742,ME201,Thermodynamics I,200,6.63,1,89.4,3,A,1
+STU-0464,Mining Engineering,1.891,MN401,Mine Planning,200,8.25,1,69.6,3,F,0
+STU-0042,Mechanical Engineering,3.128,EE401,Renewable Energy,400,6.81,1,80.7,3,F,0
+STU-0239,Mechanical Engineering,2.486,ME201,Thermodynamics I,300,7.51,1,74.2,3,D,1
+STU-0017,Mechanical Engineering,3.232,GL301,Hydrogeology,300,7.36,1,84.5,3,A,1
+STU-0188,Geological Engineering,3.027,GL301,Hydrogeology,300,7.23,2,71.9,3,F,0
+STU-0052,Electrical Engineering,2.124,EE401,Renewable Energy,200,6.6,1,77.9,3,F,0
+STU-0176,Mechanical Engineering,2.835,ME201,Thermodynamics I,200,7.89,1,61.8,3,B,1
+STU-0004,Geological Engineering,2.561,GL201,Structural Geology,200,6.95,1,70.6,3,D,1
+STU-0210,Mining Engineering,2.445,MN401,Mine Planning,300,7.6,2,94.9,3,D,1
+STU-0507,Electrical Engineering,1.81,EE401,Renewable Energy,300,6.96,1,69.8,3,F,0
+STU-0131,Mining Engineering,2.382,ME201,Thermodynamics I,300,7.02,1,91.0,3,F,0
+STU-0144,Mechanical Engineering,2.495,ME201,Thermodynamics I,400,6.59,1,97.9,3,B,1
+STU-0018,Electrical Engineering,2.461,EE201,Circuit Theory II,200,7.2,1,72.3,3,C,1
+STU-0401,Mining Engineering,1.903,EE201,Circuit Theory II,200,7.07,1,62.4,3,F,0
+STU-0225,Mechanical Engineering,3.252,ME401,Finite Element Methods,300,8.0,1,99.5,3,A,1
+STU-0437,Mechanical Engineering,1.89,ME301,Machine Design,300,7.59,1,100.0,3,D,1
+STU-0257,Mining Engineering,2.575,MN201,Introduction to Mining,200,5.42,1,72.6,2,A,1
+STU-0311,Mechanical Engineering,2.946,ME401,Finite Element Methods,300,7.74,3,88.1,3,F,0
+STU-0166,Mechanical Engineering,2.608,ME301,Machine Design,200,6.6,1,65.7,3,B,1
+STU-0107,Electrical Engineering,3.522,EE301,Power Systems I,200,7.65,2,71.6,3,A,1
+STU-0253,Mechanical Engineering,2.815,ME401,Finite Element Methods,300,7.61,1,81.2,3,C,1
+STU-0377,Mechanical Engineering,2.108,ME201,Thermodynamics I,300,6.52,1,83.3,3,F,0
+STU-0405,Mining Engineering,2.395,MN201,Introduction to Mining,300,6.28,1,74.5,2,D,1
+STU-0485,Mining Engineering,2.835,MN201,Introduction to Mining,300,5.95,1,68.0,2,F,0
+STU-0584,Geological Engineering,3.004,GL401,Engineering Geology,400,6.78,1,84.5,3,D,1
+STU-0385,Mechanical Engineering,2.947,ME401,Finite Element Methods,400,8.65,1,69.1,3,F,0
+STU-0073,Electrical Engineering,2.397,EE201,Circuit Theory II,300,7.22,1,69.0,3,C,1
+STU-0042,Mechanical Engineering,2.542,ME201,Thermodynamics I,400,6.91,1,94.7,3,A,1
+STU-0432,Mechanical Engineering,2.505,ME201,Thermodynamics I,300,7.28,1,98.6,3,F,0
+STU-0208,Geological Engineering,2.778,ME401,Finite Element Methods,400,8.7,1,67.8,3,F,0
+STU-0163,Geological Engineering,2.424,GL301,Hydrogeology,300,7.21,1,91.3,3,C,1
+STU-0497,Geological Engineering,3.108,GL401,Engineering Geology,200,6.81,1,58.9,3,A,1
+STU-0202,Geological Engineering,2.734,GL301,Hydrogeology,200,6.65,1,56.1,3,C,1
+STU-0066,Mining Engineering,2.726,MN201,Introduction to Mining,200,6.09,1,79.7,2,A,1
+STU-0212,Mining Engineering,3.267,MN401,Mine Planning,200,7.61,1,84.9,3,A,1
+STU-0415,Mining Engineering,2.423,MN201,Introduction to Mining,200,5.99,1,91.2,2,F,0
+STU-0438,Mining Engineering,2.995,MN401,Mine Planning,300,7.7,1,68.8,3,B,1
+STU-0337,Mining Engineering,2.361,MN201,Introduction to Mining,200,6.38,1,61.6,2,F,0
+STU-0389,Geological Engineering,2.105,GL401,Engineering Geology,200,6.8,1,69.3,3,F,0
+STU-0477,Mechanical Engineering,2.598,ME301,Machine Design,400,7.57,3,88.3,3,F,0
+STU-0371,Geological Engineering,2.076,GL401,Engineering Geology,400,7.32,1,86.6,3,F,0
+STU-0044,Electrical Engineering,2.284,EE401,Renewable Energy,200,7.31,1,90.1,3,F,0
+STU-0436,Geological Engineering,3.269,GL301,Hydrogeology,300,6.99,1,64.6,3,A,1
+STU-0110,Mechanical Engineering,2.363,ME301,Machine Design,400,7.66,1,70.5,3,F,0
+STU-0027,Mechanical Engineering,2.497,ME401,Finite Element Methods,400,8.0,1,83.3,3,D,1
+STU-0123,Geological Engineering,2.235,GL401,Engineering Geology,200,7.37,1,65.1,3,F,0
+STU-0403,Geological Engineering,2.452,GL301,Hydrogeology,200,7.37,1,94.0,3,C,1
+STU-0482,Mining Engineering,3.042,MN201,Introduction to Mining,300,6.12,1,60.7,2,A,1
+STU-0240,Geological Engineering,2.76,GL301,Hydrogeology,300,7.24,1,100.0,3,A,1
+STU-0580,Geological Engineering,2.912,GL301,Hydrogeology,300,7.14,1,70.0,3,B,1
+STU-0242,Electrical Engineering,2.62,EE201,Circuit Theory II,200,6.83,1,79.6,3,F,0
+STU-0045,Electrical Engineering,2.674,EE401,Renewable Energy,200,6.81,1,73.0,3,B,1
+STU-0124,Mechanical Engineering,2.556,ME201,Thermodynamics I,300,7.1,1,63.3,3,C,1
+STU-0570,Electrical Engineering,3.046,EE301,Power Systems I,400,6.95,1,90.3,3,A,1
+STU-0134,Mining Engineering,2.206,MN301,Rock Mechanics,400,7.24,1,100.0,3,F,0
+STU-0433,Geological Engineering,2.699,GL201,Structural Geology,200,7.0,1,79.8,3,F,0
+STU-0411,Mechanical Engineering,2.971,ME301,Machine Design,200,7.09,1,62.6,3,A,1
+STU-0240,Mining Engineering,3.261,MN301,Rock Mechanics,200,7.19,1,72.2,3,A,1
+STU-0059,Mining Engineering,2.902,MN201,Introduction to Mining,200,6.37,1,65.8,2,A,1
+STU-0015,Mechanical Engineering,3.039,ME301,Machine Design,400,7.39,1,90.6,3,A,1
+STU-0133,Electrical Engineering,2.328,EE201,Circuit Theory II,400,7.19,1,77.9,3,C,1
+STU-0065,Geological Engineering,3.019,GL301,Hydrogeology,200,6.54,1,100.0,3,A,1
+STU-0174,Geological Engineering,2.591,GL301,Hydrogeology,200,7.37,1,82.0,3,B,1
+STU-0177,Mechanical Engineering,2.94,ME201,Thermodynamics I,400,6.81,1,65.2,3,F,0
+STU-0048,Mining Engineering,2.825,MN201,Introduction to Mining,200,6.41,1,80.9,2,A,1
+STU-0526,Mining Engineering,2.276,MN301,Rock Mechanics,300,7.28,1,94.8,3,F,0
+STU-0180,Mechanical Engineering,1.931,ME201,Thermodynamics I,200,6.88,1,90.4,3,F,0
+STU-0438,Mining Engineering,2.878,MN301,Rock Mechanics,200,7.24,1,97.9,3,A,1
+STU-0598,Mining Engineering,2.608,MN301,Rock Mechanics,200,7.06,2,75.1,3,D,1
+STU-0372,Geological Engineering,3.016,GL401,Engineering Geology,300,7.81,1,75.0,3,B,1
+STU-0060,Mechanical Engineering,2.376,GL201,Structural Geology,200,6.72,1,76.4,3,F,0
+STU-0085,Mining Engineering,3.419,MN201,Introduction to Mining,300,6.64,1,76.5,2,A,1
+STU-0462,Geological Engineering,2.119,GL201,Structural Geology,300,7.46,1,73.6,3,F,0
+STU-0305,Electrical Engineering,2.511,EE301,Power Systems I,300,7.9,1,77.4,3,D,1
+STU-0466,Mechanical Engineering,1.84,EE301,Power Systems I,200,7.31,1,86.3,3,D,1
+STU-0156,Mining Engineering,2.652,MN401,Mine Planning,400,7.81,1,100.0,3,B,1
+STU-0460,Mining Engineering,2.011,MN401,Mine Planning,200,7.72,1,96.4,3,D,1
+STU-0400,Mining Engineering,2.737,MN201,Introduction to Mining,200,5.98,1,58.0,2,B,1
+STU-0037,Mechanical Engineering,2.399,ME201,Thermodynamics I,300,7.49,1,93.5,3,F,0
+STU-0560,Geological Engineering,2.524,GL201,Structural Geology,400,6.85,1,100.0,3,A,1
+STU-0118,Electrical Engineering,2.368,EE401,Renewable Energy,200,7.27,3,75.0,3,F,0
+STU-0462,Electrical Engineering,2.784,EE401,Renewable Energy,300,6.76,1,91.7,3,A,1
+STU-0466,Electrical Engineering,2.375,MN201,Introduction to Mining,300,6.14,1,60.1,2,C,1
+STU-0484,Electrical Engineering,3.213,EE201,Circuit Theory II,300,6.89,1,77.4,3,A,1
+STU-0244,Mining Engineering,2.924,MN401,Mine Planning,200,8.07,1,80.1,3,B,1
+STU-0145,Electrical Engineering,2.715,EE301,Power Systems I,200,7.31,3,95.5,3,D,1
+STU-0472,Electrical Engineering,2.281,EE201,Circuit Theory II,400,6.65,1,77.1,3,F,0
+STU-0321,Geological Engineering,2.249,GL201,Structural Geology,200,7.26,1,72.8,3,F,0
+STU-0215,Geological Engineering,2.896,GL301,Hydrogeology,200,7.24,1,95.8,3,B,1
+STU-0107,Mechanical Engineering,2.285,ME401,Finite Element Methods,400,7.58,1,90.4,3,F,0
+STU-0477,Geological Engineering,2.87,EE301,Power Systems I,400,7.37,1,88.7,3,C,1
+STU-0157,Mechanical Engineering,2.548,GL401,Engineering Geology,300,7.92,1,67.0,3,C,1
+STU-0252,Mechanical Engineering,2.135,ME401,Finite Element Methods,300,8.08,1,80.6,3,F,0
+STU-0311,Mechanical Engineering,3.188,ME201,Thermodynamics I,300,7.3,1,87.1,3,B,1
+STU-0278,Geological Engineering,2.798,GL401,Engineering Geology,300,7.32,1,91.3,3,B,1
+STU-0353,Electrical Engineering,2.865,EE301,Power Systems I,200,7.73,1,100.0,3,A,1
+STU-0562,Mining Engineering,2.206,MN401,Mine Planning,300,7.74,1,81.4,3,F,0
+STU-0050,Mining Engineering,2.503,MN401,Mine Planning,300,7.74,3,75.1,3,F,0
+STU-0198,Geological Engineering,2.86,GL401,Engineering Geology,300,7.27,1,74.2,3,B,1
+STU-0570,Geological Engineering,2.311,GL401,Engineering Geology,300,6.97,1,74.4,3,F,0
+STU-0453,Electrical Engineering,2.437,EE401,Renewable Energy,200,6.82,1,64.4,3,F,0
+STU-0491,Geological Engineering,1.996,GL201,Structural Geology,400,7.26,1,66.6,3,D,1
+STU-0026,Geological Engineering,2.834,GL401,Engineering Geology,300,7.55,1,97.2,3,D,1
+STU-0262,Mining Engineering,3.056,MN301,Rock Mechanics,300,7.63,1,76.8,3,A,1
+STU-0278,Mining Engineering,3.261,MN301,Rock Mechanics,400,7.21,1,76.2,3,A,1
+STU-0528,Electrical Engineering,2.907,EE301,Power Systems I,400,7.91,1,77.4,3,B,1
+STU-0364,Mining Engineering,2.701,MN201,Introduction to Mining,200,5.77,1,86.6,2,C,1
+STU-0278,Electrical Engineering,2.651,EE301,Power Systems I,200,8.2,1,99.5,3,C,1
+STU-0279,Geological Engineering,2.581,GL401,Engineering Geology,200,7.53,1,86.5,3,C,1
+STU-0312,Mechanical Engineering,2.244,ME401,Finite Element Methods,400,7.78,1,71.0,3,D,1
+STU-0253,Geological Engineering,2.919,GL201,Structural Geology,200,7.41,1,73.8,3,A,1
+STU-0598,Electrical Engineering,2.958,EE401,Renewable Energy,300,7.04,1,87.6,3,A,1
+STU-0254,Mining Engineering,2.783,MN401,Mine Planning,300,7.12,1,79.2,3,B,1
+STU-0423,Geological Engineering,2.578,GL201,Structural Geology,200,6.47,1,69.6,3,B,1
+STU-0261,Mechanical Engineering,1.992,ME301,Machine Design,300,7.54,1,79.0,3,F,0
+STU-0189,Geological Engineering,3.325,GL201,Structural Geology,200,6.76,1,100.0,3,A,1
+STU-0571,Mining Engineering,2.528,MN301,Rock Mechanics,200,7.6,1,74.8,3,D,1
+STU-0077,Mechanical Engineering,2.914,ME301,Machine Design,400,7.49,1,84.1,3,F,0
+STU-0024,Mechanical Engineering,2.864,ME201,Thermodynamics I,300,6.94,1,78.0,3,D,1
+STU-0147,Mining Engineering,3.24,MN401,Mine Planning,400,7.87,1,81.2,3,A,1
+STU-0265,Mining Engineering,2.435,MN201,Introduction to Mining,400,6.39,1,75.9,2,F,0
+STU-0300,Geological Engineering,3.254,GL401,Engineering Geology,300,7.82,1,71.4,3,A,1
+STU-0121,Mechanical Engineering,3.003,EE401,Renewable Energy,200,7.01,1,69.7,3,B,1
+STU-0461,Mechanical Engineering,1.618,ME301,Machine Design,200,7.4,1,69.8,3,F,0
+STU-0244,Electrical Engineering,3.58,EE401,Renewable Energy,300,7.04,1,77.4,3,A,1
+STU-0447,Mechanical Engineering,3.153,ME301,Machine Design,200,7.59,1,100.0,3,A,1
+STU-0053,Electrical Engineering,2.145,EE201,Circuit Theory II,200,6.53,1,81.3,3,C,1
+STU-0019,Mining Engineering,3.268,MN401,Mine Planning,200,7.23,1,97.4,3,A,1
+STU-0523,Mechanical Engineering,2.758,ME301,Machine Design,400,7.28,2,91.9,3,B,1
+STU-0217,Mechanical Engineering,3.104,GL201,Structural Geology,300,7.5,1,74.7,3,A,1
+STU-0457,Electrical Engineering,2.775,EE401,Renewable Energy,400,6.85,1,98.0,3,F,0
+STU-0295,Geological Engineering,2.817,GL201,Structural Geology,400,6.74,1,96.2,3,A,1
+STU-0096,Mechanical Engineering,3.063,ME201,Thermodynamics I,400,7.09,1,74.1,3,A,1
+STU-0333,Mining Engineering,2.604,MN401,Mine Planning,300,8.22,2,81.8,3,D,1
+STU-0327,Electrical Engineering,2.821,EE201,Circuit Theory II,200,7.37,1,69.6,3,F,0
+STU-0393,Mechanical Engineering,2.329,ME401,Finite Element Methods,400,7.88,1,63.5,3,F,0
+STU-0142,Mechanical Engineering,2.944,ME201,Thermodynamics I,400,7.55,1,76.3,3,A,1
+STU-0589,Geological Engineering,3.206,GL201,Structural Geology,200,6.88,1,90.6,3,D,1
+STU-0254,Geological Engineering,2.164,GL201,Structural Geology,300,7.01,1,76.1,3,C,1
+STU-0289,Geological Engineering,2.258,GL301,Hydrogeology,200,6.59,1,58.9,3,F,0
+STU-0231,Electrical Engineering,2.667,EE301,Power Systems I,300,7.53,1,68.6,3,F,0
+STU-0266,Electrical Engineering,2.458,EE401,Renewable Energy,300,6.87,1,83.1,3,F,0
+STU-0396,Electrical Engineering,3.713,EE401,Renewable Energy,300,6.97,1,81.3,3,A,1
+STU-0522,Geological Engineering,2.788,GL201,Structural Geology,200,7.14,1,85.2,3,B,1
+STU-0202,Mining Engineering,2.151,MN301,Rock Mechanics,200,7.51,1,68.0,3,F,0
+STU-0407,Mining Engineering,2.508,MN301,Rock Mechanics,400,7.74,1,63.0,3,D,1
+STU-0449,Electrical Engineering,2.546,EE201,Circuit Theory II,300,7.24,1,95.8,3,F,0
+STU-0234,Mechanical Engineering,2.673,ME401,Finite Element Methods,200,7.63,1,75.5,3,B,1
+STU-0104,Electrical Engineering,3.604,EE401,Renewable Energy,200,7.58,1,73.9,3,A,1
+STU-0412,Geological Engineering,3.78,GL301,Hydrogeology,300,6.83,1,67.9,3,A,1
+STU-0497,Electrical Engineering,2.325,EE401,Renewable Energy,200,6.82,1,87.1,3,C,1
+STU-0453,Electrical Engineering,3.043,EE301,Power Systems I,400,7.19,1,53.6,3,B,1
+STU-0599,Electrical Engineering,2.988,EE301,Power Systems I,300,8.31,1,80.3,3,F,0
+STU-0065,Mechanical Engineering,2.437,ME401,Finite Element Methods,300,8.21,3,75.6,3,F,0
+STU-0563,Mining Engineering,2.317,MN401,Mine Planning,300,8.09,1,79.4,3,D,1
+STU-0067,Electrical Engineering,2.735,EE401,Renewable Energy,200,7.24,2,79.6,3,D,1
+STU-0576,Mechanical Engineering,2.644,ME401,Finite Element Methods,300,7.77,1,86.7,3,F,0
+STU-0166,Geological Engineering,3.4,GL301,Hydrogeology,200,7.57,1,70.2,3,A,1
+STU-0541,Geological Engineering,2.4,GL401,Engineering Geology,200,7.36,1,77.8,3,B,1
+STU-0259,Geological Engineering,2.812,GL301,Hydrogeology,200,7.19,1,80.9,3,A,1
+STU-0530,Mechanical Engineering,2.898,MN201,Introduction to Mining,300,6.39,1,90.8,2,A,1
+STU-0494,Geological Engineering,3.013,EE201,Circuit Theory II,300,7.42,1,95.3,3,A,1
+STU-0424,Geological Engineering,3.226,GL301,Hydrogeology,300,6.76,1,84.2,3,B,1
+STU-0001,Mechanical Engineering,2.448,ME301,Machine Design,300,6.86,1,74.4,3,F,0
+STU-0232,Electrical Engineering,2.603,EE301,Power Systems I,200,7.44,3,100.0,3,F,0
+STU-0226,Geological Engineering,2.83,ME301,Machine Design,400,7.16,1,81.3,3,F,0
+STU-0240,Geological Engineering,2.671,GL301,Hydrogeology,200,6.76,1,94.3,3,B,1
+STU-0080,Mining Engineering,2.279,MN401,Mine Planning,300,8.29,1,84.5,3,C,1
+STU-0433,Mining Engineering,3.116,MN401,Mine Planning,300,7.6,1,84.8,3,A,1
+STU-0267,Mining Engineering,3.009,MN301,Rock Mechanics,300,7.66,1,68.5,3,D,1
+STU-0297,Mining Engineering,2.651,MN401,Mine Planning,400,7.59,1,76.3,3,D,1
+STU-0591,Mechanical Engineering,2.34,ME301,Machine Design,200,7.53,1,71.1,3,C,1
+STU-0386,Mining Engineering,2.904,MN201,Introduction to Mining,200,6.29,1,100.0,2,F,0
+STU-0217,Mining Engineering,3.491,MN201,Introduction to Mining,400,6.61,1,89.1,2,A,1
+STU-0025,Geological Engineering,2.798,GL201,Structural Geology,200,7.57,1,93.9,3,B,1
+STU-0511,Geological Engineering,2.274,GL401,Engineering Geology,300,7.62,1,84.4,3,D,1
+STU-0318,Mining Engineering,3.005,MN201,Introduction to Mining,200,7.04,1,100.0,2,A,1
+STU-0418,Mining Engineering,2.435,MN201,Introduction to Mining,300,6.0,1,69.9,2,B,1
+STU-0571,Mechanical Engineering,2.803,ME301,Machine Design,300,7.26,2,100.0,3,F,0
+STU-0153,Electrical Engineering,2.624,EE301,Power Systems I,300,7.87,2,71.4,3,D,1
+STU-0251,Geological Engineering,4.0,GL201,Structural Geology,200,7.6,2,70.1,3,A,1
+STU-0517,Geological Engineering,2.722,GL201,Structural Geology,400,6.58,3,66.4,3,D,1
+STU-0488,Geological Engineering,2.621,GL301,Hydrogeology,300,7.01,1,91.4,3,A,1
+STU-0050,Electrical Engineering,2.377,MN401,Mine Planning,300,7.58,1,98.1,3,F,0
+STU-0503,Mechanical Engineering,3.453,ME301,Machine Design,300,6.97,1,77.8,3,A,1
+STU-0266,Electrical Engineering,3.606,EE301,Power Systems I,300,7.68,1,85.1,3,A,1
+STU-0178,Electrical Engineering,3.488,EE301,Power Systems I,400,7.61,1,60.3,3,A,1
+STU-0518,Mechanical Engineering,2.532,ME201,Thermodynamics I,300,7.01,1,94.0,3,F,0
+STU-0220,Electrical Engineering,2.823,EE401,Renewable Energy,300,6.74,1,80.3,3,A,1
+STU-0164,Mechanical Engineering,2.741,ME301,Machine Design,200,7.65,1,74.2,3,D,1
+STU-0243,Mechanical Engineering,2.788,ME201,Thermodynamics I,200,7.4,1,80.6,3,D,1
+STU-0098,Mechanical Engineering,2.711,ME301,Machine Design,400,7.41,1,74.1,3,F,0
+STU-0046,Mining Engineering,3.26,MN301,Rock Mechanics,300,7.67,1,89.8,3,A,1
+STU-0587,Electrical Engineering,3.537,GL201,Structural Geology,200,6.74,3,73.2,3,D,1
+STU-0395,Mining Engineering,3.063,MN301,Rock Mechanics,200,7.41,1,78.3,3,A,1
+STU-0129,Electrical Engineering,2.652,EE301,Power Systems I,200,7.78,1,68.2,3,C,1
+STU-0471,Mining Engineering,2.197,MN301,Rock Mechanics,400,7.43,3,77.4,3,D,1
+STU-0415,Electrical Engineering,3.036,EE301,Power Systems I,200,8.21,1,72.6,3,C,1
+STU-0069,Mechanical Engineering,2.403,ME301,Machine Design,300,7.22,1,82.2,3,C,1
+STU-0418,Mining Engineering,3.167,MN401,Mine Planning,300,8.01,1,98.2,3,A,1
+STU-0112,Electrical Engineering,2.722,EE301,Power Systems I,200,7.22,1,85.6,3,F,0
+STU-0039,Geological Engineering,3.141,GL201,Structural Geology,200,6.88,1,89.6,3,A,1
+STU-0232,Geological Engineering,2.063,GL201,Structural Geology,200,6.9,2,72.6,3,D,1
+STU-0065,Mining Engineering,3.087,MN301,Rock Mechanics,300,7.88,1,80.0,3,A,1
+STU-0204,Electrical Engineering,3.721,EE201,Circuit Theory II,300,6.71,1,90.6,3,A,1
+STU-0299,Mining Engineering,2.791,MN201,Introduction to Mining,300,5.82,1,100.0,2,F,0
+STU-0516,Mechanical Engineering,2.906,ME301,Machine Design,400,6.97,1,79.8,3,B,1
+STU-0438,Electrical Engineering,2.416,EE301,Power Systems I,300,7.69,1,86.3,3,B,1
+STU-0212,Electrical Engineering,2.754,EE201,Circuit Theory II,200,6.58,1,100.0,3,A,1
+STU-0342,Electrical Engineering,3.191,EE301,Power Systems I,400,7.28,1,70.1,3,A,1
+STU-0413,Mining Engineering,2.197,GL301,Hydrogeology,300,7.33,1,72.4,3,C,1
+STU-0115,Electrical Engineering,2.451,EE401,Renewable Energy,300,6.93,1,84.0,3,B,1
+STU-0418,Electrical Engineering,3.416,EE301,Power Systems I,400,7.62,1,78.3,3,A,1
+STU-0180,Mining Engineering,2.255,MN301,Rock Mechanics,400,7.02,1,88.3,3,F,0
+STU-0232,Geological Engineering,2.82,GL201,Structural Geology,300,7.32,1,70.1,3,F,0
+STU-0233,Geological Engineering,2.123,GL201,Structural Geology,200,7.08,1,94.9,3,C,1
+STU-0481,Geological Engineering,2.411,GL401,Engineering Geology,400,7.23,1,93.9,3,C,1
+STU-0402,Mechanical Engineering,2.948,ME201,Thermodynamics I,300,6.86,1,100.0,3,A,1
+STU-0344,Mining Engineering,2.872,MN201,Introduction to Mining,200,6.51,1,100.0,2,A,1
+STU-0564,Electrical Engineering,2.7,EE301,Power Systems I,300,8.05,3,100.0,3,F,0
+STU-0359,Geological Engineering,2.263,GL201,Structural Geology,400,7.22,1,72.5,3,D,1
+STU-0263,Mechanical Engineering,2.955,ME201,Thermodynamics I,400,6.94,1,87.1,3,A,1
+STU-0490,Mechanical Engineering,2.767,ME301,Machine Design,300,7.36,1,94.6,3,A,1
+STU-0507,Mining Engineering,3.229,MN301,Rock Mechanics,400,7.63,1,68.6,3,D,1
+STU-0019,Mining Engineering,2.625,EE301,Power Systems I,300,7.26,1,85.9,3,A,1
+STU-0463,Electrical Engineering,2.727,EE301,Power Systems I,400,7.64,1,78.5,3,B,1
+STU-0193,Geological Engineering,3.293,GL301,Hydrogeology,200,7.66,1,70.1,3,A,1
+STU-0589,Mining Engineering,2.511,MN201,Introduction to Mining,300,6.79,1,82.8,2,F,0
+STU-0148,Electrical Engineering,2.441,EE201,Circuit Theory II,300,7.39,1,66.7,3,D,1
+STU-0373,Electrical Engineering,2.498,EE401,Renewable Energy,200,6.75,1,74.9,3,F,0
+STU-0145,Mechanical Engineering,2.157,ME201,Thermodynamics I,300,6.77,1,76.6,3,C,1
+STU-0585,Geological Engineering,2.019,GL301,Hydrogeology,300,7.8,1,90.4,3,D,1
+STU-0096,Mechanical Engineering,2.604,ME401,Finite Element Methods,200,6.95,2,100.0,3,F,0
+STU-0283,Mining Engineering,2.891,MN301,Rock Mechanics,200,7.91,1,69.8,3,C,1
+STU-0459,Mining Engineering,2.835,MN401,Mine Planning,300,7.62,1,82.7,3,F,0

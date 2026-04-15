@@ -1,0 +1,87 @@
+{
+  "selected_model": "random_forest",
+  "selection_criterion": "Highest F1-score on stratified hold-out test set (imbalance handled via class_weight).",
+  "results": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.6507,
+      "precision": 0.851,
+      "recall": 0.639,
+      "f1_score": 0.7299
+    },
+    {
+      "model": "decision_tree",
+      "accuracy": 0.6027,
+      "precision": 0.7883,
+      "recall": 0.6318,
+      "f1_score": 0.7014
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.712,
+      "precision": 0.8189,
+      "recall": 0.7834,
+      "f1_score": 0.8007
+    }
+  ],
+  "feature_columns": [
+    "gpa",
+    "course_difficulty",
+    "course_level",
+    "attempts",
+    "attendance",
+    "credit_load",
+    "program",
+    "course_id"
+  ],
+  "feature_importance": [
+    {
+      "feature": "num__gpa",
+      "importance": 0.4627280429984315
+    },
+    {
+      "feature": "num__attendance",
+      "importance": 0.16031329176228137
+    },
+    {
+      "feature": "num__course_difficulty",
+      "importance": 0.15830558121357466
+    },
+    {
+      "feature": "num__course_level",
+      "importance": 0.042816694512720015
+    },
+    {
+      "feature": "num__attempts",
+      "importance": 0.03664119047191551
+    },
+    {
+      "feature": "cat__course_id_GL201",
+      "importance": 0.01059836495431312
+    },
+    {
+      "feature": "cat__course_id_ME401",
+      "importance": 0.010476362077623263
+    },
+    {
+      "feature": "cat__program_Mining Engineering",
+      "importance": 0.010199785225440619
+    },
+    {
+      "feature": "cat__course_id_ME301",
+      "importance": 0.010185847776990803
+    },
+    {
+      "feature": "cat__program_Electrical Engineering",
+      "importance": 0.009650013149341177
+    },
+    {
+      "feature": "cat__program_Geological Engineering",
+      "importance": 0.009151364086786719
+    },
+    {
+      "feature": "cat__course_id_GL401",
+      "importance": 0.00875824307166927
+    }
+  ]
+}
