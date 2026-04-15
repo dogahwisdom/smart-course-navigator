@@ -1,5 +1,5 @@
 """
-Smart Undergraduate Course Navigator — UMaT (Streamlit home).
+Smart Undergraduate Course Navigator - UMaT (Streamlit home).
 Run from project root: streamlit run app.py
 """
 from __future__ import annotations
@@ -31,14 +31,14 @@ with col2:
     st.info(
         "Use the sidebar pages to move between **Student & Prediction**, **Course Analytics**, "
         "**Recommendations**, and **Model Performance**. "
-        "Synthetic data are provided for academic demonstration—replace with governed registrar extracts "
+        "Synthetic data are provided for academic demonstration - replace with governed registrar extracts "
         "before any production deployment."
     )
 
 st.divider()
 st.markdown(
     """
-    **Repository (placeholder):** https://github.com/dogahwisdom/smart-course-navigator  
+    **Repository:** https://github.com/dogahwisdom/smart-course-navigator  
     **Tech stack:** Python · Streamlit · scikit-learn · pandas · plotly/matplotlib · joblib
     """
 )

@@ -38,7 +38,7 @@ if st.button("Generate recommendations", type="primary"):
     plan = engine.suggest(program=program, gpa=gpa, course_level=level, attendance=attendance)
     st.metric("Planned credits", plan["planned_credits"])
     for item in plan["courses"]:
-        with st.expander(f"{item['course_id']} — {item['course_name']}"):
+        with st.expander(f"{item['course_id']} - {item['course_name']}"):
             st.write(item["reasoning"])
             st.write(
                 {

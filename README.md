@@ -1,8 +1,8 @@
-# Smart Undergraduate Course Navigator (UMaT) — Streamlit
+# Smart Undergraduate Course Navigator (UMaT) - Streamlit
 
 Python-only intelligent decision support system for **course selection** and **academic performance** optimization at the **University of Mines and Technology (UMaT)**. The UI is built with **Streamlit**; models use **scikit-learn**; visuals use **Plotly** and **Matplotlib**.
 
-**GitHub placeholder:** https://github.com/dogahwisdom/smart-course-navigator
+**GitHub repository:** https://github.com/dogahwisdom/smart-course-navigator
 
 ## Features
 
