@@ -1,15 +1,12 @@
 """Student dashboard, ML prediction, and bundle risk analysis."""
 from __future__ import annotations
 
-import json
-from pathlib import Path
-
 import pandas as pd
 import streamlit as st
 
-from utils.ml_pipeline import load_model_bundle, predict_pass_probability
-from utils.paths import DATASET_CSV, METRICS_PATH, MODEL_PATH
-from utils.risk_analysis import RiskAssessmentService, build_program_course_index
+from utils.app_context import build_context
+from utils.ml_pipeline import predict_pass_probability
+from utils.risk_analysis import RiskAssessmentService
 
 st.title("Student workspace & prediction")
 
@@ -23,20 +20,10 @@ if "gpa" not in st.session_state:
         }
     )
 
-
-@st.cache_data
-def load_data() -> pd.DataFrame:
-    return pd.read_csv(DATASET_CSV)
-
-
-@st.cache_resource
-def bundle():
-    return load_model_bundle(MODEL_PATH)
-
-
-df = load_data()
-model = bundle()
-catalog = build_program_course_index(df)
+ctx = build_context()
+df = ctx.dataset
+model = ctx.model_bundle
+catalog = ctx.catalog_index
 programs = sorted(df["program"].unique())
 levels = [100, 200, 300, 400]
 
@@ -141,6 +128,6 @@ if st.button("Assess bundle risk"):
         st.warning(w)
     st.dataframe(pd.DataFrame(report["details"]), use_container_width=True)
 
-if METRICS_PATH.exists():
-    meta = json.loads(METRICS_PATH.read_text(encoding="utf-8"))
+if ctx.metrics:
+    meta = ctx.metrics
     st.caption(f"Production estimator in bundle: **{meta['selected_model']}**")

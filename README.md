@@ -101,8 +101,7 @@ Captured app screenshots are stored under `screenshots/app/` and are embedded au
 - `05_recommendation_inputs.png`
 - `06_model_performance_top.png`
 - `07_model_performance_detail.png`
-
-You can add notebook screenshots next (for appendices) and they will be integrated in a follow-up update.
+- Notebook evidence screenshots are stored under `screenshots/notebook/` and are also embedded in the appendices section of the generated report.
 
 ## Ethics
 

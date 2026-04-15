@@ -1,26 +1,14 @@
 """Semester planning with reasoning strings."""
 from __future__ import annotations
 
-import pandas as pd
 import streamlit as st
 
-from utils.ml_pipeline import load_model_bundle
-from utils.paths import DATASET_CSV, MODEL_PATH
+from utils.app_context import build_context
 from utils.recommendations import RecommendationEngine
 
-
-@st.cache_data
-def load_data() -> pd.DataFrame:
-    return pd.read_csv(DATASET_CSV)
-
-
-@st.cache_resource
-def bundle():
-    return load_model_bundle(MODEL_PATH)
-
-
-df = load_data()
-model = bundle()
+ctx = build_context()
+df = ctx.dataset
+model = ctx.model_bundle
 st.title("Recommendation system")
 
 col_a, col_b = st.columns(2)

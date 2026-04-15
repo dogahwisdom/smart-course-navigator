@@ -5,15 +5,11 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from utils.paths import DATASET_CSV
+from utils.app_context import build_context
 
 
-@st.cache_data
-def load_data() -> pd.DataFrame:
-    return pd.read_csv(DATASET_CSV)
-
-
-df = load_data()
+ctx = build_context()
+df = ctx.dataset
 st.title("Course analytics")
 
 agg = (

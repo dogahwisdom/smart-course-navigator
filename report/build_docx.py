@@ -39,6 +39,11 @@ class StreamlitProjectReport:
         self._closing()
 
     def _title(self) -> None:
+        logo = ASSETS / "umat_logo.jpg"
+        if logo.exists():
+            p_logo = self.doc.add_paragraph()
+            p_logo.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p_logo.add_run().add_picture(str(logo), width=Inches(1.3))
         p = self.doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         run = p.add_run(
@@ -157,7 +162,7 @@ class StreamlitProjectReport:
         ui = ASSETS / "fig_streamlit_ui.png"
         if ui.exists():
             self.doc.add_picture(str(ui), width=Inches(5.8))
-            self.doc.add_paragraph("Figure: Streamlit user interface mock layout.")
+            self.doc.add_paragraph("Figure: Streamlit user interface layout.")
 
         screenshots_dir = ROOT / "screenshots" / "app"
         screenshot_specs = [

@@ -1,22 +1,21 @@
 """Classifier benchmarking and feature importance."""
 from __future__ import annotations
 
-import json
-
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from utils.paths import METRICS_PATH
+from utils.app_context import build_context
 
 
 st.title("Model performance dashboard")
 
-if not METRICS_PATH.exists():
-    st.error("Run `python scripts/train.py` after generating the dataset.")
+ctx = build_context()
+if not ctx.metrics:
+    st.error("Training metrics are missing. Run `python scripts/train.py` after generating the dataset.")
     st.stop()
 
-metrics = json.loads(METRICS_PATH.read_text(encoding="utf-8"))
+metrics = ctx.metrics
 st.subheader("Model selection")
 st.write(metrics["selection_criterion"])
 st.success(f"Selected model: **{metrics['selected_model']}**")
