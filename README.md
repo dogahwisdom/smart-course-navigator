@@ -92,7 +92,17 @@ Open `notebooks/training.ipynb` and execute cells **with the working directory s
 
 ## Screenshots for your binder
 
-Run the app locally, capture each page, and save PNGs under `screenshots/`. A labeled mock figure is embedded in the Word report (`report/assets/fig_streamlit_ui.png`); replace it with real captures for final submission.
+Captured app screenshots are stored under `screenshots/app/` and are embedded automatically when generating the Word report. The current set includes:
+
+- `01_home.png`
+- `02_student_prediction.png`
+- `03_course_analytics_overview.png`
+- `04_course_analytics_charts.png`
+- `05_recommendation_inputs.png`
+- `06_model_performance_top.png`
+- `07_model_performance_detail.png`
+
+You can add notebook screenshots next (for appendices) and they will be integrated in a follow-up update.
 
 ## Ethics
 

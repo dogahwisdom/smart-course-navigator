@@ -1,4 +1,4 @@
-"""Assemble the final-year academic report (Microsoft Word)."""
+"""Assemble the end-of-semester academic report (Microsoft Word)."""
 from __future__ import annotations
 
 import json
@@ -46,7 +46,7 @@ class StreamlitProjectReport:
             "Intelligent Decision Support for Course Selection and Academic Performance Optimization at UMaT"
         )
         run.bold = True
-        sub = self.doc.add_paragraph("Final Year Project - Streamlit Implementation")
+        sub = self.doc.add_paragraph("End of Semester Project - Streamlit Implementation")
         sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
         meta = self.doc.add_paragraph(
             f"University of Mines and Technology (UMaT)\n{date.today():%B %d, %Y}\n"
@@ -155,6 +155,23 @@ class StreamlitProjectReport:
         ui = ASSETS / "fig_streamlit_ui.png"
         if ui.exists():
             self.doc.add_picture(str(ui), width=Inches(5.8))
+            self.doc.add_paragraph("Figure: Streamlit user interface mock layout.")
+
+        screenshots_dir = ROOT / "screenshots" / "app"
+        screenshot_specs = [
+            ("01_home.png", "Figure: Home page with project overview and repository link."),
+            ("02_student_prediction.png", "Figure: Student prediction page with profile inputs and risk analysis controls."),
+            ("03_course_analytics_overview.png", "Figure: Course analytics page showing aggregated table and primary plots."),
+            ("04_course_analytics_charts.png", "Figure: Extended analytics charts for difficulty and GPA-pass relationship."),
+            ("05_recommendation_inputs.png", "Figure: Recommendation page with program, GPA, level, and attendance controls."),
+            ("06_model_performance_top.png", "Figure: Model performance dashboard summary and model comparison chart."),
+            ("07_model_performance_detail.png", "Figure: Feature importance and interpretation guidance section."),
+        ]
+        for filename, caption in screenshot_specs:
+            img = screenshots_dir / filename
+            if img.exists():
+                self.doc.add_picture(str(img), width=Inches(5.9))
+                self.doc.add_paragraph(caption)
         self.doc.add_heading("Results and Evaluation", level=1)
         self.doc.add_paragraph(
             "Quantitative metrics are summarized in the performance dashboard and embedded figures. Qualitative "
@@ -203,6 +220,21 @@ class StreamlitProjectReport:
             "Appendix A: Directory tree (app.py, pages/, utils/, data/, models/). Appendix B: API-free architecture "
             "because Streamlit embeds server logic. Appendix C: evaluation_metrics.json stores raw metrics for audits."
         )
+        self.doc.add_paragraph("Appendix D: Notebook evidence screenshots.")
+        notebook_shots = [
+            (
+                ROOT / "screenshots" / "notebook" / "01_model_metrics_table.png",
+                "Figure: Notebook model metrics table export.",
+            ),
+            (
+                ROOT / "screenshots" / "notebook" / "02_feature_importance_table.png",
+                "Figure: Notebook feature importance table export.",
+            ),
+        ]
+        for img, caption in notebook_shots:
+            if img.exists():
+                self.doc.add_picture(str(img), width=Inches(5.9))
+                self.doc.add_paragraph(caption)
 
 
 def main() -> None:
