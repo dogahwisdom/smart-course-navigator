@@ -49,6 +49,8 @@ class StreamlitProjectReport:
         sub = self.doc.add_paragraph("End of Semester Project - Streamlit Implementation")
         sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
         meta = self.doc.add_paragraph(
+            "Course: Business Intelligence (BI)\n"
+            "Class: IS3B\n"
             f"University of Mines and Technology (UMaT)\n{date.today():%B %d, %Y}\n"
             "GitHub repository: https://github.com/dogahwisdom/smart-course-navigator"
         )
