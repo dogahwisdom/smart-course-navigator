@@ -85,6 +85,91 @@ class MLPipeline:
             ),
         }
 
+    def _evaluate_pipeline(
+        self,
+        pipe: Pipeline,
+        X_test: pd.DataFrame,
+        y_test: pd.Series,
+        model_name: str,
+    ) -> dict[str, Any]:
+        """Evaluate one trained pipeline and return rounded metrics row."""
+        y_pred = pipe.predict(X_test)
+        acc = accuracy_score(y_test, y_pred)
+        prec = precision_score(y_test, y_pred, zero_division=0)
+        rec = recall_score(y_test, y_pred, zero_division=0)
+        f1 = f1_score(y_test, y_pred, zero_division=0)
+        return {
+            "model": model_name,
+            "accuracy": round(float(acc), 4),
+            "precision": round(float(prec), 4),
+            "recall": round(float(rec), 4),
+            "f1_score": round(float(f1), 4),
+        }
+
+    def _train_candidates(
+        self,
+        X_train: pd.DataFrame,
+        y_train: pd.Series,
+        X_test: pd.DataFrame,
+        y_test: pd.Series,
+    ) -> tuple[list[dict[str, Any]], str, Pipeline]:
+        """Train candidate estimators and select best by F1-score."""
+        rows: list[dict[str, Any]] = []
+        best_name = ""
+        best_score = -1.0
+        best_pipe: Pipeline | None = None
+
+        for name, est in self._estimators().items():
+            pipe = Pipeline(steps=[("prep", build_preprocessor()), ("clf", est)])
+            pipe.fit(X_train, y_train)
+            row = self._evaluate_pipeline(pipe, X_test, y_test, name)
+            rows.append(row)
+            if row["f1_score"] > best_score:
+                best_score = row["f1_score"]
+                best_name = name
+                best_pipe = pipe
+
+        if best_pipe is None:
+            raise RuntimeError("No candidate model was successfully trained.")
+        return rows, best_name, best_pipe
+
+    def _build_metrics_payload(
+        self,
+        best_name: str,
+        rows: list[dict[str, Any]],
+        best_pipe: Pipeline,
+    ) -> dict[str, Any]:
+        """Build the JSON-serializable metrics payload."""
+        return {
+            "selected_model": best_name,
+            "selection_criterion": "Highest F1-score on stratified hold-out test set (imbalance handled via class_weight).",
+            "results": rows,
+            "feature_columns": list(NUMERIC_FEATURES) + list(CATEGORICAL_FEATURES),
+            "feature_importance": self._feature_importance(best_pipe),
+        }
+
+    def _persist_artifacts(
+        self,
+        best_pipe: Pipeline,
+        best_name: str,
+        metrics: dict[str, Any],
+        model_path: Path,
+        metrics_path: Path,
+    ) -> None:
+        """Persist model bundle and metrics JSON for downstream consumers."""
+        model_path.parent.mkdir(parents=True, exist_ok=True)
+        metrics_path.parent.mkdir(parents=True, exist_ok=True)
+        bundle = {
+            "pipeline": best_pipe,
+            "name": best_name,
+            "numeric": list(NUMERIC_FEATURES),
+            "categorical": list(CATEGORICAL_FEATURES),
+        }
+        joblib.dump(bundle, model_path)
+        pkl_path = model_path.with_name("trained_model.pkl")
+        shutil.copyfile(model_path, pkl_path)
+        metrics_path.write_text(json.dumps(metrics, indent=2), encoding="utf-8")
+
     def train_and_save(self, csv_path: Path, model_path: Path, metrics_path: Path) -> TrainingResult:
         """Run the full training pipeline and persist artifacts.
 
@@ -103,58 +188,13 @@ class MLPipeline:
         )
 
         # Phase 2: Candidate model training and evaluation.
-        rows: list[dict[str, Any]] = []
-        best_name = ""
-        best_score = -1.0
-        best_pipe: Pipeline | None = None
+        rows, best_name, best_pipe = self._train_candidates(X_train, y_train, X_test, y_test)
 
-        for name, est in self._estimators().items():
-            pipe = Pipeline(steps=[("prep", build_preprocessor()), ("clf", est)])
-            pipe.fit(X_train, y_train)
-            y_pred = pipe.predict(X_test)
-            acc = accuracy_score(y_test, y_pred)
-            prec = precision_score(y_test, y_pred, zero_division=0)
-            rec = recall_score(y_test, y_pred, zero_division=0)
-            f1 = f1_score(y_test, y_pred, zero_division=0)
-            rows.append(
-                {
-                    "model": name,
-                    "accuracy": round(float(acc), 4),
-                    "precision": round(float(prec), 4),
-                    "recall": round(float(rec), 4),
-                    "f1_score": round(float(f1), 4),
-                }
-            )
-            if f1 > best_score:
-                best_score = f1
-                best_name = name
-                best_pipe = pipe
-
-        assert best_pipe is not None
-        # Phase 3: Explainability summary for tree-based selected models.
-        importances = self._feature_importance(best_pipe)
-
-        # Phase 4: Metrics packaging for reporting and UI dashboard display.
-        metrics = {
-            "selected_model": best_name,
-            "selection_criterion": "Highest F1-score on stratified hold-out test set (imbalance handled via class_weight).",
-            "results": rows,
-            "feature_columns": list(NUMERIC_FEATURES) + list(CATEGORICAL_FEATURES),
-            "feature_importance": importances,
-        }
+        # Phase 3/4: Explainability extraction and metrics packaging.
+        metrics = self._build_metrics_payload(best_name, rows, best_pipe)
 
         # Phase 5: Persist model bundle and companion files.
-        model_path.parent.mkdir(parents=True, exist_ok=True)
-        bundle = {
-            "pipeline": best_pipe,
-            "name": best_name,
-            "numeric": list(NUMERIC_FEATURES),
-            "categorical": list(CATEGORICAL_FEATURES),
-        }
-        joblib.dump(bundle, model_path)
-        pkl_path = model_path.with_name("trained_model.pkl")
-        shutil.copyfile(model_path, pkl_path)
-        metrics_path.write_text(json.dumps(metrics, indent=2), encoding="utf-8")
+        self._persist_artifacts(best_pipe, best_name, metrics, model_path, metrics_path)
         return TrainingResult(metrics=metrics, model_path=model_path)
 
     def _feature_importance(self, pipe: Pipeline) -> list[dict[str, float]]:
