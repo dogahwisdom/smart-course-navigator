@@ -1,4 +1,13 @@
-"""Train, evaluate, persist, and load pass/fail classifiers."""
+"""Model training and inference utilities for pass/fail prediction.
+
+This module encapsulates the full supervised-learning lifecycle used by the
+project:
+1. Load and validate feature matrices.
+2. Train three candidate classifiers behind a shared preprocessing pipeline.
+3. Evaluate with hold-out metrics (accuracy, precision, recall, F1).
+4. Select the best model by F1-score.
+5. Persist the production bundle and JSON metrics for the app/report.
+"""
 from __future__ import annotations
 
 import json
@@ -32,17 +41,27 @@ from utils.preprocessing import (
 
 @dataclass
 class TrainingResult:
+    """Container for training outputs returned to CLI/notebook callers."""
+
     metrics: dict[str, Any]
     model_path: Path
 
 
 class MLPipeline:
-    """Fits three estimators, selects best by macro F1 on the positive class context."""
+    """Train/evaluate candidate models and persist the selected estimator.
+
+    Notes for teammates:
+    - The same preprocessing transformer is reused for each candidate model to
+      keep comparisons fair.
+    - F1-score is used as the selection criterion because it balances precision
+      and recall for classification tasks where class balance may shift.
+    """
 
     def __init__(self, random_state: int = 42) -> None:
         self.random_state = random_state
 
     def _estimators(self) -> dict[str, Any]:
+        """Return configured candidate estimators for model benchmarking."""
         return {
             "logistic_regression": LogisticRegression(
                 max_iter=2500,
@@ -67,11 +86,23 @@ class MLPipeline:
         }
 
     def train_and_save(self, csv_path: Path, model_path: Path, metrics_path: Path) -> TrainingResult:
+        """Run the full training pipeline and persist artifacts.
+
+        Args:
+            csv_path: Input dataset path.
+            model_path: Output path for serialized model bundle (joblib).
+            metrics_path: Output path for evaluation metrics JSON.
+
+        Returns:
+            TrainingResult containing metrics payload and model file path.
+        """
+        # Phase 1: Data load and hold-out split.
         X, y = load_training_frame(str(csv_path))
         X_train, X_test, y_train, y_test = train_test_split(
             X, y, test_size=0.25, stratify=y, random_state=self.random_state
         )
 
+        # Phase 2: Candidate model training and evaluation.
         rows: list[dict[str, Any]] = []
         best_name = ""
         best_score = -1.0
@@ -100,8 +131,10 @@ class MLPipeline:
                 best_pipe = pipe
 
         assert best_pipe is not None
+        # Phase 3: Explainability summary for tree-based selected models.
         importances = self._feature_importance(best_pipe)
 
+        # Phase 4: Metrics packaging for reporting and UI dashboard display.
         metrics = {
             "selected_model": best_name,
             "selection_criterion": "Highest F1-score on stratified hold-out test set (imbalance handled via class_weight).",
@@ -110,6 +143,7 @@ class MLPipeline:
             "feature_importance": importances,
         }
 
+        # Phase 5: Persist model bundle and companion files.
         model_path.parent.mkdir(parents=True, exist_ok=True)
         bundle = {
             "pipeline": best_pipe,
@@ -124,6 +158,7 @@ class MLPipeline:
         return TrainingResult(metrics=metrics, model_path=model_path)
 
     def _feature_importance(self, pipe: Pipeline) -> list[dict[str, float]]:
+        """Extract top encoded feature importances if classifier supports it."""
         clf = pipe.named_steps["clf"]
         prep = pipe.named_steps["prep"]
         if not hasattr(clf, "feature_importances_"):
@@ -135,10 +170,12 @@ class MLPipeline:
 
 
 def load_model_bundle(model_path: Path) -> dict[str, Any]:
+    """Load persisted model bundle from disk."""
     return joblib.load(model_path)
 
 
 def predict_pass_probability(bundle: dict[str, Any], row: dict[str, Any]) -> float:
+    """Predict pass probability for a single candidate course row."""
     frame = pd.DataFrame([{k: row[k] for k in bundle["numeric"] + bundle["categorical"]}])
     proba = bundle["pipeline"].predict_proba(frame)[:, 1]
     return float(proba[0])

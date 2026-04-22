@@ -184,6 +184,25 @@ class StreamlitProjectReport:
             "Quantitative metrics are summarized in the performance dashboard and embedded figures. Qualitative "
             "review confirms that reasoning strings map to cohort statistics and individualized probabilities."
         )
+        self.doc.add_heading("Business Intelligence EDA Highlights", level=2)
+        self.doc.add_paragraph(
+            "The following exploratory visualizations summarize feature behaviour and cohort trends prior to and "
+            "alongside model development."
+        )
+        bi_eda_shots = [
+            (
+                ROOT / "screenshots" / "notebook" / "03_bi_eda_distributions_and_correlation.png",
+                "Figure: BI EDA visual showing GPA distribution by pass/fail and feature correlation heatmap.",
+            ),
+            (
+                ROOT / "screenshots" / "notebook" / "04_bi_program_pass_rate.png",
+                "Figure: BI EDA visual showing program-level pass rate comparison.",
+            ),
+        ]
+        for img, caption in bi_eda_shots:
+            if img.exists():
+                self.doc.add_picture(str(img), width=Inches(5.9))
+                self.doc.add_paragraph(caption)
         self.doc.add_heading("Discussion", level=1)
         self.doc.add_paragraph(
             "Synthetic data enable safe academic demonstration; production deployment requires governed extracts, "
@@ -209,19 +228,6 @@ class StreamlitProjectReport:
         ]:
             self.doc.add_paragraph(ref, style="List Bullet")
 
-        self.doc.add_heading("Contributors", level=1)
-        team = [
-            ("Wisdom Dogah", "FCM.41.020.099.23"),
-            ("Faustian Nyamekye", "FCM.41.020.146.23"),
-            ("Owusu Appiah Barimah Kofi Duodu", "FCM.41.020.159.23"),
-            ("De-Graft Prince Kweku", "F.C.M. 41.020.098.23"),
-            ("Cudjoe Jennifer Abena", "FCM. 41.020.096.23"),
-            ("Danquah Joseph", "FCM.41.020.097.23"),
-            ("Kelvin Kandibiga", "FCM.41.020.118.23"),
-        ]
-        for name, index_no in team:
-            self.doc.add_paragraph(f"{name} - {index_no}")
-
         self.doc.add_heading("Appendices", level=1)
         self.doc.add_paragraph(
             "Appendix A: Directory tree (app.py, pages/, utils/, data/, models/). Appendix B: API-free architecture "
@@ -242,6 +248,19 @@ class StreamlitProjectReport:
             if img.exists():
                 self.doc.add_picture(str(img), width=Inches(5.9))
                 self.doc.add_paragraph(caption)
+        self.doc.add_heading("Contributors", level=1)
+        team = [
+            ("Wisdom Dogah", "FCM.41.020.099.23"),
+            ("Faustian Nyamekye", "FCM.41.020.146.23"),
+            ("Owusu Appiah Barimah Kofi Duodu", "FCM.41.020.159.23"),
+            ("De-Graft Prince Kweku", "F.C.M. 41.020.098.23"),
+            ("Cudjoe Jennifer Abena", "FCM. 41.020.096.23"),
+            ("Danquah Joseph", "FCM.41.020.097.23"),
+            ("Kelvin Kandibiga", "FCM.41.020.118.23"),
+            ("Emmanuel Cudjoe", "F.CM.41.020.095.23"),
+        ]
+        for name, index_no in team:
+            self.doc.add_paragraph(f"{name} - {index_no}")
 
 
 def main() -> None:
