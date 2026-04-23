@@ -8,7 +8,8 @@ from typing import Any
 import pandas as pd
 import streamlit as st
 
-from utils.ml_pipeline import load_model_bundle
+from data.generate_dataset import SyntheticAcademicDatasetBuilder
+from utils.ml_pipeline import MLPipeline, load_model_bundle
 from utils.paths import DATASET_CSV, METRICS_PATH, MODEL_PATH
 from utils.risk_analysis import build_program_course_index
 
@@ -51,8 +52,25 @@ def load_dataset() -> pd.DataFrame:
 
 @st.cache_resource(show_spinner=False)
 def load_bundle() -> dict[str, Any]:
-    """Load serialized model bundle once per process."""
-    return load_model_bundle(MODEL_PATH)
+    """Load serialized model bundle once per process.
+
+    Streamlit Cloud/runtime Python versions can differ from the training
+    environment, which may make old joblib artifacts unreadable. In that case,
+    regenerate dataset/model artifacts and load a fresh compatible bundle.
+    """
+    if not DATASET_CSV.exists():
+        DATASET_CSV.parent.mkdir(parents=True, exist_ok=True)
+        SyntheticAcademicDatasetBuilder(seed=42).build(1500).to_csv(DATASET_CSV, index=False)
+
+    if not MODEL_PATH.exists():
+        MLPipeline(random_state=42).train_and_save(DATASET_CSV, MODEL_PATH, METRICS_PATH)
+        return load_model_bundle(MODEL_PATH)
+
+    try:
+        return load_model_bundle(MODEL_PATH)
+    except Exception:
+        MLPipeline(random_state=42).train_and_save(DATASET_CSV, MODEL_PATH, METRICS_PATH)
+        return load_model_bundle(MODEL_PATH)
 
 
 @st.cache_data(show_spinner=False)
